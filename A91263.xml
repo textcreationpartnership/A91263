@@ -1,0 +1,2892 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A seasonable, legall, and historicall vindication and chronologicall collection of the good, old, fundamentall, liberties, franchises, rights, laws of all English freemen (their best inheritance, birthright, security, against arbitrary, tyrannicall, and Egyptian burdens) and of their strenuous defence in all former ages; of late years most dangerously undermined, and almost totally subverted, under the specious disguise of their defence and future establishment, upon a sure basis, their pretended, greatest propugners. Wherein is irrefragably evinced by Parliamentary records, proofs, presidents, that we have such fundamentall liberties, ... that to attempt or effect the subversion of all or any of them, ... is high treason: ... / By William Prynne of Swainswick, Esquire.</title>
+            <title>Seasonable, legall, and historicall vindication and chronologicall collection of the good, old, fundamentall, liberties, franchises, rights, laws of all English freemen. Part 1</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 153 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91263</idno>
+            <idno type="STC">Wing P4062</idno>
+            <idno type="STC">Thomason E812_10</idno>
+            <idno type="STC">ESTC R207634</idno>
+            <idno type="EEBO-CITATION">99866673</idno>
+            <idno type="PROQUEST">99866673</idno>
+            <idno type="VID">118951</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91263)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118951)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 123:E812[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A seasonable, legall, and historicall vindication and chronologicall collection of the good, old, fundamentall, liberties, franchises, rights, laws of all English freemen (their best inheritance, birthright, security, against arbitrary, tyrannicall, and Egyptian burdens) and of their strenuous defence in all former ages; of late years most dangerously undermined, and almost totally subverted, under the specious disguise of their defence and future establishment, upon a sure basis, their pretended, greatest propugners. Wherein is irrefragably evinced by Parliamentary records, proofs, presidents, that we have such fundamentall liberties, ... that to attempt or effect the subversion of all or any of them, ... is high treason: ... / By William Prynne of Swainswick, Esquire.</title>
+                  <title>Seasonable, legall, and historicall vindication and chronologicall collection of the good, old, fundamentall, liberties, franchises, rights, laws of all English freemen. Part 1</title>
+                  <author>Prynne, William, 1600-1669.</author>
+               </titleStmt>
+               <extent>[2], 60 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the authour, and are to be sold by Edward Thomas in Green Arbour,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Second and third parts were published in 1655 and 1657.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e., September] 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Constitutional history --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118951:1" rendition="simple:additions"/>
+            <p>A
+SEASONABLE, LEGALL,
+AND
+HISTORICALL VINDICATION
+AND
+<hi>Chronologicall COLLECTION</hi> of the Good, Old, Funda<g ref="char:EOLhyphen"/>mentall,
+<hi>Liberties, Franchiſes, Rights, Laws of all Engliſh Free<g ref="char:EOLhyphen"/>men</hi>
+(their beſt <hi>Inheritance, Birthright, Security,</hi> againſt
+<hi>Arbitrary, Tyrannicall, and</hi> Egyptian <hi>Burdens</hi>) and of their <hi>ſtre<g ref="char:EOLhyphen"/>nuous
+Defence in all former Ages;</hi> of late years moſt <hi>dangerouſly
+undermined, and almoſt totally ſubverted,</hi> under the ſpecious
+<hi>Diſguiſe</hi> of their <hi>Defence</hi> and <hi>future Establiſhment,</hi> upon a <hi>Sure
+Baſis,</hi> their Pretended, <hi>Greateſt Propugners.</hi>
+            </p>
+            <p>Wherein is
+Irrefragably evinced by <hi>Parliamentary Records, Proofs, Preſidents,
+That we have ſuch</hi> Fundamentall <hi>Liberties, Franchiſes, Rights, Laws, That
+to attempt or effect the Subverſion of all or any of them, (or of our Fun<g ref="char:EOLhyphen"/>damentall
+Government) by Fraud or Force,</hi> is <hi>High Treaſon:</hi> The principall of
+them ſummed up in <hi>9 Propoſitions:</hi> The chief printed <hi>Treatiſes</hi> aſſerting them,
+ſpecified: <hi>A Chronologicall History of our Anceſtors zeal, vigilancy, courage,
+prudence, in gaining, regaining, enlarging, defending, oft confirming, and perpe<g ref="char:EOLhyphen"/>tuating
+them to posterity,</hi> by <hi>Great Charters,</hi> Statutes, New <hi>Confirmations, Ex<g ref="char:EOLhyphen"/>communications,
+Speciall Conſervators, Conſultations, Petitions, Declarations,
+Remonstrances, Oaths, Proteſtations, Vows, Leagues, Covenants,</hi> and like<g ref="char:EOLhyphen"/>wiſe
+by their <hi>Arms,</hi> when neceſſitated during all the <hi>Britons, Saxons, Danes,
+Normans</hi> and <hi>Engliſh Kings</hi> Reigns, till this preſent; collected for preſent
+and future publick benefit: With a Brief Touch of their late <hi>unparalelled
+Infringements</hi> and <hi>Subverſions</hi> in every particular: The <hi>Triall of all Ma<g ref="char:EOLhyphen"/>lefactors</hi>
+by their <hi>Peers,</hi> and <hi>Juries,</hi> juſtified, as the onely <hi>legal, beſt,</hi> moſt <hi>in<g ref="char:EOLhyphen"/>different;</hi>
+and all other late arbitrary Judicatories, erected for their Triall, ex<g ref="char:EOLhyphen"/>ploded,
+<hi>deſtructive both to our Fundamentall Laws and Liberties.</hi>
+            </p>
+            <p>Collected, recommended to the whole <hi>Engliſh Nation,</hi> as the beſt <hi>Legacy,</hi> he
+can leave them.</p>
+            <p>
+               <hi>By</hi> William Prynne <hi>of</hi> Swainſwick, <hi>Eſquire.</hi>
+            </p>
+            <bibl>Pſalm 11. 3.</bibl>
+            <q>If the <hi>Foundations</hi> be deſtroyed, what can the righteous do?</q>
+            <bibl>Pſalm 82 5.</bibl>
+            <q>They know not, neither will they underſtand, they walk on, <hi>&amp;c.</hi>
+            </q>
+            <bibl>Dan. 7. 24 25, 26.</bibl>
+            <q>And another ſhall ariſe after the Kings, <hi>&amp;c.</hi>
+            </q>
+            <p>
+               <hi>London</hi> Printed for the Authour, and are to be ſold by <hi>Edward
+Thomas</hi> in <hi>Green Arbour,</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="vindication">
+            <pb facs="tcp:118951:2"/>
+            <pb n="1" facs="tcp:118951:2"/>
+            <head>A Seaſonable, Hiſtorical, Legal,
+VINDICATION,
+AND
+CHRONOLOGICAL COLLECTION</head>
+            <head type="sub">Of the good Old Fundamental Liberties,
+Franchiſes, Rights, Laws, of all Engliſh Freemen;
+(their beſt Inheritance, Birth-right, Security, againſt
+Arbitrary Tyranny, Egyptian Slavery and Burdens)
+of late yeers moſt dangerouſly undermined, oppug<g ref="char:EOLhyphen"/>ned,
+and almost totally ſubverted, under the ſpeci<g ref="char:EOLhyphen"/>ous
+feigned Diſguiſe of their Defence, Enlarge<g ref="char:EOLhyphen"/>ment,
+and future Eſtabliſhment upon a ſure Baſis.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>T is an univerſal received</hi> Principle,
+<hi>and</hi> experimental Truth, <hi>beyond all
+contradiction,</hi> That no natural ſtru<g ref="char:EOLhyphen"/>cture,
+no artificial Building, no Civil
+or Eccleſiaſtical Corporation, Realm,
+Reipublike, Government, or Society of
+men; no Art nor Science whatſoever,
+can poſſibly be erected, ſupported, eſta<g ref="char:EOLhyphen"/>bliſhed,
+preſerved, or continued in their
+being or well-being, without <hi>FOUNDATIONS; whereon
+as they were at firſt</hi> erected, <hi>ſo they muſt neceſſarily ſtill</hi>
+               <pb n="2" facs="tcp:118951:3"/>
+depend, <hi>or elſe they will preſently fall to</hi> utter ruine.</p>
+            <p>Hence it is, (to wave all Humane Authorities in ſo clear
+a Verity) that in God's own ſacred unerring<note n="a" place="margin">Jo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 17. 17. 2 Cor. 6. 7. Eph. 1. 13. Jam. 1. 18</note> 
+               <hi>Word of
+Truth,</hi> we find frequent mention of the natural<note n="b" place="margin">2 Sam. 22. 8, 16. Jo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 38. 4, 6. Pſal 18. 15 <hi>&amp; 102. 25. &amp;</hi> 104. 5. Prov. 8. 29 Iſa. 24. 18. <hi>&amp; 40. 21. &amp; 48. 13. &amp;</hi> 51. 13, 16. <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er. 31. 17. Zech. 12 1. Mi<g ref="char:EOLhyphen"/>ca. 1. 6. Jo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 17. 24. Epheſ. 4. 4. Heb. 1. 10. <hi>&amp; 4. 3. &amp;</hi> 9 26. 1 Pet. 1 20.</note> 
+               <hi>FOUN<g ref="char:EOLhyphen"/>DATIONS</hi>
+of the vaſt natural Fabrick of the Earth, Hea<g ref="char:EOLhyphen"/>vens,
+and World it ſelf; of the Artificial Material<note n="c" place="margin">1 King. 5. 17. <hi>&amp; 6. 37. &amp;</hi> 7. 9, 10. Ez<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 4. 13 <hi>&amp;</hi> 6. 3. Pſa. 137 7. Ezek. 41. 8. Hag. 2. 8. Zech. 4 9 <hi>&amp;</hi> 8. 9. Mat. 7. 26, 27. Luke 6 48, 49.</note> 
+               <hi>FOUN<g ref="char:EOLhyphen"/>DATIONS</hi>
+of the <hi>material Temple,</hi> walls, <hi>City; of Gods own</hi>
+moſt famous city <hi>Jeruſalem;</hi> and of private houſes: of the
+Spiritual<note n="d" place="margin">Iſa. 28. 16. <hi>&amp;</hi> 54. 11. Pſal. 87. 1. 1 Cor. 3. 10, 11, 12. Heb. 11. 10. 1 Pet. 2. 6. Rev. 21. 14, 19.</note> 
+               <hi>FOUNDATION</hi> of the <hi>Spiritual Temple, City
+Jeruſalem,</hi> and <hi>whole Church of God;</hi> even <hi>Jeſus Christ him<g ref="char:EOLhyphen"/>ſelf:</hi>
+of the Doctrinal<note n="e" place="margin">2 Tim 1. 19. Heb. 6 1, 2.</note> 
+               <hi>FOUNDATIONS,</hi> and <hi>firſt
+Principles of Religion, Chriſtianity, Salvation:</hi> yea, of the Poli<g ref="char:EOLhyphen"/>tical
+<note n="f" place="margin">Jer. 50. 15. Micah 1. 6, 7. Luke 6. 48, 49. M<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. 7. 26, 27.</note> 
+               <hi>FOUNDATIONS</hi> of <hi>Kingdoms, Reipublikes, Chur<g ref="char:EOLhyphen"/>ches,
+Governments, States:</hi> which being once ſhaken, under<g ref="char:EOLhyphen"/>mined,
+ſubverted, razed, or deſtroyed, bring unavoidable
+ruine and deſolation upon them, (<hi>Pſal. 11. 3. Pſal.</hi> 82. 5, 6.
+<hi>Jer.</hi> 50. 17. &amp; 51. 15, 16. <hi>Mic.</hi> 1. 6, 7, 9.) even as we daily
+ſee <hi>Caſtles, Walls, Houſes,</hi> to fall inſtantly to the ground, and
+become an heap of Confuſion, when their <hi>Foundations</hi> are
+blown up, decayed, or demoliſhed.</p>
+            <p>Upon which conſideration, thoſe <hi>Publike Laws,</hi> which
+eſtabliſh, fence, fortifie, ſupport the <hi>Fundamental</hi> Conſti<g ref="char:EOLhyphen"/>tutions,
+Rights, Liberties, Priviledges, of any Nation,
+Kingdom, Reipublike, (eſſential to their <hi>being</hi> and <hi>ſubſiſt<g ref="char:EOLhyphen"/>ence,</hi>
+as a <hi>free</hi> or <hi>happie</hi> people, againſt the <hi>Invaſions, Under<g ref="char:EOLhyphen"/>minings,
+Encroachments,</hi> of any <hi>Tyrants, Uſurpers, O preſſors,</hi>
+or <hi>publike Enemies,</hi> are uſually ſtiled FUNDAMENTAL
+LAWS; and have ever been reputed ſo <hi>ſacred, inviolable,
+immutable,</hi> in all ages, upon any Pretences of <hi>Neceſſity,</hi> or
+<hi>Publike Safety,</hi> that moſt Nations, and our own <hi>Engliſh
+Anceſtors,</hi> above others, have freely choſen to hazard, yea
+loſe their <hi>Eſtates, Lives,</hi> in their <hi>just defence,</hi> againſt ſuch
+exorbitant <hi>Tyrannical Kings,</hi> and other <hi>Powers,</hi> who by
+<hi>force</hi> or <hi>policie</hi> have endeavoured to <hi>violate, alter,</hi> or <hi>ſub<g ref="char:EOLhyphen"/>vert</hi>
+them, rather then out of <hi>Cowardize, S<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tt<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhneſs, Care<g ref="char:EOLhyphen"/>leſneſs,</hi>
+or want of cordial <hi>love</hi> to the Publike, to ſuffer the
+leaſt <hi>infringement, repeal,</hi> or <hi>alteration</hi> of them, to the in<g ref="char:EOLhyphen"/>thralling
+of Themſelves, or their Poſterities, to the <hi>arbi<g ref="char:EOLhyphen"/>trary
+<pb n="3" facs="tcp:118951:3"/>
+Wills</hi> of ſuch <hi>Domineering Tyrants,</hi> and <hi>Uſurping
+Powers.</hi>
+            </p>
+            <p>Now becauſe, after all our <hi>Old</hi> and <hi>New</hi> (many yeers)
+bloody, coſtly, dangerous <hi>Contests</hi> and <hi>Wars,</hi> for the <hi>main<g ref="char:EOLhyphen"/>tenance</hi>
+of our <hi>Good Old Fundamental Liberties, Laws, Rights,
+Priviledges,</hi> againſt all ſecret or open <hi>underminers</hi> of them,
+I clearly behold, with grief of heart, that there is a <hi>ſtrange
+monſtrous Generation of New TYRANNICAL STATE-HERETICKS</hi>
+ſprung up among us; who are grown ſo de<g ref="char:EOLhyphen"/>ſperately
+impudent, as not onely to <hi>write,</hi> but publikely to
+<hi>aſſert in Print,</hi> (in<note n="a" place="margin">
+                  <hi>Lilb.</hi> tryed and cast, <hi>p.</hi> 39, 40, 142, to 148. 154. <hi>J. Canne's</hi> Voice from the Temple, which perſwades the ſubverſion and aboliſhing of all former Laws, eſpecially for Tythes &amp; Mini<g ref="char:EOLhyphen"/>ſters ſupport.</note> 
+               <hi>Books</hi> printed by AUTHORITY,
+even in <hi>Capitals</hi> in the very <hi>Title-page) That the Free-men
+and People of England have no ſuch unalterable Fundamental
+Laws and Liberties left them by their forefathers,</hi> (as our <hi>An<g ref="char:EOLhyphen"/>ceſtors</hi>
+heretofore conteſted for, both in the Field and
+Parliament-Houſe, with <hi>William</hi> the Conqueror, <hi>Henry</hi> the
+firſt, King <hi>John, Henry</hi> the third, <hi>Edward 1, 2, 3. Richard</hi>
+the ſecond, with other Kings and Princes; and our late
+<hi>Parliaments</hi> and <hi>Armies</hi> too, with King <hi>James,</hi> and King
+<hi>Charles.) That neither</hi> Magna Charta, <hi>nor the</hi> Petition of
+Right, <hi>nor the Laws for trying malefactors by Juries of their
+peers, are Fundamental, or unalterable; but that the</hi> STATE-PHYSITIANS
+(or rather Mountebanks) <hi>of our time, (who
+are not tied up to them, but left free unto themſelves) may lay
+them quite aſide, either in part or whole, as they ſee cauſe:</hi> Yea,
+(having now attained to ſuch a ſuper-tranſcendent Autho<g ref="char:EOLhyphen"/>rity,
+as) may (as they aſſert) LAY ASIDE ALL PAR<g ref="char:EOLhyphen"/>LIAMENTS
+and PARLIAMENTARY WAYS, <hi>and
+appoint SOMETHING ELSE, as more ſeaſonable and pro<g ref="char:EOLhyphen"/>per
+to us, and as Providence makes way for it, if they ſee it
+more conducing to the ſafety and good of the Commonwealth,</hi>
+(that is, to their own private Intereſts, Honours, Profits,
+Securities, Deſignes, Oppreſſions, Rapines, gilded over
+with this ſpecious pretext.) And then peremptorily con<g ref="char:EOLhyphen"/>clude,
+<hi>That to plead for theſe and ot<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er Fundamental Laws and
+L<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>berties, as unalterable,</hi> (though the onely Bulwarks and
+Badges of our Freedom) <hi>is nothing elſe but to enſlave the
+Nation: for by ſuch a Principle, People do not onely loſe their
+<pb n="4" facs="tcp:118951:4"/>
+Liberty, but are brought under ſuch a kinde of Tyranny, out
+of which (AS BEING WORSE THEN THE AEGYP<g ref="char:EOLhyphen"/>TIAN
+BONDAGE) there is no hope of deliverance.</hi> An
+abſurd Tyrannical Paradox, tranſcending any I ever yet
+met with in any Author; ſtripping us naked of all our
+long-enjoyed Laws, Liberties, Franchiſes, Great Char<g ref="char:EOLhyphen"/>ters,
+at once; tending onely to reduce, and perpetually
+inthral us under ſuch an abſolute AEGYPTIAN BON<g ref="char:EOLhyphen"/>DAGE
+and <hi>Tyranny,</hi> without any hope of future delive<g ref="char:EOLhyphen"/>rance
+from it, which ſome now endeavour to <hi>enta<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</hi> on us
+and our poſterities for ever, by an <hi>Iron Law,</hi> and <hi>Yoke of
+Steel,</hi> in ſtead of reſtoring to us that <hi>Glorious Freedom,</hi>
+which we have ſo long expected from them in vain.</p>
+            <p>And becauſe I finde the Generality of the <hi>Nobility,
+Gentry, Clergie, Commonalty,</hi> of our Nation, after all their
+late yeers <hi>expenſive bloody wars,</hi> and <hi>Parliamentary Diſputes,</hi>
+for the defence and preſervation of theſe our Ancient He<g ref="char:EOLhyphen"/>reditary
+Fundamental Charters, Laws, Liberties, Privi<g ref="char:EOLhyphen"/>ledges,
+ſo ſtrangely degenerated both from themſelves,
+and their <hi>Heroick prudent Ancestors,</hi> as that they are
+more readily inclined, upon every occaſion, out of a baſe,
+un-Chriſtian, unmanly, un-Engliſh <hi>fear,</hi> or ſottiſh <hi>cowar<g ref="char:EOLhyphen"/>dice</hi>
+and <hi>ſtupidity,</hi> wittingly to deſert, betray, ſurrender
+them all up into the hands of any <hi>invading Uſurpers,</hi> with<g ref="char:EOLhyphen"/>out
+the leaſt Publike Claim, Diſſertation, Defence, or Diſ<g ref="char:EOLhyphen"/>pute;
+then diligently or couragiouſly to contend for them,
+as of late they did: So as that which <hi>Paul</hi> once taxed in
+the ſlaviſh beſotted <hi>Corinthians,</hi> 2 Epiſt. 11. 20. may be
+moſt truly averred of our <hi>degenerated, inſatuated,</hi> Engliſh
+Nation: <hi>Ye ſuffer if a man bring you into bondage, if a man
+devour you, if a man take of you, if a man exalt himſelf,</hi> (a<g ref="char:EOLhyphen"/>bove
+your Laws, Liberties, Franchiſes, Parliaments, Kings,
+Nobles, Properties, Lives, Conſciences, and<note n="a" place="margin">2 Theſ. 2. 4.</note> 
+               <hi>all that is
+called God, or worſhipped) if a man ſmite you on the face;</hi>
+notwithſtanding all their manifold late<note n="b" place="margin">See Exact collect. and a general Collect. of all Ordinan<g ref="char:EOLhyphen"/>ces, <hi>&amp;c.</hi>
+               </note> 
+               <hi>Protestations,
+Vows, Covenants, Remonſtrances, Declarations,</hi> and <hi>Publike
+Engagements,</hi> to the contrary. And withal, after diligent
+enquiry, diſcovering ſcarce one man of <hi>Eminencie</hi> or <hi>Power</hi>
+               <pb n="5" facs="tcp:118951:4"/>
+in the Nation, nor ſo much as one of my <hi>degenerated tem<g ref="char:EOLhyphen"/>porizing</hi>
+Profeſſion of the <hi>Law,</hi> (even when the<note n="c" place="margin">See Culpe<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r's <hi>&amp;</hi> Lilly's <hi>Merlins &amp; Al<g ref="char:EOLhyphen"/>manacks,</hi> John Can'<hi>s 2 Voice,</hi> Lilb. <hi>tried and caſt; with many Pe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>itions and Pamphlets a<g ref="char:EOLhyphen"/>gainſt the Law and Lawyers. The Order of</hi> Aug. 19. 1653. That there ſhould be a Committee ſe<g ref="char:EOLhyphen"/>lected to con<g ref="char:EOLhyphen"/>ſider of A NEW BODY of the Law, for the go<g ref="char:EOLhyphen"/>vernment of this Common<g ref="char:EOLhyphen"/>wealth.</note> 
+               <hi>whole
+Body</hi> of our Laws, and all its <hi>Profeſſors,</hi> are <hi>violently aſſault<g ref="char:EOLhyphen"/>ed,</hi>
+and devoted unto ſudden ruine, by many <hi>lawleſs ſpirits</hi>)
+who hath ſo much Courage, Magnanimity, Honeſty, Zeal,
+or cordial Love to his native Country, remaining in his
+breſt, as manfully to appear in Publike, for the <hi>ſtrenuous
+neceſſary defence</hi> of theſe our <hi>Hereditary, Fundamental Laws,
+Liberties, Rights, Franchiſes,</hi> (though their own, and every
+other <hi>Engliſh Freeman</hi>'s beſt <hi>Inheritance</hi> and <hi>Security</hi>) for
+fear of being perſecuted, impriſoned, cloſe impriſoned,
+exiled, condemned, deſtroyed, as a Traytor, Rebel, Sedi<g ref="char:EOLhyphen"/>tious
+perſon, Enemy to the Publike, or diſturber of the
+Kingdoms Peace, by thoſe who are truely ſuch: I there<g ref="char:EOLhyphen"/>upon
+conceived, I could not undertake or perform a more
+neceſſary, ſeaſonable, beneficial Service for my Country,
+(and not to be like thoſe, who are aſhamed, afraid, for the
+moſt part, to own, viſit, or be ſeen in the company of thoſe
+<hi>Gallant men,</hi> much leſs to aſſiſt, defend, and ſtick cloſe un<g ref="char:EOLhyphen"/>to
+them in their <hi>dangers,</hi> according to the ſixth Article of
+their late <hi>Solemn League and Covenant,</hi> who have ſuffered,
+acted, and ſtood up moſt for their <hi>Common Liberties, Rights,
+Freedoms, Religion,</hi> againſt all invading Tyrants, to their
+great diſcouragement and betraying) nor pitch upon any
+Subject more proper for me, either as a <hi>common Lawyer,</hi> or
+as a <hi>conſtant Advocate</hi> and <hi>Sufferer for the Publike Cauſe,</hi> and
+<hi>Liberties of the Nation,</hi> as well under our late extravagant
+<hi>Free-State,</hi> as former <hi>Regal</hi> and <hi>Epiſcopal arbitrary Tyranny,</hi>
+then in this juncture of our publike affairs, to preſent our
+whole diſtracted unſetled <hi>Kingdom</hi> with <hi>An Hiſtorical and
+Legal Vindication, and Chronological Collection,</hi> in all Ages,
+of theſe Ancient Hereditary <hi>Liberties, Franchiſes,
+Rights, Conteſts, Laws, Charters, Records, Monuments</hi> of
+former and late times, for their <hi>Confirmation,</hi> and <hi>inviolable
+Obſervation,</hi> which our <hi>Anceſtors</hi> and our <hi>Selves</hi> have al<g ref="char:EOLhyphen"/>ways
+hitherto reputed FUNDAMENTAL, UNALTER<g ref="char:EOLhyphen"/>ABLE,
+INVIOLABLE, upon any pretext; and have moſt
+<hi>eagerly contended for,</hi> with the prodigal expence of many
+<pb n="6" facs="tcp:118951:5"/>
+               <hi>millions</hi> of <hi>Treaſure,</hi> and <hi>whole oceans</hi> of gallant <hi>Christian
+Engl<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh blood.</hi>
+            </p>
+            <p>And if, upon the ſerious peruſal of them, the <hi>univerſa<g ref="char:EOLhyphen"/>lity</hi>
+of our <hi>degenerated Nation,</hi> after their many late ſolemn
+<hi>Proteſtations, Vows, Leagues, Covenants, Remonſtrances,</hi> invio<g ref="char:EOLhyphen"/>lably
+to defend and maintain them, ſhall ſtill ſo <hi>underva<g ref="char:EOLhyphen"/>lue</hi>
+them now at laſt, (as <hi>moſt</hi> actually have done) as <hi>not to
+eſteem them worth the owning, maintaining, vindicating,</hi> or
+<hi>perpetuating</hi> any longer; and thereby draw upon their
+heads the <hi>real guilt</hi> of all thoſe <hi>bloody Wars, Murders, Tu<g ref="char:EOLhyphen"/>mults,
+Violencies, Rapines, Oppreſſions, Sins, Miſchiefs, Illegal
+Taxes, Exciſes, Exorb tancies,</hi> which their many late yeers
+pretended <hi>Neceſſary Defence</hi> and <hi>Preſervation</hi> have brought
+upon our three whole Nations; let them henceforth, like
+ſo many daſtardly <hi>conquered Bondſlaves,</hi> bored thorow the
+ears, publikely diſavow, diſclaim, renounce, abjure them,
+for themſelves and their Poſterities for ever, as meer
+<hi>worthleſs toys,</hi> or <hi>pernicious inventions,</hi> fit onely to kindle
+perpetual Wars and Diſcords between King and People,
+Head and Members, Superiours and Inferiours; or, as poor
+<hi>ſlender Cobwebs,</hi> (as now they prove) fit to hold none
+within compaſs but the very <hi>weakeſt flyes;</hi> broken thorow
+with <hi>eaſe</hi> and <hi>impunity</hi> by every <hi>greater fly,</hi> creeping up into
+any <hi>Power</hi> or <hi>Supreme Authority,</hi> by <hi>Right</hi> or <hi>Wrong;</hi> and
+<hi>ſwept down to the very ground,</hi> by every <hi>New Broom</hi> in the
+hand of <hi>upſtart Innovators.</hi>
+            </p>
+            <p>But if, upon ſaddeſt deliberation, they ſhall really eſti<g ref="char:EOLhyphen"/>mate
+them to be ſuch <hi>incomparable, rich, precious jewels,</hi> and
+<hi>ancient inheritances,</hi> as are every way worth the infinite
+Treaſures, Wars, Blood, Cares, Conſultations, Troubles,
+heretofore and of late yeers expended, both to gain, re<g ref="char:EOLhyphen"/>tain,
+confirm, and perpetuate them, to them and their po<g ref="char:EOLhyphen"/>ſterities
+for ever, as their principal <hi>earthly Security</hi> and
+<hi>Pea<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itude;</hi> I hope they will all then unanimouſly hence<g ref="char:EOLhyphen"/>forth
+conclude with the <hi>Poe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi>
+            </p>
+            <p>
+               <hi>Non minor eſt virtus quàm quaerere, PARTA TUERI:</hi>
+and both by their <hi>Votes,</hi> and <hi>Actions,</hi> return the ſelf-ſame
+peremptory magnanimous anſwer to any <hi>Caeſar, Conqueror,
+<pb n="7" facs="tcp:118951:5"/>
+Potentate, Power,</hi> or <hi>Combination</hi> of men whatſoever, (who
+ſhall endeavour by force, fraud, or flattery, to compel or
+perſwade them, to ſell, reſigne, betray, or give up theſe
+their <hi>Anceſtral</hi> Priviledges, Inheritances, Birth-rights, to
+them) as <hi>Naboth</hi> once did to King <hi>Ahab, 1 King.</hi> 21. 3.
+<hi>The Lord forbid it us, that we ſhould give</hi> (ſell, or betray) <hi>the
+INHERITANCE OF OUR FATHERS</hi> (and our Poſte<g ref="char:EOLhyphen"/>rities
+likewiſe) <hi>unto thee,</hi> or you; though they ſhould ſuf<g ref="char:EOLhyphen"/>fer
+for this Anſwer and refuſal, as much as <hi>Naboth</hi> did from
+<hi>bloody Ahab</hi> and <hi>Jezebel.</hi>
+            </p>
+            <p>But whatever <hi>lowe price</hi> or <hi>estim<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te</hi> this <hi>ſpurious, ſtupid,
+ſordid, ſlaviſh Age</hi> may ſet upon theſe <hi>richeſt Pearls;</hi> yet
+for my own particular, upon ſerious conſideration of theſe
+<hi>Chronological Collections,</hi> and the Solemn Oathes, Prote<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>a<g ref="char:EOLhyphen"/>tions,
+Vows, <hi>League and Covenant,</hi> obliging me to defend
+them to the uttermoſt; I value the whole <hi>Nations publike,</hi>
+and <hi>my own</hi> (with my <hi>cordial friends) private intereſt</hi> in
+them, at ſo <hi>high a rate,</hi> that I would rather <hi>chearfully part
+with ten thouſand lives, and all the treaſures of the Nation,</hi>
+were I owner of them, then wittingly, negligently, or un<g ref="char:EOLhyphen"/>worthily
+ſell, betray, or reſigne them up to any Mortals
+or <hi>Powers</hi> whatſoever, upon any Pretences or Conditions,
+after all my former Publications, Conteſts, Sufferings, <hi>&amp;c.</hi>
+for their <hi>juſt</hi> Defence.</p>
+            <p>Now to the end all others might now take ſpecial no<g ref="char:EOLhyphen"/>tice
+of the ineſtimable value our Anceſtors in all Ages
+have ſet upon them, and what ſucceſſive Wars, Conflicts,
+they have chearfully undertaken for their preſervation; I
+have, at <hi>vacant hours</hi> compiled this enſuing <hi>Vindication and
+Collection</hi> of the <hi>O<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Fund<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mental Liberties, Franchiſes, Laws</hi>
+of all <hi>E<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gliſh Free-men,</hi> which I ſhall bequeath to my <hi>moſt
+beloved native Country</hi> in general, and every real <hi>Heroick
+Patron</hi> of them in particular, as the <hi>beſt Legacie</hi> I can leave
+behinde me, both for their <hi>preſent</hi> and <hi>future Enfranchiſe<g ref="char:EOLhyphen"/>ment,
+Immunity, Security</hi> from all <hi>Arbitrary tyranny, Slave<g ref="char:EOLhyphen"/>ry,</hi>
+and <hi>yokes of Bondage,</hi> under which they have a long
+time <hi>langu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhed,</hi> and <hi>lamented,</hi> in the <hi>bitterneſs of their ſpi<g ref="char:EOLhyphen"/>rits.</hi>
+            </p>
+            <p>
+               <pb n="8" facs="tcp:118951:6"/>
+The Method I reſolve herein to purſue, is this:</p>
+            <p>1. <hi>I ſhall produce ſome punctual</hi> Authorities <hi>of mo<g ref="char:EOLhyphen"/>ment,
+to evidence,</hi> That the Kingdom and Free-men of <hi>Eng<g ref="char:EOLhyphen"/>land</hi>
+have ſome ancient Hereditary juſt Rights, Liberties, Pri<g ref="char:EOLhyphen"/>viledges,
+Franchiſes, Laws and Customs, properly called FUN<g ref="char:EOLhyphen"/>DAMENTAL;
+and likewiſe a FUNDAMENTAL Go<g ref="char:EOLhyphen"/>vernment,
+no ways to be altered, undermined, ſubverted, di<g ref="char:EOLhyphen"/>rectly
+or indirectly, to the Publike prejudice, under pain of high-Treaſon
+in thoſe who ſhall attempt it, eſpecially by fraud, force,
+or armed power.</p>
+            <p>2. I ſhall in brief <hi>Propoſitions</hi> preſent you with the
+chiefeſt and moſt conſiderable of them, which our Ance<g ref="char:EOLhyphen"/>ſtors
+in former ages, and our lateſt real Parliaments have
+reſolved to be, and eagerly contended for, as FUNDA<g ref="char:EOLhyphen"/>MENTAL,
+eſſential to their being and well-being, as a
+Free People, Kingdom, Reipublike, unwilling to be <hi>en<g ref="char:EOLhyphen"/>ſlaved</hi>
+under any Yokes of Tyranny, any Arbitrary <hi>Impoſi<g ref="char:EOLhyphen"/>tions</hi>
+or <hi>Powers</hi> whatſoever. And then give you a brief
+Touch of their ſeveral late <hi>unparallel'd violations,</hi> both by
+the <hi>Edicts</hi> and <hi>Actions</hi> of <hi>uſurping Powers.</hi>
+            </p>
+            <p>3. I ſhall in a <hi>Chronological</hi> way tender you a large <hi>Hi<g ref="char:EOLhyphen"/>ſtorical
+Catalogue</hi> of Conteſts, Votes, Declarations, Re<g ref="char:EOLhyphen"/>monſtrances,
+Oathes, Vows, Proteſtations, Covenants, En<g ref="char:EOLhyphen"/>gagements,
+Evidences, Statutes, Charters, Writs, Records,
+Judgements, and Authorities, in all ages, undeniably evi<g ref="char:EOLhyphen"/>dencing,
+declaring, vindicating, eſtabliſhing, perpetuating
+theſe <hi>Fundamental Hereditary Rights, Liberties, Priviledges,
+Franchiſes, Cuſtoms, Laws,</hi> and abundantly manifeſting the
+extraordinary <hi>care, induſtry, zeal, courage, wiſdom, vigilancy</hi>
+of our <hi>Anceſtors,</hi> to defend, preſerve, and perpetuate them
+to poſterity, without the leaſt <hi>violation</hi> or <hi>diminution.</hi>
+            </p>
+            <p>4. I ſhall vindicate the <hi>excellencie, indifferencie,</hi> and <hi>lega<g ref="char:EOLhyphen"/>lity</hi>
+of <hi>trying</hi> all Malefactors whatſoever by <hi>Juries of their
+peers,</hi> upon <hi>legal Proceſs</hi> and <hi>Indictments;</hi> and manifeſt the
+<hi>illegality, injuſtice, partiality, dangerous conſequences,</hi> of ad<g ref="char:EOLhyphen"/>mitting
+or introducing <hi>any other</hi> form of <hi>Trials,</hi> by <hi>New,
+Arbitrary, Martial Commiſſions,</hi> or <hi>Courts of High Juſtice,</hi> (or
+rather<note n="*" place="margin">Summum jus, eſt ſumma inju<g ref="char:EOLhyphen"/>ria. <hi>C<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c. de Of<g ref="char:EOLhyphen"/>fic<gap reason="illegible" resp="#TECH" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s, p.</hi> 611.</note> 
+               <hi>Injuſtice</hi>) inconſiſtent with, and deſtructive to the
+<pb n="9" facs="tcp:118951:6"/>
+               <hi>Fundamental Rights, Liberties, Priviledges, Laws, Franchiſes</hi>
+of the <hi>Engliſh Nation,</hi> and of moſt dangerous Preſident to
+Poſterity; being ſet up by the greateſt <hi>Pretenders</hi> to Pub<g ref="char:EOLhyphen"/>like
+Liberty, Law, and the chiefeſt inveighers againſt Ar<g ref="char:EOLhyphen"/>bitrary
+Regal Tyranny and Power, which never publike<g ref="char:EOLhyphen"/>ly
+eſtabliſhed them by any Law, and may fall to imitate
+them in future Ages.</p>
+            <p>Each of theſe I intend to proſecute in diſtinct Chapters
+in their order.</p>
+            <p>
+               <hi>For the firſt of theſe:</hi> That the Kingdom and Free-men of <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>England,</hi> have ſome Ancient Hereditary Rights, Liberties, Pri<g ref="char:EOLhyphen"/>viledges,
+Franchiſes, Laws and Cuſtoms, properly called FUN<g ref="char:EOLhyphen"/>DAMENTAL;
+and likewiſe a FUNDAMENTAL <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>O<g ref="char:EOLhyphen"/>VERNMENT,
+no ways to be altered, undermined, ſubverted,
+directly or indirectly, under pain of High-treaſon in thoſe who
+ſhall attempt it, eſpecially by fraud, force, or armed power.</p>
+            <p>I ſhall confirm the firſt part of it, by theſe enſuing pun<g ref="char:EOLhyphen"/>ctual
+Authorities of moment, againſt thoſe<note n="a" place="margin">
+                  <hi>Lilb.</hi> tryed and cast, <hi>p. 39, 40, 142. to</hi> 148 and elſewhere. <hi>John Canne</hi>'s 2 Voice from the Temple. <hi>John Rogers</hi> Mene, T<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l, Per<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z, <hi>p. 6. Lilly</hi> and <hi>Cul<g ref="char:EOLhyphen"/>peper</hi> in their prognoſtications <hi>Anno 1653. &amp; 1654. See the</hi> Armies Propo<g ref="char:EOLhyphen"/>ſals.</note> 
+               <hi>traytorous</hi>
+late-publiſhed Pamphlets, which profeſſedly deny it, and
+endeavour a <hi>total abrogation</hi> of all <hi>former Laws,</hi> to ſet up <hi>a
+New Model</hi> and <hi>Body</hi> of the <hi>Law,</hi> to rule us for the future,
+according to their Pleaſures.</p>
+            <p>The firſt is, the expreſs words of the <hi>Great Charters</hi> of
+the <hi>Liberties of England,</hi> granted by<note n="b" place="margin">
+                  <hi>See</hi> Matth. Paris, p. 216 &amp; Magna Chart. 9, 11. 3 <hi>H.</hi> 3. c. 1. &amp; 38. 25 <hi>E.</hi> 1. c. 1, &amp;c. 28 <hi>E.</hi> 1. c. 1, &amp;c. Cook'<hi>s 2 Inſtit.</hi> p. 2, 77.</note> King <hi>John,</hi> Anno
+1215. in the 17 yeer of his Reign; regranted and con<g ref="char:EOLhyphen"/>firmed
+by King <hi>Henry</hi> the third, in the ninth yeer of his
+Reign, and ſundry times afterwards; and by King <hi>Edward</hi>
+the firſt, in the 25 and 28 yeers of his Reign: wherein
+theſe three Kings ſucceſſively, by their ſeveral <hi>Grand Char<g ref="char:EOLhyphen"/>ters</hi>
+under their <hi>Great Seals,</hi> did <hi>grant, give,</hi> and <hi>confirm,</hi> to
+<hi>all the Free-men of the Realm of England,</hi> FOR THEM<g ref="char:EOLhyphen"/>SELVES
+AND THEIR HEIRS FOR EVER, the <hi>Cu<g ref="char:EOLhyphen"/>stoms,
+Liberties</hi> therein contained; TO HAVE AND TO
+HOLD THEM, TO THEM AND THEIR HEIRS,
+FROM THEM AND THEIR HEIRS FOR EVER. Con<g ref="char:EOLhyphen"/>cluding
+their Charters thus: <hi>All theſe Customs and Liberties
+aforeſaid, which we have granted to be holden within this our
+Realm, as much as appertaineth</hi> TO US AND OUR
+<pb n="10" facs="tcp:118951:7"/>
+HEIRS, WE SHALL OBSERVE. <hi>And</hi> ALL MEN OF
+THIS OUR REALM, AS WELL SPIRITUAL AS
+TEMPORAL, (<hi>as much as in them is) ſhall obſerve the ſame
+againſt all perſons in likewiſe. And we have granted unto
+them,</hi> THAT NEITHER WE NOR OUR HEIRS
+SHALL PROCURE OR DO ANY THING WHERE<g ref="char:EOLhyphen"/>BY
+THE LIBERTIES IN THESE CHARTERS CON<g ref="char:EOLhyphen"/>TAINED,
+SHALL BE INFRINGED OR BROKEN.
+<hi>We ratifying and approving theſe Gifts and Grants aforeſaid,</hi>
+CONFIRM <hi>and</hi> CORROBORATE ALL THE SAME,
+FOR US AND OUR HEIRS PERPETUALLY: <hi>and
+by theſe Pr<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſents</hi> (as the later Charters run) <hi>do renew the
+ſame: Willing and granting,</hi> FOR US AND OUR HEIRS,
+THAT THESE CHARTERS, AND ALL AND SIN<g ref="char:EOLhyphen"/>GULAR
+THEIR ARTICLES, FOR EVER SHALL
+BE STEDFASTLY, FIRMLY, AND INVIOLABLY
+OBSERVED.</p>
+            <p>Sir <hi>Edward Cook,</hi> (that reverend learned Judge and
+Profeſſor of our Laws) in his Preface to his <hi>ſecond Inſti<g ref="char:EOLhyphen"/>tutes,</hi>
+and p. 2. and 77. thereof, wherein he comments on
+this <hi>Great Charter,</hi> (printed by two Orders of the Houſe of
+Commons in Parliament, dated 12 <hi>Maii</hi> 1641. and 30
+<hi>Junit</hi> 1642.) reſolves in direct terms, <hi>That the Great Char<g ref="char:EOLhyphen"/>ter
+was for the moſt part declaratory of the Principal Grounds of
+THE FUNDAMENTAL LAWS OF</hi> ENGLAND:
+<hi>That theſe words therein, [for us and our heirs for ever] were
+added, to avoid all ſcruples;</hi> THAT THIS GREAT PAR<g ref="char:EOLhyphen"/>LIAMENTARY:
+CHARTER MIGHT LIVE AND
+TAKE EFFECT IN ALL SUCCESSIONS OF AGES
+FOR EVER. A clear Reſolution, that the principal Li<g ref="char:EOLhyphen"/>berties,
+Cuſtoms, Laws, contained in theſe <hi>Great Charters,</hi>
+and ratified by them, are both <hi>Fundamental, perpetual,</hi> and
+<hi>unalterable;</hi> being ſince <hi>confirmed in all points by neer fourty
+ſeveral ſpecial Acts of Parliament</hi> in ſucceeding Parliaments:
+and likewiſe by the <hi>Solemn Oathes of our Kings, Nobles,
+Judges, Great Officers,</hi> and of the <hi>People</hi> too, (all ſeveral
+times <hi>ſworn to defend and maintain the ſame</hi>) and by ſundry
+<hi>Solemn Excommunications againſt the infringers or contemners
+<pb n="11" facs="tcp:118951:7"/>
+of them in any kinde;</hi> as I ſhall prove more fully in the third
+Chapter.</p>
+            <p>The ſecond is, the punctual Reſolution of the whole <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+Parliament of 1 <hi>Jacobi,</hi> even in a Printed Act of Parlia<g ref="char:EOLhyphen"/>ment,
+chap. 2. and of King <hi>James</hi> himſelf, in his Speech
+therein, as is evident by this <hi>Prologue</hi> to that Act: <hi>Whereas
+his moſt excellent Majeſtie hath been pleaſed, out of his great
+wiſdom and judgement, not onely to repreſent unto us, by his own
+prudent and Princely Speech on the firſt day of this Parliament,
+how much he deſired (in regard of his inward and gracious af<g ref="char:EOLhyphen"/>fection
+to both the famous and ancient Realms of</hi> England <hi>and</hi>
+Scotland, <hi>now united in Allegiance, and by all ſubjection IN
+HIS ROYAL PERSON, TO HIS MAJESTY AND HIS
+POSTERITY FOR EVER) that by a ſpeedy, mature, and ſound
+Deliberation, ſuch a future Union might follow, as ſhould make
+perfect that mutual love, and uniformity of Maners and Cu<g ref="char:EOLhyphen"/>ſtoms,
+which Almighty God in his providence, for the ſtrength
+and ſafety of both Realms, hath ſo far already begun, in apparent
+ſight of all the world; but alſo hath vouchſafed to expreſs many
+ways, how far it is, and EVER SHALL BE, from his Royal
+and ſincere care and affection to the Subjects of</hi> England, TO
+ALTER OR INNOVATE THE FUNDAMENTAL
+AND ANCIENT LAWS, PRIVILEDGES, &amp; GOOD
+CUSTOMS OF THIS KINGDOM; <hi>whereby not onely</hi>
+HIS ROYAL AUTHORITY, <hi>but</hi> THE PEOPLES SE<g ref="char:EOLhyphen"/>CURITY
+OF LANDS, LIVINGS, <hi>and</hi> PRIVILEDGES
+(<hi>both in General and Particular</hi>) ARE PRESERVED AND
+MAINTAINED;<note place="margin">Nota.</note> 
+               <hi>and,</hi> BY THE ABOLISHING OR
+ALTERATION OF THE WHICH, IT IS IMPOS<g ref="char:EOLhyphen"/>SIBLE
+BUT THAT PRESENT CONFUSION WILL
+FALL UPON THE WHOLE STATE AND FRAME
+OF THIS KINGDOM, <hi>&amp;c.</hi> In which memorable
+Clauſe, theſe four things are obſervable 1. That the
+Kin<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dom and People of <hi>England</hi> have Fundamental anci<g ref="char:EOLhyphen"/>ent
+good Laws, Priviledges, and Cuſtoms. 2. That theſe
+are no ways to be altered or innovated; and that it always
+hath been, is, and ever ſhall be, far from the thoughts and
+intents of all good Kings, Governours, and Parliaments,
+<pb n="12" facs="tcp:118951:8"/>
+who bear a ſincere care and affection to the Subjects of
+<hi>England,</hi> to alter or innovate them. 3. That by theſe an<g ref="char:EOLhyphen"/>cient
+good Laws, Priviledges, and Cuſtoms, not onely the
+Kings Regal authority, but the Peoples Security of Lands,
+Livings, and Priviledges, (both in general and particular)
+are preſerved and maintained. 4. That by the aboliſhing
+or altering of them, <hi>it is impoſſible,</hi> but that preſent confu<g ref="char:EOLhyphen"/>ſion
+will fall upon the whole State and frame of this King<g ref="char:EOLhyphen"/>dom.
+Which I wiſh all <hi>Innovators</hi> and <hi>New Modellers</hi> of
+<hi>our Laws,</hi> would now at laſt ſay ſeriouſly to heart, and the
+whole Kingdom and <hi>Engliſh Nation</hi> ſadly conſider, who
+have found it an <hi>Experimental truth</hi> of late yeers, and no
+imaginary feigned <hi>Speculation.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> The third is, The <hi>Remonſtrance of the whole Houſe of
+Commons</hi> in Parliament, delivered in writing to K. <hi>James,</hi>
+in the Parliament of 7 <hi>Jac. anno</hi> 1610. which begins thus.</p>
+         </div>
+         <div type="remonstrance">
+            <head>To the Kings most Excellent Majeſty.</head>
+            <opener>
+               <salute>Moſt gracious Soveraign,</salute>
+            </opener>
+            <p>WHereas we your Majeſties moſt humble Subjects, the
+<hi>Commons aſſembled in Parliament,</hi>
+               <note place="margin">See Prop. 1. &amp; 6. in <hi>chap.</hi> 2.</note> have received,
+firſt by Meſſage, and ſince by Speech, from your Majeſtie, a
+Command of reſtraint, <hi>from debating in Parliament your
+Majeſties Right of impoſing upon your ſubjects goods ex<g ref="char:EOLhyphen"/>ported
+out of, or imported into this Realm,</hi> yet allowing us
+to examine the grievance of theſe Impoſitions, in regard of
+quantity, time, and other circumſtances of diſproportion thereto
+incident: We your ſaid humble Subjects nothing doubting but
+that your Majeſtie had no intent by that command, to infringe
+<hi>THE ANCIENT AND FUNDAMENTAL RIGHTS
+OF THE LIBERTY OF PARLIAMENT,</hi> in point of
+exact diſcuſſing of all matters concerning them and their Poſſeſ<g ref="char:EOLhyphen"/>ſions,
+Goods, and Rights whatſoever; which yet we cannot but
+conceive to be done in effect by this command, Do with all hum<g ref="char:EOLhyphen"/>ble
+duty <hi>make</hi> this Remonſtrance to your Majestie.</p>
+            <p>
+               <hi>First, We hold it an AN ANCIENT, GENERAL, and
+UNDOUBTED RIGHT OF PARLIAMENT, to</hi> debate
+<pb n="13" facs="tcp:118951:8"/>
+freely all matters which do properly concern the Suject,
+and his Right or Eſtate: which freedom of debate being
+once fore-cloſed,<note place="margin">Nota.</note> THE ESSENCE OF THE LIBERTY
+OF PARLIAMENT IS WITHAL DISSOLVED.</p>
+            <p>Here the whole Houſe of <hi>Commons,</hi> in a <hi>ſpecial Remon<g ref="char:EOLhyphen"/>ſtrance</hi>
+to King <hi>James,</hi> (printed and publiſhed by <hi>Order of
+a Committee of the Houſe of Commons for licenſing of book<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi>
+dated 20 <hi>Maii, 1641. 17 Caroli</hi>) declare, reſolve, vindi<g ref="char:EOLhyphen"/>cate,
+and maintain, One principal, ancient, Fundamental,
+general, undoubted Right of the Liberty of Parliament,
+againſt the Kings intrenchment on it: <hi>Of which ſhould they
+be but once fore-cloſed, the Eſſence of the Liberty of Parliament
+is withal diſſolved.</hi>
+            </p>
+            <p>And peradventure it may not be unworthy the moſt ſe<g ref="char:EOLhyphen"/>rious
+Diſquiſition of the next enſuing nominal or real <hi>Par<g ref="char:EOLhyphen"/>liament,</hi>
+to examine, whether ſome <hi>Clauſes</hi> and <hi>Reſtrictions</hi>
+in the 9, 12, 14, 16, 17, 21, 22, 24, 25, 27, 30, 32, 33, 36,
+37, 38, 39, 40 <hi>Articles</hi> (or Strings) of the New <hi>Inſtru<g ref="char:EOLhyphen"/>ment,</hi>
+intituled, <hi>The Government of the Commonwealth of</hi>
+England, Scotland, <hi>and</hi> Ireland, <hi>and the Dominions thereunto
+belonging;</hi> as it <hi>was publikely declared at Weſtminſter the</hi> 16
+<hi>day of</hi> December, 1653. <hi>&amp;c.</hi> do not as much, nay far
+<hi>more intrench upon the ancient, Fundamental, General, un<g ref="char:EOLhyphen"/>doubted
+Right and Liberty of Parliament,</hi> and Parliamentary
+free Debates, to the diſſolution of the <hi>Eſſential Liberty of
+all future Parliaments,</hi> as this Command of King <hi>James</hi>
+did, or as the Biſhops late <hi>Canons</hi> impoſed on the Clergie
+in and by the <hi>Convocation, Anno</hi> 1640. ever did; and
+this Clauſe in their <hi>&amp;c.</hi> Oath then made, (now imitated
+by others, who condemned it:) <hi>I</hi> A. B. <hi>do ſwear, that I
+will never give my conſent</hi> TO ALTER THE GOVERN<g ref="char:EOLhyphen"/>MENT
+OF THIS CHURCH BY ARCH-BISHOPS,
+BISHOPS, DEANS, AND ARCH-DEACONS, <hi>&amp;c.</hi> AS
+IT STANDS NOW ESTABLISHED, AND AS BY
+RIGHT IT OUGHT TO STAND:<note n="*" place="margin">See <hi>Cant.</hi> Doom, <hi>p.</hi> 19, 26. 40. Diurn. Oc<g ref="char:EOLhyphen"/>currences, <hi>p.</hi> 13.</note> 
+               <hi>Reſolved by the
+whole houſe of Commons,</hi> and <hi>Peers</hi> too, without one diſ<g ref="char:EOLhyphen"/>ſenting
+voice, <hi>in Parliament,</hi> Decemb. 1640. to be <hi>a most
+<pb n="14" facs="tcp:118951:9"/>
+dangerous and illegal Oath, contrary to THE RIGHTS and
+PRIVILEDGES OF</hi> PARLIAMENT, <hi>and to the FUNDA<g ref="char:EOLhyphen"/>MENTAL
+LAWS &amp; STATUTES OF THE REALM,</hi>
+&amp;c. <hi>and OF DANGEROUS CONSEQUENCE.</hi> The con<g ref="char:EOLhyphen"/>triving
+whereof was objected to the late Arch-biſhop of
+<hi>Canterbury,</hi> in his <hi>Original</hi> and <hi>Additional Articles of Im<g ref="char:EOLhyphen"/>peachment,</hi>
+to be <hi>HIGH TREASON;</hi> for which, amongſt
+other things, he <hi>lost his head.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> The fourth is, the notable <hi>Petition of Grievance</hi> of the
+<hi>whole Houſe of Commons in Parliament,</hi> preſented to King
+<hi>James</hi> in the ſeventh yeer of his Reign, after their Vote
+againſt his right to lay any <hi>Impoſitions</hi> on Goods imported
+or exported, without aſſent of Parliament; in theſe en<g ref="char:EOLhyphen"/>ſuing
+words.</p>
+            <p>THe Policie and Conſtitution of this your Majeſties King<g ref="char:EOLhyphen"/>dom,<note place="margin">See Propoſ. 1. in chap. 2.</note>
+appropriates unto the Kings of this Realm, with aſ<g ref="char:EOLhyphen"/>ſent
+of Parliament, as well the Soveraign power of making
+Laws, as that of taxing or impoſing upon the Subjects Goods or
+Merchandizes, wherein they have juſtly ſuch a Property, as
+may not without their conſent be altered or changed: this is
+the cauſe, that the People of this Kingdom, as they have<note n="*" place="margin">O how are they now degenera<g ref="char:EOLhyphen"/>ted!</note> ever
+ſhewed themſelves faithful and loving to their Kings, and ready
+to aid them in all their juſt occaſions,<note place="margin">Nota.</note> with voluntary Contribu<g ref="char:EOLhyphen"/>tions:
+<hi>SO HAVE THEY BEEN</hi>
+               <note n="*" place="margin">And ſhould they not be ſo now, then?</note> 
+               <hi>EVER CAREFUL
+TO PRESERVE THEIR OWN LIBERTIES AND
+RIGHTS, WHEN ANY THING HATH BEEN
+DONE TO PREJUDICE OR IMPEACH THE SAME.</hi>
+And therefore when their Princes, either occaſioned by War, or by
+their own bounty, or by any other Neceſſity, have without conſent
+of Parliament ſet on Impoſitions, either within the Land, <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r upon
+Commodities exported or imported by the Merchants, they have
+in open Parliament complained of it, in that it was done with<g ref="char:EOLhyphen"/>out
+their conſents; AND THEREUPON<note n="*" place="margin">And ſhall we now at last fail h<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rein?</note> NEVER FAI<g ref="char:EOLhyphen"/>LED
+TO OBTAIN A SPEEDY AND FULL RE<g ref="char:EOLhyphen"/>DRESS,
+without any<note n="†" place="margin">Howdare then any ſelf created powers, who are neither Kings nor Parliam<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s now arrogate to themſelves, or exerciſe ſuch a ſuper-Regal ar<g ref="char:EOLhyphen"/>bitrary power &amp; prerogative?</note> Claim made by the Kings, of any
+Power or Prerogative in that point. And though <hi>THE
+LAW OF PROPERTY BE ORIGINAL,</hi> and carefully
+<pb n="15" facs="tcp:118951:9"/>
+preſerved by the Common Lawes of this Realm, <hi>WHICH
+ARE AS ANCIENT AS THE KINGDOM IT SELF;</hi>
+yet thoſe famous Kings, for the better contentment and aſſu<g ref="char:EOLhyphen"/>rance
+of their loving Subjects, agreed, <hi>THAT THIS OLD
+FUNDAMENTAL RIGHT (obſerve the words</hi>) ſhould
+be further declared, <hi>AND ESTABLISHED BY ACT
+OF PARLIAMENT,</hi> wherein it is provided, That no ſuch
+Charge ſhould ever be laid upon the People without their Com<g ref="char:EOLhyphen"/>mon
+conſents, as may appear by ſundry Records of former
+times.</p>
+            <p>We therefore your Majeſties moſt humble Commons aſſem<g ref="char:EOLhyphen"/>bled
+in Parliament,<note place="margin">Nota.</note>
+               <note n="*" place="margin">And O that we would ſol<g ref="char:EOLhyphen"/>low it now a<g ref="char:EOLhyphen"/>gain!</note> FOLLOWING THE EXAMPLE
+OF THIS WORTHY CARE OF OUR ANCESTORS,
+AND OUT OF OUR DUTY TO THOSE FOR WHOM
+WE SERVE, finding that your Majeſty, without advice of
+your Lords and Commons, hath lately (in times of Peace)
+SET BOTH GREATER IMPOSITIONS, AND FAR
+MORE IN NUMBER THEN ANY YOUR NOBLE
+ANCESTORS DID EVER IN TIME OF WAR, do
+with all humility preſent this moſt juſt and neceſſary Petition
+unto your Majesty, THAT ALL IMPOSITIONS SET
+WITHOUT ASSENT IN PARLIAMENT, MAY BE
+QUITE ABOLISHED AND TAKEN AWAY. And
+that your Majeſty likewiſe in imitation of your Royal PRO<g ref="char:EOLhyphen"/>GENITORS,
+will be pleaſed, that a Law in your time, and
+during this Seſſion of Parliament, may be alſo made, to de<g ref="char:EOLhyphen"/>clare,
+<hi>THAT ALL IMPOSITIONS OF ANY KIND
+SET, OR TO BE SET UPON YOUR PEOPLE, THEIR
+GOODS OR MERCHANDIZES, SAVE ONLY BY
+COMMON CONSENT IN PARLIAMENT, ARE
+AND SHALL BE VOID;</hi> wherein your Majesty ſhall
+not only <hi>GIVE YOUR SUBJECTS GREAT SATIS<g ref="char:EOLhyphen"/>FACTION
+IN POINT OF THEIR RIGHT;</hi> but
+alſo bring exceeding joy and comfort to them who now ſuffer,
+partly through the abating of the price of Native Commodi<g ref="char:EOLhyphen"/>ties,
+and partly through the raiſing of all Forraign, to the
+overt<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> row of Merchants, and Shipping, the cauſing of ge<g ref="char:EOLhyphen"/>neral
+dearth, and decay of all wealth among your people, who
+<pb n="16" facs="tcp:118951:10"/>
+will be thereby no leſs diſcouraged, then diſabled to ſupply your
+Majesty when occaſion ſhall require.</p>
+            <p>In which <hi>memorable Petition,</hi> the whole <hi>Houſe of Com<g ref="char:EOLhyphen"/>mons</hi>
+reſolve in direct terms: 1. <hi>That the Subjects of</hi> Eng<g ref="char:EOLhyphen"/>land
+<hi>have old original Fundamental Rights,</hi> (and more
+particularly <hi>in the Property of their goods, exempted from all
+Impoſitions whatſoever in times of Peace or War, without
+their common conſent in Parliament) declared and establiſh<g ref="char:EOLhyphen"/>ed
+both by the ancient Common Law of</hi> England, <hi>and ſundry
+Acts of Parliament, and Records of former times.</hi> 2. They
+declare, the conſtant vigilant care, zeal of our Anceſtors
+and former Parliaments in all Ages, inviolably to main<g ref="char:EOLhyphen"/>tain,
+defend, preſerve the ſame againſt all encroachments,
+together with their own care, duty and vigilancy in this
+kind in that very Parliament. 3. They relate the readineſs
+of our Kings to ratifie theſe their <hi>Fundamental Rights</hi> by
+new <hi>Acts of Parliament,</hi> when they have been violated
+in any kinde. 4. They declare the benefit accruing both
+to <hi>Prince</hi> and <hi>People,</hi> by the inviolable preſervation and
+eſtabliſhment of this <hi>old Fundamental Right,</hi> and the miſ<g ref="char:EOLhyphen"/>chiefs
+accruing to both by the infringement thereof, by
+<hi>arbitrary illegal Impoſitions, without full conſent in Parlia<g ref="char:EOLhyphen"/>ment.</hi>
+5. They earneſtly (in point of conſcience, pru<g ref="char:EOLhyphen"/>dence,
+and duty to thoſe for whom they ſerved) Petition
+his Majeſty, for a <hi>new Law and Declaration againſt all new
+Impoſitions and Taxes on Inland Goods, or Merchandizes im<g ref="char:EOLhyphen"/>ported
+or exported without the Peoples free conſent in Parlia<g ref="char:EOLhyphen"/>ment,
+as null, void, utterly to be aboliſhed and taken away.</hi>
+Whether it will not be abſolutely neceſſary for the whole
+<hi>Engliſh Nation,</hi> and the next enſuing Notional, or real
+<hi>Parliament</hi> to Proſecute, Enact, Eſtabliſh ſuch a Declarati<g ref="char:EOLhyphen"/>on
+and Law againſt all ſuch future <hi>arbitrary, illegal, oppreſ<g ref="char:EOLhyphen"/>ſive
+Taxes, Impoſitions, Exciſes,</hi> that have been impoſed
+and continued for many years together on the whole
+Kingdom, by new extravagant, <hi>ſelf-created,</hi> uſurping Ar<g ref="char:EOLhyphen"/>my-<hi>Officers,
+and other Powers,</hi> without free and full con<g ref="char:EOLhyphen"/>ſent
+of the People in <hi>lawful Engliſh Parliaments,</hi> againſt
+all former Laws, Declarations, and Reſolutions in Parlia<g ref="char:EOLhyphen"/>ment,
+<pb n="17" facs="tcp:118951:10"/>
+to their great <hi>oppreſſion,</hi> enſlaving, undoing, and
+that in <hi>far greater proportions, multiplicity, and variety,</hi> then
+ever in former Ages, <hi>without</hi> the leaſt intermiſſion; and
+likewiſe againſt their late <hi>declared deſign, to perpetuate
+them on our exhauſted Nation, without alteration or diminu<g ref="char:EOLhyphen"/>tion,</hi>
+(beyond and againſt all Preſidents of former Ages)
+both in times of <hi>Peace and War for the future,</hi> by the 27,
+28, 39, 30, 9. <hi>Articles</hi> of the <hi>Inſtrument</hi> entituled, <hi>The
+Government of the Commonwealth of</hi> England, <hi>&amp;c.</hi> I remit
+to their moſt ſerious con<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>derations to determine, if ever
+they reſolve to be <hi>Engliſh Freemen</hi> again, or to imitate
+the <hi>wiſdom, prudence, zeal, courage, and laudable examples
+of their worthy Ancestors,</hi> from which they cannot now
+degenerate without the greateſt <hi>Infamy,</hi> and enſlaving of
+themſelves with their Poſterities for ever, to the <hi>arbitrary
+wills of preſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt or future Uſurpers</hi> on their <hi>Fundamental
+Rights and Libe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ties,</hi> in an higher degree then ever in any
+precedent <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ges, under the <hi>Greateſt Conquerors</hi> or <hi>Kings,</hi>
+after all their late, coſtly, bloudy <hi>Wars</hi> for their <hi>Defence</hi> a<g ref="char:EOLhyphen"/>gainſt
+the <hi>Behe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ded King.</hi>
+            </p>
+            <p>
+               <hi>The fifth is,</hi> A learned and neceſſary Argument made in <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+the Commons Houſe of Parliament, <hi>Anno 7. Jacobi,</hi> to
+prove, That each Subject hath a Propriety in his Goods; ſhew<g ref="char:EOLhyphen"/>ing
+alſo, the extent of the Kings Prerogative in Impoſitions up<g ref="char:EOLhyphen"/>on
+the Goods of Merchants exported or imported, &amp;c. <hi>By a
+late</hi> learned Judg of this Kingdom, <hi>printed at</hi> London <hi>by</hi>
+Richard Biſhop, 1641. <hi>and</hi> Ordered <hi>to be pub<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſhed in Print,</hi>
+at a Committee appointed by the Honourable Houſe of Com<g ref="char:EOLhyphen"/>mons,
+for examination and Licenſing of B<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oks. 20. <hi>Maii,</hi>
+1641. <hi>In which Parliamentary Argument,</hi> p. 8, 11, 16.
+<hi>I finde theſe direct Paſſages:</hi> That the New Im<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſitions
+contained in the Boo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Rates, impoſed on Merchandizes,
+imported and exported by the K<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs Prerogative, and Letters
+Patents, without conſent in Parliament, is againſt <hi>THE NA<g ref="char:EOLhyphen"/>TURAL
+FRAME AND CONSTITUTION OF THE
+POLICY OF THIS KINGDOME,</hi> which is Jus Publi<g ref="char:EOLhyphen"/>cum
+Regn<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>AND SO SUBVERTETH THE FUNDA<g ref="char:EOLhyphen"/>MENTAL
+LAW OF THE REALM,</hi> and introduceth a
+<pb n="18" facs="tcp:118951:11"/>
+new form of State and Government: Can any man give me a
+reaſon, why the King can only in Parliament make Lawes?
+No man ever read any Law, whereby it was ſo ordained; and
+yet no man ever read, that any King practiſed the contrary;
+therefore <hi>IT IS THE ORIGINAL RIGHT OF THE
+KINGDOM,</hi>
+               <note place="margin">Nota.</note> 
+               <hi>AND THE VERY NATURAL CON<g ref="char:EOLhyphen"/>STITUTION
+OF OUR STATE AND POLICY,</hi>
+being one of the higheſt Rights of Soveraign Power. If the
+King alone out of Parliament may impoſe,<note n="*" place="margin">And do not thoſe do ſo <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lay mont<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, Customs, and N<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w-Impoſt on us daily out of Parliament, and that for many moneths and years yet to come, againſt the Letter of their own In<g ref="char:EOLhyphen"/>ſtrument and Oath too?</note> 
+               <hi>HE ALTER<g ref="char:EOLhyphen"/>ETH
+THE LAW</hi> OF <hi>ENGLAND</hi> IN <hi>ONE OF
+THESE TWO MAIN FUNDAMENTAL POINTS;</hi>
+He muſt either take the Subjects Goods from them, without
+aſſent of the Party, which is againſt the Law, or elſe he muſt
+give his own Letters Patents the force of a Law, to alter the
+property of the Subjects Goods, which is alſo againſt the Law.</p>
+            <p>In this and ſundry other <hi>Arguments,</hi> (touching the
+<hi>Right of Impoſitions</hi>) in the Commons Houſe of Parliament
+by the Members of it, arguing againſt them, it was fre<g ref="char:EOLhyphen"/>quently
+averred, and at laſt voted and reſolved by the
+Houſe, 7. <hi>Jacobi. That ſuch Impoſitions without conſent in
+Parliament, were</hi> AGAINST THE ORIGINAL FUN<g ref="char:EOLhyphen"/>DAMENTAL
+LAWS AND PROPERTY OF THE
+SUBJECT, <hi>and Original Right, Frame, and Conſtitution of
+the Kingdom;</hi> as the <hi>Notes</hi> and <hi>Journals</hi> of that Parliament
+evidence: An expreſs Parliamentary reſolution in point,
+for what I here aſſert.</p>
+            <p>
+               <hi>The ſixth is,</hi>
+               <note place="margin">6.</note> A Conference deſired by the Lords, and had
+by a Committee of both Houſes, concerning the Rights and Pri<g ref="char:EOLhyphen"/>viledges
+of the Subject, 3. Aprilis. 4. Caroli, 1628. <hi>entred
+in the</hi> Parliament Journal of 4. Caroli, <hi>and ſince printed
+at</hi> London, 1642. <hi>In the</hi> Introduction <hi>to which</hi> Confe<g ref="char:EOLhyphen"/>rence,
+<hi>Sir</hi> Dudley Diggs, <hi>by the</hi> Commons Houſe Order,
+<hi>uſed theſe expreſſions:</hi> My good Lords, whileſt we the Com<g ref="char:EOLhyphen"/>mons,
+out of our good affections, were ſeeking for money,
+we found, I cannot ſay a Book of the Law, but many <hi>A
+FUNDAMENTAL POINT THEREOF NEGLECT<g ref="char:EOLhyphen"/>ED
+AND BROKEN,</hi> which hath occaſioned our deſire
+<pb n="19" facs="tcp:118951:11"/>
+of this Conference: Wherein I am firſt commanded to ſhew un<g ref="char:EOLhyphen"/>to
+your Lordſhips in general, That the Laws of <hi>England</hi> are
+grounded on Reaſon more antient then Books, conſiſting much
+in unwritten Cuſtoms, yet ſo full of Juſtice and true Equity,
+that your moſt Honorable Predeceſſors and Anceſtors propug<g ref="char:EOLhyphen"/>ned
+them with a <hi>NOLUMUS MUTARI;</hi> and ſo ancient,
+that from the <hi>Saxons</hi> daies, notwithſtanding the injuries and
+ruines of time, they have continued in moſt parts the ſame, &amp;c.
+Be pleaſed then to know, <hi>THAT IT IS AN UNDOUBT<g ref="char:EOLhyphen"/>ED
+AND FUNDAMENTAL POINT OF THIS SO
+ANCIENT COMMON LAW OF</hi> ENGLAND, <hi>THAT
+THE SUBJECT HATH A TRUE PROPERTY IN
+HIS GOODS AND POSSESSIONS,</hi> which doth preſerve
+as ſacred that <hi>Meum</hi> and <hi>Tuum,</hi> that is the Nurſe of Indu<g ref="char:EOLhyphen"/>ſtry,
+and the Mother of Courage, and without which there
+can be no Juſtice, of which <hi>Meum</hi> and <hi>Tuum</hi> is the proper ob<g ref="char:EOLhyphen"/>ject.
+Bu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>UNDOUBTED RIGHT OF FREE SUB<g ref="char:EOLhyphen"/>JECTS,</hi>
+hath lately not a little been invaded and prejudiced
+by Preſſures, the more grievous, becauſe they have been pur<g ref="char:EOLhyphen"/>ſued
+by impriſonment, contrary to the Franchiſes of this Land,
+&amp;c. <hi>which the</hi> Commons Houſe <hi>proved by many</hi> Statutes
+<hi>and</hi> Records in all Ages, <hi>in that Conference, to the full ſa<g ref="char:EOLhyphen"/>tisfaction
+of the Lords Houſe; ſince publiſhed in print.</hi>
+            </p>
+            <p>
+               <hi>The ſeventh is,</hi>
+               <note place="margin">7.</note> 
+               <hi>The Vote of the</hi>
+               <note n="a" place="margin">See <hi>Can<g ref="char:EOLhyphen"/>terburies</hi> Doom, p. 19. Di<g ref="char:EOLhyphen"/>urnal Occur<g ref="char:EOLhyphen"/>rences, p. 13.</note> whole Houſe of
+Commons, 16. December, 1640. Nullo contradicente, <hi>en<g ref="char:EOLhyphen"/>tred
+in their</hi> Journal, <hi>and printed in</hi> Diurnal Occurrences,
+p. 13. That the Canons made <hi>in the</hi> Convocation (<hi>Anno</hi>
+1640.) <hi>ARE AGAINST THE FUNDAMENTAL
+LAWS OF THE REALM,</hi> the Property and Liberty of
+the Subject, the Right of Parliament, and contained divers
+things tending to Faction and Sedition.</p>
+            <p>The eighth Authority is,<note place="margin">8.</note>
+               <note n="b" place="margin">Exact Col<g ref="char:EOLhyphen"/>lection, &amp;c. p. 112, 113.</note> The Votes of both
+Houſes of Parliament, <hi>concerning the ſecurity of King<g ref="char:EOLhyphen"/>dom
+of</hi> England, <hi>and Dominion of</hi> Wales, 15. <hi>Martii</hi> 1641.
+<hi>Ordered by the Lords and Commons in Parliament to be forth<g ref="char:EOLhyphen"/>with
+printed and publiſhed</hi> (as they were then by themſelves,
+and afterwards with other Votes and Orders) <hi>Reſolved
+<pb n="20" facs="tcp:118951:12"/>
+upon the Queſtion,</hi> nemine contradicente; <hi>That in caſe of</hi>
+extream danger, and of his Majeſties refuſal, the Ordi<g ref="char:EOLhyphen"/>nance
+agreed on by both Houſes for the <hi>Militia,</hi> doth ob<g ref="char:EOLhyphen"/>lige
+the people,<note place="margin">See Chap. 2. Propoſition 3, 7</note> and ought to be obeyed, by THE FUN<g ref="char:EOLhyphen"/>DAMENTAL
+LAWS OF THIS KINGDOM. A very
+vain, falſe, abſurd, and deluſory Vote, if there be no ſuch
+Law<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, as ſome now affirm.</p>
+            <p>The ninth punctual Authority is,<note place="margin">9.</note>
+               <note n="a" place="margin">Exact Col<g ref="char:EOLhyphen"/>lection, p. 850, 854, 887, 888.</note> 
+               <hi>A ſecond Decla<g ref="char:EOLhyphen"/>ration
+of the Lords and Commons aſſembled in Parliament,
+concerning the Commiſſion of Array;</hi> printed by their ſpeci<g ref="char:EOLhyphen"/>al
+<hi>Order</hi> of 12. <hi>Januarii</hi> 1642. Wherein are theſe ob<g ref="char:EOLhyphen"/>ſerveable
+paſſages. The <hi>main drift of the anſwer is to main<g ref="char:EOLhyphen"/>tain,</hi>
+That the King by the Common Law may grant ſuch
+a Commiſſion of Array as this is, upon this ground, <hi>be<g ref="char:EOLhyphen"/>cauſe
+it's for the defence of the Kingdom:</hi> And, that the
+power which he hath to grant it by the <hi>Common Law,</hi> is
+not taken away by the <hi>Petition of Right,</hi> or any <hi>former Sta<g ref="char:EOLhyphen"/>tute,</hi>
+but the King notwithſtanding any of them, <hi>may
+charge the Subjects for Defence of the Kingdom, ſo as the
+charge impoſed come not to himſelf, nor to his particular ad<g ref="char:EOLhyphen"/>vantage.</hi>
+            </p>
+            <p>Theſe grounds thus laid, extend not to the Commiſſion of
+Array alone, but to all other charges that his Majeſty ſhall
+impoſe upon his Subjects, upon pretence of Defence of the King<g ref="char:EOLhyphen"/>dom;
+for there is the ſame reaſon of Law for any other charge
+that is pretended for Defence, as for this. If his Majeſty by
+the Common Law may charge his Subjects to finde Arms, and
+other things in the Commiſſion injoyned, becauſe they are for
+Defence of the Kingdom; by the ſame reaſon of Law, he may
+command his People to build Caſtles, Forts, and Bulworks,
+and after to maintain them with Garriſons, Arms, and Victu<g ref="char:EOLhyphen"/>als,
+at their own charges: And by the ſame reaſon he may com<g ref="char:EOLhyphen"/>pel
+his Subjects to finde Ships, and furniſh them with Men,
+Ammunition, and Victuals, and to finde Souldiers pay, coat
+and conduct-money; provide victuals for Souldiers, and all
+other things <hi>NECESSARY FOR AN</hi>
+               <note n="*" place="margin">Do not the Army-Officers now enforce them to all this without a Par<g ref="char:EOLhyphen"/>liament?</note> 
+               <hi>ARMY;</hi> theſe
+things being as neceſſary for Defence, as any thing that can be
+<pb n="21" facs="tcp:118951:12"/>
+done in execution of this Commiſſion. And for that expoſition
+of the Petition of Right, and other Statutes therein noted,
+(if it ſhould hold) doth it not overthrow, as well the Petition
+it ſelf, as all other Lawes that have been made for the Sub<g ref="char:EOLhyphen"/>jects
+benefit against Taxes and other Charges, either in this or
+any other Parliament?</p>
+            <p>Theſe Poſitions thus laid down and maintained, <hi>DO
+SHAKE THE FUNDAMENTAL LAWS OF THE
+KINGDOM, (THE ANCIENT BIRTH-RIGHT OF
+EVERY SUBJECT) both for THE PROPERTY OF
+HIS GOODS, AND LIBERTY, OF HIS PERSON:</hi>
+Nay, they ſtrike at the root of Parliaments: What need his
+<note n="*" place="margin">Theſe Expo<g ref="char:EOLhyphen"/>ſtulations reach to thoſe at <hi>White-Hall</hi> now, who pre<g ref="char:EOLhyphen"/>ſume to impoſe Taxes, Cu<g ref="char:EOLhyphen"/>ſtoms, Exciſes, and make b<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd<g ref="char:EOLhyphen"/>ing Laws, which no Kings there ever did in like nature, no<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their Counc<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls in any Age.</note> Majeſty call Parliaments to provide for Defence of the Realm,
+when himſelf may compel his Subjects to defend it without
+Parliaments? If theſe grounds ſhould hold, what need the Sub<g ref="char:EOLhyphen"/>jects
+grant Subſidies in Parliament for Defence of the King<g ref="char:EOLhyphen"/>dom
+in time of real danger, if the King for defence at any
+times, when he ſhall only conceive or pretend danger, may im<g ref="char:EOLhyphen"/>poſe
+Charges upon his Subjects without their conſent in Parlia<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <hi>Upon that which hath been ſaid in this and our former</hi> De<g ref="char:EOLhyphen"/>claration,
+<hi>we doubt not but all indifferent men will be ſatis<g ref="char:EOLhyphen"/>fied,
+that this Commiſſion of Array is full of danger and in<g ref="char:EOLhyphen"/>convenience
+to the Subjects of</hi> England, AND AGAINST
+THE FUNDAMENTAL LAWS OF THE LAND,
+both for PROPERTY OF GOODS, AND LIBERTY
+OF PERSON, &amp;c. 2. <hi>As it is against</hi> THE FUNDA<g ref="char:EOLhyphen"/>MENTAL
+LAWS OF THE REALM, <hi>ſo no Statute
+makes it good, &amp;c. And the Lords and Commons do upon
+the whole matter here conclude, that they</hi> are very much ag<g ref="char:EOLhyphen"/>grieved,
+that after ſo many Declarations and ſolemn Pro<g ref="char:EOLhyphen"/>teſtations
+made by his Majeſty to rule by the known Laws
+of this Land, <hi>his Majeſty by advice of his ill Councel<g ref="char:EOLhyphen"/>lors
+ſhould be perſwaded to ſet ſuch a</hi> Commiſſion on foot,
+which is ſo clearly contrary TO THE FUNDAMEN<g ref="char:EOLhyphen"/>TAL
+LAWS OF THIS LAND, the Right of Property,
+and Liberty of the Subject, <hi>contrary to former</hi> Reſolutions
+of Parliament, <hi>and to the</hi> Petition of Right.</p>
+            <p>
+               <pb n="22" facs="tcp:118951:13"/>
+I am certain the generality of the Nation are now as
+<hi>much</hi> and more <hi>aggrieved,</hi> that ſome who were Parties
+to this <hi>Declaration,</hi> and others who have made as many
+or more <hi>Declarations</hi> and <hi>Proteſtations</hi> as his <hi>Majeſty</hi> ever
+did, to <hi>rule by the known Laws of the Land,</hi> ſhould ſince
+this, far exceed his Majeſty in the like, or more exorbi<g ref="char:EOLhyphen"/>tances
+in the <hi>Militia,</hi> Exciſes, Taxes, Impoſitions, Im<g ref="char:EOLhyphen"/>priſonments,
+arbitrary extravagant proceedings, and ca<g ref="char:EOLhyphen"/>pital
+executions in new-<hi>erected Courts of Injuſtice,</hi> as di<g ref="char:EOLhyphen"/>ametrically
+contrary as the Kings Commiſſions of <hi>Array,</hi>
+to the <hi>Fundamental Laws of the Land</hi> (four times together
+ſo ſtiled and inſided on, as ſuch, in this one Declaration of
+both Houſes) <hi>the Right of Property of the Subject, contrary
+to former Reſolutions,</hi> and the <hi>Petition of Right;</hi> yea (which
+is moſt abominable) to their own <hi>Declarations, Remon<g ref="char:EOLhyphen"/>ſtrances,
+Votes, Proteſtations, Vows, Solemn Leagues and Co<g ref="char:EOLhyphen"/>venants</hi>
+in Parliament, to their own eternal <hi>Infamy,</hi> as
+well as the peoples intolerable oppreſſion and <hi>Slavery,</hi>
+who thereupon may juſtly conclude and proteſt againſt
+them, as both <hi>Houſes did in the cloſe</hi> of that Declaration
+againſt the <hi>Array,</hi> viz<g ref="char:punc">▪</g>
+               <note n="*" place="margin">Exact Collec<g ref="char:EOLhyphen"/>tion, p. 888.</note> 
+               <hi>And the</hi> Lords and Commons
+do and ſhall adhere to their former Votes and Reſoluti<g ref="char:EOLhyphen"/>ons,
+That all thoſe that are Actors in putting of this
+Commiſſion of Array in execution, ſhall be eſteemed di<g ref="char:EOLhyphen"/>ſturbers
+of the Peace of the Kingdome, and the Properties
+and Liberties of the Subject.</p>
+            <p>
+               <hi>The tenth evidence is,</hi>
+               <note place="margin">10.</note>
+               <note n="a" place="margin">A Collection of all <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Order<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and De<g ref="char:EOLhyphen"/>clarations of Parliament, p. 451, 452, 457, 458.</note> 
+               <hi>the</hi> Vote and Letter of both
+Houſes of Parliament <hi>ſent to his Majeſty at</hi> Oxford 9.
+March 1643. <hi>in anſwer to his</hi> Majeſties <hi>of the third of</hi>
+March, <hi>wherein there is this paſſage:</hi> We the Lords and
+Commons aſſembled in the Parliament of <hi>England,</hi> &amp;c. <hi>have
+reſolved, with the concurrent advice and conſent of the</hi>
+Commiſſioner<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Scotland, <hi>to repreſent to your Majeſty in
+all hum<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ity and plainneſs as followeth;</hi> That this preſent
+Parliament convened according to the known and FUNDA<g ref="char:EOLhyphen"/>MENTAL
+LAWS OF THE KINGDOM (the continu<g ref="char:EOLhyphen"/>ance
+whereof is eſtabliſhed by a <hi>Law</hi> conſented to by your Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſty)
+is in effect denied to be a Parliament, &amp;c. <hi>And here<g ref="char:EOLhyphen"/>upon
+<pb n="23" facs="tcp:118951:13"/>
+we think our ſelves bound to let your Majeſty know,</hi>
+That ſince the<note n="*" place="margin">Yet forcibly diſſolved by the Army, and ſome new in Power, againſt their Commiſſi<g ref="char:EOLhyphen"/>ons, Oaths, Truſts, Prote<g ref="char:EOLhyphen"/>ſtation, Coven<g ref="char:EOLhyphen"/>ant, and an Act of Parliament for their conti<g ref="char:EOLhyphen"/>nuance; who may do well to peruſe this <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. See <hi>Chap.</hi> 2. Propoſition 6. 7.</note> continuance of this Parliament is ſetled by a
+<hi>Law,</hi> (which, as all other <hi>Laws</hi> of your Kingdom, your Maje<g ref="char:EOLhyphen"/>ſty
+is ſworn to maintain, as we are ſworn to our Allegiance
+to your Majeſty, theſe Obligations being reciprocal) we muſt
+in duty, and accordingly are reſolved, with our lives and
+fortunes, to defend and preſerve the juſt Rights and full Power
+of this Parliament: <hi>To which the</hi> Earl of Eſſex (<hi>then Ge<g ref="char:EOLhyphen"/>neral)
+by both</hi> Houſes direction, <hi>in his Letter to the</hi> Earl
+of Forth, Jan. 30. 1643. <hi>adds this Corollary,</hi> My Lord,
+the maintenance of the Parliament of <hi>England,</hi> and the Pri<g ref="char:EOLhyphen"/>viledges
+thereof, is that for which we are all reſolved to ſpend
+our bloud, as being THE FOUNDATION WHEREON
+ALL OUR LAWS and LIBERTIES ARE BUILT:
+<hi>Which both the</hi> Lords and Commons aſſembled in Parlia<g ref="char:EOLhyphen"/>ment,
+<hi>in their</hi> Declaration <hi>of</hi> 23. Martii 1643. <hi>touching
+their proceedings upon his Majeſties Letter concerning a</hi>
+Treaty of Peace; (<hi>wherein this Earls former Letter is
+recited) thus ſecond:</hi> The Parliament of <hi>England</hi> is the
+only Baſis, the chief Support and Pillar of our <hi>Laws</hi> and <hi>Li<g ref="char:EOLhyphen"/>berties,</hi>
+&amp;c. <hi>And if notwithſtanding all theſe Obligati<g ref="char:EOLhyphen"/>ons,
+the King ſhall</hi>
+               <note n="*" place="margin">How much more <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, if the Army, o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Army-Officers ſhall do<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, without queſti<g ref="char:EOLhyphen"/>on or exempla<g ref="char:EOLhyphen"/>ry puniſhm<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt again and again, and i<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtifie it ſtill in <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>?</note> 
+               <hi>at his pleaſure diſſolve this Parlia<g ref="char:EOLhyphen"/>ment,
+the Kingdom is not only deprived of the preſent,
+but made uncapable of enjoying the benefit of any future
+Parliament or Laws, any longer then ſhall ſtand with the
+will and pleaſure of the King, and conſequently THE
+FUNDAMENTALS OF ALL OUR LAWS &amp; GO<g ref="char:EOLhyphen"/>VERNMENT
+ARE SUBVERTED. Let the Parliament-diſſolving</hi>
+Officers, Army, <hi>and their</hi> Confederates <hi>ſeri<g ref="char:EOLhyphen"/>ouſly
+ponder this, with all who ſhall hereafter ſit in</hi> Parli<g ref="char:EOLhyphen"/>amen<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>,
+<hi>conſider it in the</hi> firſt place.</p>
+            <p>
+               <hi>The eleventh is,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1.</note> 
+               <hi>the</hi>
+               <note n="a" place="margin">A Collecti<g ref="char:EOLhyphen"/>on, &amp;c. p. 504.</note> Ordinance of both Houſes of
+Parliament, 13. Junii 1644. <hi>for the Forces raiſed in the
+County of</hi> Salop, <hi>which begins thus:</hi> The Lords and Com<g ref="char:EOLhyphen"/>mons
+aſſembled in Parliament, taking into their ſerious conſi<g ref="char:EOLhyphen"/>derations,
+the great oppreſſions under which the Inhabitants
+of the County of <hi>Salop,</hi> by reaſon of inſupportable Taxes,
+&amp;c. and the preſent condition of the County, by reaſon of
+<pb n="24" facs="tcp:118951:14"/>
+the great number of Iriſh Rebels that have invaded it, and
+joyned with Papiſts and other ill-affected Perſons now in thoſe
+parts, doth threaten the extirpation of the Proteſtant Religion,
+and the ſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſion of THE FUNDAMENTAL LAWS &amp;
+GOVERNMENT OF THE KINGDOM. For prevention
+whereof, &amp;c.</p>
+            <p>
+               <hi>The twelfth is</hi>
+               <note n="b" place="margin">A Collecti<g ref="char:EOLhyphen"/>on, &amp;c. p. 877, 878, 879.</note> A Declaration of the Commons of <hi>Eng<g ref="char:EOLhyphen"/>land</hi>
+aſſembled in Parliament 17.<note place="margin">12.</note> Aprilis 1646. Of their true
+intentions concerning the AN<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>IENT &amp; FUNDAMEN<g ref="char:EOLhyphen"/>TAL
+GOVERNMENT OF THE KINGDOM, ſecuring
+the people againſt <hi>ALL ARBITRARY GOVERNMENT,</hi>
+&amp;c. <hi>wherein they complain,</hi> That the Enemy being in deſpair
+to accompliſh his deſigns by War, do miſrepreſent our intentions
+in the uſe we intended to make of the great Succeſſes God hath
+given us, and the happy opportunity to ſettle peace and truth
+in the three Kingdoms; to beget a belief that we now deſire to
+exceed or ſwerve from our firſt Aims and Principles in the
+Undertaking of this War, and to recede from the Solemn League
+and Covenant, and Treaties between the two Kingdoms; and
+that we would prolong theſe uncomfortable Troubles, <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd b<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eed<g ref="char:EOLhyphen"/>ing
+Diſtractions, IN<note n="*" place="margin">And is not this now proved a real exper<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mental <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, in ſome of <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Remonſt<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s, to their ſhame?</note> ORDER TO ALTER THE FUN<g ref="char:EOLhyphen"/>DAMENTAL
+CONSTITUTION &amp; FRAME OF THIS
+KINGDOM, to leave all Government in the Church looſe and
+unſetled, and our ſelves to exerciſe THE SAME ARBI<g ref="char:EOLhyphen"/>TRARY
+POWER OVER THE PERSONS &amp; ESTATES
+OF THE SUBJECTS, which this preſent Parliament hath
+thought fit to aboliſh, by taking away the Star-Chamber, High
+Commiſſion, and other Arbitrary Courts, and the exorbitant
+Power of the Councel Table: (<hi>all which we have ſeen ſince
+experimentally verified in every particular in the higheſt
+d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gree, notwithſtanding this</hi> Declaration, <hi>by ſome in late
+and preſent Power, notwithſtanding this Publication:</hi>)
+All which being ſeriouſly conſidered by us, &amp;c. <hi>We do declare,
+THAT OUR TRUE &amp; REAL INTENTIONS ARE, &amp;
+OUR ENDEAVOR SHALL BE,</hi> to ſettle Religion in the
+purity thereof,<note n="*" place="margin">And can moſt of the <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> mon<g ref="char:EOLhyphen"/>ſt<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ns <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> or preſent pow<g ref="char:EOLhyphen"/>er, <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> joy this <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> truth or re<g ref="char:EOLhyphen"/>ally? And muſt not they be utterly aſham<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ed, confounded before God and men, when they conſider how they have diſ<g ref="char:EOLhyphen"/>ſembled, prev<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ri<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ated with God and men herein in each particular?</note> 
+               <hi>TO MAINTAIN THE ANCIENT &amp;FUNDAMENTAL GOVERNMENT OF THIS KING<g ref="char:EOLhyphen"/>DOM,
+TO PRESERVE THE RIGHTS &amp; LIBERTIES</hi>
+            </p>
+            <p>
+               <pb n="25" facs="tcp:118951:14"/>
+               <hi>In the</hi>
+               <note n="b" place="margin">Walſingha<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Stow, Hollin<g ref="char:EOLhyphen"/>ſhed, Speed, Grafton, Baker An. 5. R. 2. John Stows Survay of Lon<g ref="char:EOLhyphen"/>don. p. 89. 10 103. Mr. <hi>St. Iohns</hi> Argu<g ref="char:EOLhyphen"/>ment at Law, at <hi>Straffords</hi> Attainder, p. 14</note> 
+               <hi>fifth year of</hi> King Richard the ſecond, <hi>the vulgar</hi>
+Rabble of people and Villains, in Kent, Eſſex, Suſſex, Nor<g ref="char:EOLhyphen"/>folk,
+Cambridgeſhire and other Countries, <hi>under the Conduct
+of</hi> Wat Tyler, Jack Straw <hi>and other</hi> Rebels, <hi>aſſembling
+together in great multitudes,</hi> reſolved by force and violence
+to abrogate the Law of villenage, with all other Lawes they diſli<g ref="char:EOLhyphen"/>ked,
+formerly ſettled; to burn all the Records, kill and behead
+all the Judges, Juſtices, and men of Law of all ſorts, which they
+could get into their hands; to burn and deſtroy the Innes of Court,
+(as they did then the new Temple, where the apprentices of the
+Law lodged, burning their Monuments and Records of Law
+there found) to alter the tenures of Lands, to deviſe new Laws
+of their own, by which the Subjects ſhould be governed, to change
+the ancient Hereditary, Monarchicall Government of the Realm,
+and to elect pettie elective Tyrannies and Kingdoms to themſelves
+in every Shire: (<hi>a project eagerly proſecuted by ſome</hi> Anar<g ref="char:EOLhyphen"/>chicall
+Anabaptiſts, and Jeſuites, Levellers, <hi>very lately: and
+though withall</hi> they intended to deſtroy the King at laſt, and
+all the Nobles too, when they had gotten ſufficient power, <hi>yet at
+firſt to cloak their intentions for the preſent, they took</hi>
+an Oath <hi>of all they met;</hi> Quod Regi &amp; communibus fidelita<g ref="char:EOLhyphen"/>tem
+ſervarent, <hi>that they ſhould keep Allegeance and faith
+to the King and Commons, this their reſolution and at<g ref="char:EOLhyphen"/>tempt
+thus to alter and</hi> ſubvert the Laws and Government,
+<hi>upon full debate in the</hi> Parliament of 5 R. 2. n. 30, 31. was
+declared to be <hi>HIGH TREASON</hi> againſt the King and againſt
+the Law; <hi>for which divers of the chief actours in this</hi>
+Treaſonable Deſign <hi>were condemned and executed, as Trai<g ref="char:EOLhyphen"/>tors,
+in ſeverall places; and the reſt enforced</hi> to a publick
+ſubmiſſion, <hi>and then pardoned.</hi>
+            </p>
+            <p>2. <hi>In the</hi>
+               <note n="a" place="margin">Stow, Holin<g ref="char:EOLhyphen"/>ſhed, Sp<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, Graften, Baker in XI. 21. R. 2. and 1. H. 4. Satutes at large, 11. and 21 R. 2. &amp; 1. H. 4 M. <hi>St. <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ohns</hi> Speech concer<g ref="char:EOLhyphen"/>ning the ſhip<g ref="char:EOLhyphen"/>mony Judges, p. 28. to 37. And Argument at Law, at <hi>Straffords</hi> At<g ref="char:EOLhyphen"/>tainder.</note> Parliament <hi>XL. R.</hi> 2. (<hi>as appears by the</hi> Par<g ref="char:EOLhyphen"/>liament
+Rolls <hi>and printed</hi> Statutes <hi>at large</hi>) three Prive Coun<g ref="char:EOLunhyphen"/>cellours,
+the Archbiſhop of York, the Duke of <hi>Ireland,</hi> and
+Earl of Suffolk; <hi>the Biſhop of</hi> Exeter <hi>the Kings Confeſſour,
+five Knights, ſix Judges, (whereof Sir</hi> Robert Treſilian Chief
+Juſtice <hi>was one</hi>) Blake <hi>of the Kings Councel at Law,</hi> 
+               <g ref="char:V">Ʋ</g>sk
+<hi>and others, were</hi> impeached and condemned of High Treaſon,
+ſome of them executed as Traytors, the reſt baniſhed, their Lands
+<pb n="26" facs="tcp:118951:15"/>
+and goods forfeited, and none to endevour to procure their pardon,
+under pain of Felony; for endeavouring to overthrow a Commiſ<g ref="char:EOLhyphen"/>ſion
+for the good of the Kingdome, and contrary to an Act of Par<g ref="char:EOLhyphen"/>liament
+of force of arms and Opinions in Law delivered to the
+King, tending to ſubvert the Laws and Statutes of the Realm, o<g ref="char:EOLhyphen"/>verthrow
+the Power, Priviledges, and proceedings of Parliament,
+and betray (not all the houſe of Lords, <hi>but only</hi>) ſome of the
+Lords of Parliament, <hi>which Judgement being afterwards
+reverſed in the</hi> forced, and packed Parliament <hi>of 21. R. 2. was</hi>
+reconfirmed <hi>in the</hi> Parliament <hi>of 1 H. 4. c. 3. 4, 5. and the</hi>
+Parliament <hi>of 21. R.</hi> 2. totally repealed, and adnulled for ever, <hi>and
+hath ſo continued.</hi>
+            </p>
+            <p>3. <hi>In the</hi>
+               <note n="a" place="margin">Mr. St. John at Law againſt <hi>Straffords</hi> At<g ref="char:EOLhyphen"/>tainder. p. 13. 14, 17.</note> 
+               <hi>Parliament of 17 R. 2. n. 20. and Paſ.</hi> 17.
+<hi>R. 2. B. RS. Ror. 16. Sir</hi> Thomas Talbot <hi>was accuſed and
+found</hi> guilty of High Treaſon for conſpiring the death of the
+Dukes of Gloceſter, Lancaſter and other Peers, who maintain<g ref="char:EOLhyphen"/>ed
+the Commiſſion confirmed by act of Parliament, X. R. 2. and
+aſſembling people in a warlike manner in the County of Cheſter,
+for the effecting of it, in deſtruction of the Eſtates of the
+Realm; <hi>and OF THE LAWES OF THE KING<g ref="char:EOLhyphen"/>DOME.</hi>
+            </p>
+            <p>4. In the 29. year of King <hi>Henry</hi> the ſixth, <hi>Jack Cade,</hi>
+under a pretence to REFORM, <hi>alter, and abrogate ſome
+Laws, Purveyances and extortions importable to the Commons</hi>
+(wherupon he was called <hi>JOHN AMEND ALL</hi>) drew a
+great multitude <hi>of Kentiſh people</hi> to <hi>Black Heath</hi> in a war<g ref="char:EOLhyphen"/>like
+manner to effect it: in the <hi>Parliament</hi> of 29. H. 6. c. 1.
+this was adjudged <hi>High Treaſon in him and his Complices;</hi> by
+act of Parliament: and the <hi>Parliament</hi> of 31. H. 6. c. 1.
+made this memorable Act againſt him, and his Imitators
+inſucceeding ages; worth ſerious peruſall and conſide<g ref="char:EOLhyphen"/>ration
+by all who tread in his footſteps and over-act him
+in his Treaſons.</p>
+            <q rend="inline margQuotes">"<p>Whereas the moſt abominable Tyrant, horrible, odious, and
+errant <hi>FALSE TRAITOR,</hi> John Cade, calling himſelf
+ſometimes <hi>Mortimer,</hi> ſometime Captain of <hi>Kent, (which
+Name,</hi> Fame, Acts and Feats, to be removed out of the ſpeech and
+mind of every faithfull Chriſtian man, perpetually,) falſly and
+<pb n="27" facs="tcp:118951:15"/>
+trayterouſly purpoſing and imagining the perpetual deſtruction of
+the KINGS PERSON and FINALL S<g ref="char:V">Ʋ</g>BVERSION
+OF THIS REALM, taking upon him<note n="*" place="margin">And have not others of late aſſumed to themſelves, <hi>more Royal power than</hi> he? reſolved to be Treaſon by 21. <hi>E.</hi> 3. Rot. Parl. n. 15.</note> 
+                  <hi>ROYALL
+POWER,</hi> and gathering to him the Kings people in great
+number, <hi>BY FALSE, SUBTIL, IMAGINED LAN<g ref="char:EOLhyphen"/>GUAGE,</hi>
+and ſeditiouſly made a ſtirring Rebellion, and in<g ref="char:EOLhyphen"/>ſurrection,
+<g ref="char:V">Ʋ</g>NDER COLO<g ref="char:V">Ʋ</g>R OF J<g ref="char:V">Ʋ</g>STICE FOR
+REFORMATION OF THE LAWS OF THE SAID
+KING, robbing, ſlaying, ſpoiling a great part of his faithfull
+people: <hi>Our ſaid Soveraign Lord the King, conſidering
+the premiſes with many other, which were more odi<g ref="char:EOLhyphen"/>ous
+to remember, by advice and aſſent of the Lords
+ſpirituall and Temporall, and at THE REQUEST
+OF THE COMMONS, and by authority aforeſaid,</hi>
+hath ordained and eſtabliſhed, that the ſaid <hi>John</hi> Cade ſhall be
+had named and declared <hi>A FALSE TRAYTOR</hi> to our
+ſaid Soveraign Lord the King;<note place="margin">Nota.</note> 
+                  <hi>and that all</hi> His Tyranny,
+Acts, Facts, falſe Opinions, ſhall be voyded, abated, adnul<g ref="char:EOLhyphen"/>led,
+deſtroyed, <hi>and</hi> put out of remembrance for ever. <hi>And
+that</hi> all indictments in time coming, in like caſe under power of
+Tyranny, Rebellion <hi>and</hi> ſtirring had, ſhall be of no regard, nor
+effect, but void in Law: <hi>and all the Petitions</hi>
+                  <note n="*" place="margin">To wit by <hi>Cade</hi> and his confederates for the altera<g ref="char:EOLhyphen"/>tion of the Laws, <hi>&amp;c.</hi>
+                  </note> delivered
+to the ſaid King in his laſt Parliament holden at <hi>Weſtminſter,
+the ſixth day of</hi> November, <hi>the</hi> 29. of his Reign, againſt
+his mind, by him not agreed, ſhall be taken and put in oblivion
+out of remembrance, undone, voided, adnulled and deſtroyed,
+for ever, as a thing purpoſed againſt God and his Conſcience,
+and againſt his Royall eſtate and preheminence, and alſo DIS<g ref="char:EOLhyphen"/>HONO<g ref="char:V">Ʋ</g>RABLE
+<hi>and</hi> 
+                  <g ref="char:V">Ʋ</g>NREASONABLE.</p>"</q>
+            <p>5. In the<note n="a" place="margin">See Mr. S<hi rend="sup">t</hi>. <hi>Iohns</hi> Argu<g ref="char:EOLhyphen"/>ment againſt <hi>Strafford,</hi> p. 178. Halls Chronicle and Hollinſhed.</note> 8 year of King <hi>Henry</hi> the 8. <hi>William Bell,</hi>
+and <hi>Thomas Lacy,</hi> in the County of <hi>Kent</hi> conſpired with
+<hi>Thomas Cheyney</hi> (the Hermite of the <hi>Queen of Fairies)
+TO OVERTHROW THE LAWS AND C<g ref="char:V">Ʋ</g>STOMES
+OF THE REALM:</hi> for effecting whereof, they with
+200. more met together, and concluded upon a cauſe or
+raiſing greater forces in <hi>Kent,</hi> and the adjacent <hi>Shires,</hi> this
+was <hi>adjudged high Treaſon,</hi> and ſome of them <hi>executed as
+Traytors.</hi> Moreover, it<note n="b" place="margin">Cooks 3. inſti<g ref="char:EOLhyphen"/>tutes, p. 9. 10.</note> 
+               <hi>was reſolved by all the Judges of
+<pb n="28" facs="tcp:118951:16"/>
+in the reign of</hi> Henry 8. <hi>that an Inſurrection againſt the Sta<g ref="char:EOLhyphen"/>tute
+of Labourers, or for the inhanſing of Salaries and wages
+was TREASON, a levying war againſt the King,</hi> BECAUSE
+IT WAS GENERALLY AGAINST THE KINGS
+LAW, and the offendors took upon them THe RE<g ref="char:EOLhyphen"/>FORMATION
+THEREOF, which <hi>Subjects by gathering
+of power ought not to do.</hi>
+            </p>
+            <p>
+               <note n="a" place="margin">Cooks 4. In<g ref="char:EOLhyphen"/>ſtitutes, ch. 8. p. 89. to 96.</note>6. On December 1. <hi>in the 21. year of King</hi> Henry
+the 8. <hi>Sir</hi> Thomas Moore, <hi>Lord Chancellour of</hi> England,
+<hi>with 14. more, Lords of the Privy Councel,</hi> John Fitz-James,
+Chief Juſtice of <hi>England, and Sir</hi> Anthony Fitzher<g ref="char:EOLhyphen"/>hert,
+<hi>one of the</hi> Judges of the Common Pleas, <hi>exhibited ſundry
+Articles of impeachment to King</hi> Henry the 8. <hi>againſt</hi>
+Cardinall Wolſy: That he had by divers and many ſundry wayes
+and faſhions committed High treaſon, <hi>and NOTABLE GRIE<g ref="char:EOLhyphen"/>VOUS
+OFFENCES,</hi> miſuſing, <hi>Altering, and ſubverting
+the order of his Graces Lawes,</hi> and otherwiſe; contrary to
+his high Honour, Prerogative, Crown, Eſtate and Dignity
+Royall; to the ineſtimable great hinderance, diminution and
+decay of the uniuerſall Wealth of this his Graces Realm. <hi>The
+Articles are 43. in number: The</hi> 20, 21, 26, 30, 35, 37, 42,
+43. <hi>contain,</hi> his illegall, arbitrary practices and proceedings to
+the ſubverſion of the due courſe and order of his Graces Lawes,
+to the undoing of a great number of his loving people. Whereup<g ref="char:EOLhyphen"/>on
+they pray. Pleaſe therefore your moſt excellent Majeſty of your
+excellent goodneſſe towards the Weal of this your Realm, and
+Subjects of the ſame, to ſee ſuch order and direction upon the
+ſaid Lord Cardinall, <hi>As may be to terrible example of o<g ref="char:EOLhyphen"/>ther,
+to beware to offend your Grace,</hi> and <hi>your Lawes
+hereafter:</hi> And that he be ſo provided for that he never have a<g ref="char:EOLhyphen"/>ny
+Power, Jurisdiction or Authority hereafter, to trouble, vex,
+or impoveriſh the Common wealth of this your Realm, as he
+hoth done heretofore, to the great hurt and dammage of every
+man almoſt, High and low. <note n="*" place="margin">See Speed, Holiſhed, Graf<g ref="char:EOLhyphen"/>ton, Stow, <hi>An<g ref="char:EOLhyphen"/>tiquitates Ec<g ref="char:EOLhyphen"/>cleſiae,</hi> Brit. p. 378. &amp; 379. and <hi>Goodwin</hi> in his life time.</note>
+               <hi>His</hi> poyſoning <hi>himſelf prevented
+his judgement for theſe his Practiſes.</hi>
+            </p>
+            <p>
+               <note n="b" place="margin">M. <hi>St. Iohns</hi> Argument a<g ref="char:EOLhyphen"/>gainſt <hi>Strafford</hi>
+               </note>7. The <hi>Statute of 1. Marie</hi> c. 12. Enacts that if 12. or more
+ſhall endeavour <hi>By force to alter any of the Laws or Statutes
+of the Kingdome;</hi> the offender ſhall from the time therein
+<pb n="29" facs="tcp:118951:16"/>
+limited be adjudged ONELY AS A FELON: whereas it
+was <hi>Treaſon</hi> before; but this Act continuing but till the
+next <hi>Parliament,</hi> and then expiring, the offence remains
+Treaſon, as before.</p>
+            <p>
+               <note n="a" place="margin">Cook 3 Inſt. c. 1. 9, 10. and M. <hi>St. Iohns</hi> Argument at Law, a<g ref="char:EOLhyphen"/>gainſt <hi>Strafford</hi> p. 15, 16.</note>8. <hi>In the</hi> 39. <hi>of Queen</hi> Eliſabeth, <hi>divers in the Coun<g ref="char:EOLhyphen"/>ty
+of</hi> Oxford <hi>conſulted together, to</hi> go from Houſe to Houſe,
+in that County, and from thence to <hi>London</hi> and other parts, to
+excite them to take arms for the throwing down of incloſures
+throughout the Realm; <hi>nothing more was proſecuted, nor
+Aſſemblies made; yet</hi> in Eaſter Term 39. Eliſabeth, <hi>it was</hi>
+reſolved by all the judges of <hi>England (who met about the
+caſe) That this was</hi> High Treaſon, and a levying Warre a<g ref="char:EOLhyphen"/>gainſt
+the Queen, becauſe it was to throw down all incloſures
+throughout the Kingdome, to which they could pretend no right,
+and that the end of it was, to <hi>OVERTHROW THE LAWS
+AND STATUTES for</hi> Incloſures. Whereupon <hi>BRAD<g ref="char:EOLhyphen"/>SHAW
+and BURTON (two of the principall offenders</hi>)
+were condemned and executed at <hi>Aiciſton</hi> Hill in <hi>Oxfordſhire,
+where they intended their firſt meeting.</hi>
+            </p>
+            <p>
+               <note n="b" place="margin">See the Jour<g ref="char:EOLhyphen"/>nals of both Houſes, and Act for his Attainder, Mr. <hi>Pyms</hi> De<g ref="char:EOLhyphen"/>claration upon the whole mat<g ref="char:EOLhyphen"/>ter of the Charge of High Treaſon againſt him, April the 12. 1641. M. <hi>St. Iohns</hi> Argument at Law at his Attainder, and <hi>Diurnal Oc<g ref="char:EOLhyphen"/>currences.</hi>
+               </note>9. <hi>To come nearer to our preſent times and caſe. In
+the laſt</hi> Parliament of King <hi>Charls,</hi> Anno 1640. 1641. The
+whole houſe of Commons impeached <hi>Thomas</hi> Earl of <hi>Strafford,</hi>
+Lord Deputy of <hi>Ireland</hi> of High Treaſon, amongſt other
+<hi>Articles, for this crime eſpecially (wherein all the other
+centred,</hi>) That he hath <hi>TREASONABLY ENDEVOU<g ref="char:EOLhyphen"/>RED</hi>
+by his Words, Actions and Counſels, to <hi>SUBVERT THE
+FUNDAMENTALL LAWS OF ENGLAND and IRE<g ref="char:EOLhyphen"/>LAND,</hi>
+and introduce an Arbitrary and Tyrannicall Govern<g ref="char:EOLhyphen"/>ment.
+<hi>This the whole</hi> Parliament <hi>declared and adjudged
+to be</hi> High Treaſon, <hi>in and by their</hi> votes, and a ſpeciall
+Act of Parliament for his Attainder; <hi>for which he was con<g ref="char:EOLhyphen"/>demned
+and ſoon after executed on</hi> Tower Hill, <hi>as a</hi> Tray<g ref="char:EOLhyphen"/>tour
+to the King and Kingdome, <hi>May</hi> 22. 1641.</p>
+            <p>
+               <note n="c" place="margin">See the Com<g ref="char:EOLhyphen"/>mons and Lords <hi>Iournals,</hi> his printed im<g ref="char:EOLhyphen"/>peachment, Mr. Pyms Speech thereat, <hi>Can<g ref="char:EOLhyphen"/>buties</hi> Doom. p. 25, 26, 2<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 38, 40<g ref="char:punc">▪</g>
+               </note>10. The <hi>whole Houſe of Commons</hi> the ſame <hi>Parliament</hi>
+impeached <hi>William Laud Archbiſhop of</hi> Canterbury <hi>of</hi>
+HIGH TREASON; in theſe very terms, <hi>February</hi> 6.
+1640.</p>
+            <p>
+               <hi>Firſt,</hi> That he hath <hi>trayterouſly endeavoured to ſubvert
+<pb n="30" facs="tcp:118951:17"/>
+Fundamentall Lawes and Government of this Kingdome
+of</hi> England, and inſtead thereof to introduce <hi>An Arbitrary</hi>
+and <hi>Tyrannicall Government againſt Law:</hi> 
+               <note place="margin">See chap. 2. Propoſition 1.</note>
+               <q rend="inline margQuotes">
+                  <p>"and he to that
+end hath wickedly, <hi>and TRAYTEROUSLY</hi> adviſed his Ma<g ref="char:EOLhyphen"/>jeſty,
+that he might at his own will and pleaſure, L<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vy and take
+money of his Subjects without their conſent in Parliament, and
+and this he affirmed was warrantable by the Law of God.</p>
+                  <p>
+                     <hi>Secondly,</hi> He hath for the better accompliſhment of that his
+Trayterous deſign, <hi>adviſed and procured Sermons and o<g ref="char:EOLhyphen"/>ther
+Diſcourſes, to be preached, printed and publiſh<g ref="char:EOLhyphen"/>ed,</hi>
+in which the Authority of Parliaments, and the force of
+the Lawes of this Kingdome have been denyed, and abſolute
+and unlimited Power over the perſons and eſtates of his Maje<g ref="char:EOLhyphen"/>ſties
+Subjects maintained and defended, not onely in the King,
+but in himſelf and other Biſhops againſt the Law.</p>
+                  <p>Thirdly, <hi>He hath by Letters, Meſſages, Threats
+and promiſes, and by divers other wayes to Judges, and
+other Miniſters of Juſtice, interrupted, perverted, and at o<g ref="char:EOLhyphen"/>ther
+times by means aforeſaid hath endevoured to interrupt and
+pervert the courſe of Juſtice in his Majeſties Courts at</hi> Weſt<g ref="char:EOLhyphen"/>minſter
+<hi>and other Courts,</hi> TO THE SUBVERSION
+OF THE LAWS OF THIS KINGDOME, whereby
+ſundry of his Majeſties Subjects have been ſtopt in their
+juſt ſuits, deprived of their lawfull Rights, and ſub<g ref="char:EOLhyphen"/>jected
+to his Tyrannical will, to their ruine and deſtru<g ref="char:EOLhyphen"/>ction.</p>
+                  <p>Fourthly, <hi>That he hath trayterouſly endevoured to cor<g ref="char:EOLhyphen"/>rupt
+the other Courts of Juſtice,</hi> by a viſing and procu<g ref="char:EOLhyphen"/>ring
+his Majeſty to ſell places of Judicature, and other
+offices, CONTRARY TO THE LAWS and CU<g ref="char:EOLhyphen"/>STOMES
+in that behalf.</p>
+                  <p>Fifthly, He hath TRAYTEROUSLY cauſed a Book
+of <hi>Canons</hi> to be compiled and publiſhed, without any
+lawfull warrant and Authority in that behalf; <hi>in
+which pretended Canons many matters are contained, contrary
+to</hi> the Kings Prerogative, to the fundamentall Laws and
+Statutes of this Realm, to the Rights of Parliament,
+to the Property, and Liberty of the Subject, <hi>and mat<g ref="char:EOLhyphen"/>ters
+<pb n="31" facs="tcp:118951:17"/>
+tending to ſedition and of dangerous conſequence; and to
+the eſtabliſhing of a vaſt, unlawfull, preſumptuous power in
+himſelf and his Succeſſors &amp;c.</hi>
+                  </p>
+                  <p>Seventhly, That he hath trayterouſly endevored to <hi>al<g ref="char:EOLhyphen"/>ter
+and ſubvert Gods true Religion BY LAW ESTABLISH<g ref="char:EOLhyphen"/>ED;</hi>
+and inſtead thereof to ſet up Popiſh Religion and
+Idolatry, And to that end hath declared, and maintain<g ref="char:EOLhyphen"/>ed
+in Speeches and Printed Books, divers Popiſh Do<g ref="char:EOLhyphen"/>ctrines,
+and opinions, contrary to to the Articles of
+Religion, <hi>ESTABLISHED BY LAW.</hi> He hath urged
+and enjoyned divers Popiſh, and Superſtitious Cere<g ref="char:EOLhyphen"/>monies
+<hi>WITHO<g ref="char:V">Ʋ</g>T ANY WARRANT OF LAW;</hi>
+and <hi>hath cruelly perſecuted thoſe who have oppoſed the ſame, by
+corporall puniſhments, and impriſonments; and moſt unjuſtly
+vexed others who refuſed to conform thereunto by Ecccleſia<g ref="char:EOLhyphen"/>ſticall
+Cenſures, Excommunication, Suſpenſion, Deprivation
+and Degradation, CONTRARY TO THE LAWS OF
+THIS KINGDOME.</hi>
+                  </p>
+                  <p>13. He did by his own authority and power contra<g ref="char:EOLhyphen"/>ry
+to Law <hi>procure</hi> ſundry of his Majeſties Subjects, and
+enforced the Clergy of this Kingdome to contribute
+towards the maintenance of the war againſt the <hi>Scots.</hi>
+                  </p>
+                  <p>That to preſerve himſelf from being queſtioned for
+theſe and other his Trayterous Courſes, he hath
+laboured <hi>to Subvert the Rights of Parliament, and the an<g ref="char:EOLhyphen"/>cient
+Courſe of Parliamentary Proceedings,</hi> and by falſe and
+malicious ſlanders to incenſe his Majeſty againſt Par<g ref="char:EOLhyphen"/>liaments.</p>"</q>
+            </p>
+            <p>All which being proved againſt him at his Triall, were
+after ſolemn Argum<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt by Mr. <hi>Samuel Brown</hi> in behalf of
+the Commons Houſe proved; and ſoon after adjudged,
+to be <hi>High Treaſon at the Common Law,</hi> by <hi>both Houſes of
+Parliament;</hi> and ſo declared in the <hi>Ordinance for his At<g ref="char:EOLhyphen"/>tainder:</hi>
+for which he was <hi>condemned and beheaded</hi> as <hi>a Trai<g ref="char:EOLhyphen"/>tor
+againſt the King, Law and Kingdome,</hi> on Tower hill, <hi>Ja<g ref="char:EOLhyphen"/>nuary</hi>
+10. 1644.</p>
+            <p>11. In the<note n="a" place="margin">See the Com<g ref="char:EOLhyphen"/>mons and Lords Journals, Durnal Occur<g ref="char:EOLhyphen"/>rences p. 15, 16 19. 37. 191. to 264. and Mr. St. <hi>Iohns</hi> Speech at a conſcience of both Houſes of Parliament concerning ſhi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mony and theſe Judges. Together with the Speeches of Mr. <hi>Hide,</hi> Mr. <hi>Walker,</hi> Mr. <hi>P<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erpoint,</hi> Mr. <hi>Denzill Hollis,</hi> at their impeachments <hi>
+                     <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uly</hi> 16. 1641. aggravating their offences in Diurnall Oc<g ref="char:EOLhyphen"/>currences and Speeches.</note> ſame <hi>Parliament, December</hi> 21. Jan. 14. Fe<g ref="char:EOLhyphen"/>bruary
+11. 1640. and July 6. 1641. Sir <hi>John Finch,</hi> then
+<pb n="32" facs="tcp:118951:18"/>
+Lord Keeper, chief Juſtice <hi>Bramſton,</hi> Judge <hi>Berkly,</hi> Judge
+<hi>Crawly,</hi> Chief Baron <hi>Davenport,</hi> Baron <hi>Weſton,</hi> and Baron
+<hi>Turnour,</hi> were accuſed and impeached by the Houſe of
+Commons, by ſeveral <hi>Articles</hi> tranſmitted to the Lords,
+OF HIGH TREASON, <hi>for that they had</hi> Traitorouſly <hi>and
+wickedly endeavoured</hi> to ſubvert the Fundamentall Laws,
+and eſt<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bliſhed Government of the Realm of ENGLAND,
+<hi>and inſtead thereof to introduce</hi> an Arbitrary and Tyranni<g ref="char:EOLhyphen"/>call
+Government againſt Law; <hi>which they had declared by
+Traiterous and wicked words, opinions, judgement, and more e<g ref="char:EOLhyphen"/>ſpecially
+in this their extrajudiciall opinion ſubſcribed by them in
+the caſe of</hi> Ship-money, viz. <hi>We are of opinion, that when
+the good and ſafety of the Kingdome in generall is concerned, and
+the whole kingdome in danger; Your Majeſty may by Writ under
+the Great Seal of</hi> England (without conſent in Parliament)
+<hi>command all your Subjects of this your Kingdome,</hi>
+               <note place="margin">See ch. 2. Pro<g ref="char:EOLhyphen"/>poſition 1.</note> 
+               <hi>at their charge
+to provide and furniſh ſuch a number of Ships, with Men, Victu<g ref="char:EOLhyphen"/>all
+and Ammunition, and for ſuch time as your Majeſty ſhall think
+fit, for the Defence and ſafeguard of the Kingdome, from ſuch
+danger and perill. And we are of opinion, that in ſuch caſe, your
+Majeſty is the ſole Judge both of the danger, and when, and how,
+the ſame is to be prevented and avoided.</hi> And likewiſe for ar<g ref="char:EOLhyphen"/>guing
+and giving iudgment accordingly in Maſter <hi>John
+Hempdens</hi> caſe, in the <hi>Exchequer Chamber,</hi> in the point of
+Ship money in <hi>Aprill 1638. which ſaid Opinions</hi> are De<g ref="char:EOLhyphen"/>ſtructive
+to the Fundamental Laws of the Realm, the ſub<g ref="char:EOLhyphen"/>jects
+Right of Propriety, <hi>and contrary to former Reſolutions
+in Parliament,</hi> and the Petition of Right; <hi>as</hi> the words
+of their ſeveral Impeachments run. Sr. <hi>John Finch</hi>
+fled the Realm to <hi>preſerve his head on his Shoulders;</hi> ſome o<g ref="char:EOLhyphen"/>thers
+of them d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed through fear, to prevent the danger
+ſoon after their <hi>Impeachments;</hi> and the reſt put to Fines,
+who were leſſe peccant.</p>
+            <p>12. Mr. <hi>John Pim,</hi> in his <hi>Declaration</hi> upon the whole
+matter of the <hi>Charge</hi> of <hi>High Treaſon</hi> againſt <hi>Thomas</hi> Earle
+of <hi>Strafford,</hi> April 12. 1641. before a <hi>Committee of both
+Houſes of Parliament in Weſtminſter Hall; printed and publiſh<g ref="char:EOLhyphen"/>ed
+by Order of the Houſe of Commons;</hi> proves his endeavour
+<pb n="33" facs="tcp:118951:18"/>
+to ſubvert the <hi>Fundamentall Law of England,</hi> and to intro<g ref="char:EOLhyphen"/>duce
+an Arbitrary Power; to be <hi>High Treaſon,</hi> and an of<g ref="char:EOLhyphen"/>fence
+very hainous in the nature, and miſchievous in the
+effects thereof; which (ſaith he) will beſt appear, if it be
+examined by that univerſall and ſupream Law, <hi>Salus Popu<g ref="char:EOLhyphen"/>li:</hi>
+the element of all laws, out of which they are deri<g ref="char:EOLhyphen"/>ved:
+the end of all Laws, to which they are deſigned, and
+in which they are perfected.</p>
+            <p>1. <q rend="inline margQuotes">
+                  <p>'It is an offence comprehending all other offences.
+Here you ſhall finde ſeveral Treaſons, Murthers, Rapins,
+Oppreſſions, Perjuries. There is in this Crime, a Semi<g ref="char:EOLhyphen"/>nary
+of all evills, hurtfull to a State; and if you con<g ref="char:EOLhyphen"/>ſider
+the Reaſons of it, it muſt needs be ſo. The Law,
+is that which puts a difference betwixt Good and Evill:
+betwixt juſt and unjuſt.<note place="margin">Nota.</note> If you take away the Law, all
+things will fall into Confuſion; every man will become
+a law to himſelf, which in the depraved condition of hu<g ref="char:EOLhyphen"/>mane
+nature muſt needs produce man great enormities.
+<note n="*" place="margin">And are they not ſo now?</note>Luſt will become a Law, and Envy will become a Law;
+Covetouſneſſe and Ambition will become Laws; and
+what Dictates, what deciſions ſuch laws will produce,
+may eaſily be diſcerned in the late Governm<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi>
+(and <hi>England</hi> too ſince this.) The Law hath a po<g ref="char:EOLhyphen"/>wer
+to prevent, to reſtrain, to repair evils: without this
+all kind of miſchiefs and diſtempers will break in upon
+a State. It is the Law that doth the King to the Allegi<g ref="char:EOLhyphen"/>ance
+and Service of his people: it intitles the People to
+the Protection and Juſtice of the King, &amp;c. <hi>The Law is
+the Boundary, the meaſure betwixt the Kings Prerogative,
+and the peoples Liberty, whiles theſe move in their own O<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>b,
+they are a ſupport and ſecurity to one another: but if theſe
+Bounds be ſo removed that they enter into conteſtation and con<g ref="char:EOLhyphen"/>flict,
+one of theſe miſchiefs muſt needs enſue. If the Preroga<g ref="char:EOLhyphen"/>tive
+of the King overwhelm the Liberty of the people, it will be
+turned into Tyranny: If Liberty undermine the Prerogative
+it will turn into Anarchy. The Law is the ſafeguard, the cuſtody
+of all private intereſts, your honours, your lives, your liberties,
+and eſtates are all in the keeping of the Law, without this eve<g ref="char:EOLhyphen"/>ry
+<pb n="34" facs="tcp:118951:19"/>
+man hath a like Right to any thing: and this is the condition
+into which the Iriſh were brought by the Earl of</hi> Strafford,
+(and the Engliſh by others who condemned him.) And
+the reaſon which he gave for it, hath more miſchief
+than the thing it ſelf: THEY ARE A CONQUER<g ref="char:EOLhyphen"/>ED
+NATION (Let thoſe who now ſay the ſame of
+<hi>England,</hi> as well as <hi>Scotland</hi> and <hi>Ireland,</hi> conſider and
+obſerve what follows,) <hi>There cannot be a word more pre<g ref="char:EOLhyphen"/>gnant
+and fruitfull</hi> IN TREASON, <hi>then that word is.
+There are few Nations in the world, that have not been con<g ref="char:EOLhyphen"/>quered,
+and no doubt but the Conquerour may give what Laws
+he pleaſe, to thoſe that are conquered. But if the ſucceeding
+Acts and agreements do not limit and reſtrain that Right, what
+people can be ſecure?</hi> England <hi>hath been conquered and</hi>
+Wales <hi>hath been conquered; and by this reaſon will be in lit<g ref="char:EOLhyphen"/>tle
+better caſe than</hi> Ireland. <hi>If the King by the Right of a
+Conquerour give Lawes to his people, ſhall not the people by the
+ſame reaſon be reſtored to the Right of the conquered,</hi> To re<g ref="char:EOLhyphen"/>cover
+their Liberty if they can? What can be more hurt<g ref="char:EOLhyphen"/>full,
+more pernicious than ſuch Propoſitions as
+theſe?</p>
+                  <p>2. It is dangerous to the Kings perſon: and dange<g ref="char:EOLhyphen"/>rous
+to his Crown: It is apt to cheriſh Ambition, u<g ref="char:EOLhyphen"/>ſurpation
+and Oppreſſion in great men: and to beget
+Sedition, Diſcontent in the people, and both theſe
+have been, and in reaſon muſt ever be cauſes of great
+Trouble and Alterations to Prince and State. If the
+Hiſtories of thoſe Eaſtern Countries be peruſed, where
+Princes order their Affairs according to the miſchie<g ref="char:EOLhyphen"/>vous
+Principles of the Earl of <hi>Strafford,</hi> LOOSE and
+ABSOLVED FROM ALL RULES OF GOVERN<g ref="char:EOLhyphen"/>MENT;
+they will be found to be frequent in combu<g ref="char:EOLhyphen"/>ſtions,
+full of Maſſacres, and of the tragicall end of
+Princes. If any man ſhall look into our own Stories in
+the times,<note place="margin">Nota.</note> when the Laws were moſt neglected, he ſhall
+find them full of Commotions, of Civil Diſtempers:
+whereby the Kings that then raigned were alwayes
+kept in want and diſtreſſe, the people conſumed with
+<pb n="35" facs="tcp:118951:19"/>
+CIVIL WARRES: and by ſuch wicked Counſels as
+theſe, ſome of our Princes have been brought to ſuch mi<g ref="char:EOLhyphen"/>ſerable
+ends, <hi>As</hi>
+                     <note n="*" place="margin">Note this all whole com<g ref="char:EOLhyphen"/>mons-houſe Opinion then.</note> 
+                     <hi>no honeſt heart can remember without hor<g ref="char:EOLhyphen"/>rour</hi>
+and <hi>earneſt Prayer, that it may never be ſo again.</hi>
+                  </p>
+                  <p>3. As it is dangerous to the Kings perſon and Crown,
+ſo it is in other reſpects very prejudiciall to his Majeſty,
+in honour, profit and greatneſſe (which he there proves
+at large, as you may there read at leaſure) and yet theſe
+are the Guildings and Paintings, that are put upon ſuch
+Counſels: Theſe are for your Honour, for your
+Service.</p>
+                  <p>4. It is inconſiſtent with the Peace, the Wealth, the
+Proſperity of a Nation. It is deſtructive to Juſtice,
+the mother of Peace: to Induſtry, the Spring of Wealth;
+to Valour, which is the active vertue, whereby the pro<g ref="char:EOLhyphen"/>ſperity
+of a Nation can onely be procured, confirm<g ref="char:EOLhyphen"/>ed,
+and enlarged. It is not onely apt to take a way Peace,
+and ſo intangle the Nation with warres, but doth cor<g ref="char:EOLhyphen"/>rupt
+Peace, and powrs ſuch a malignity into it, as pro<g ref="char:EOLhyphen"/>duceth
+the effects of War: both to the<note n="*" place="margin">Is not this an experimen<g ref="char:EOLhyphen"/>tall truth now.</note> NOBILITY
+and others having as little ſecurity of THEIR PER<g ref="char:EOLhyphen"/>SONS
+OR ESTATES, in this peaceable time, as if the
+Kingdome had been under the fury and rage of warre.
+And as for Induſtry and Valour, who will take pain<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+for that, which when he hath gotten, is not his own?
+or who fights for that wherein he hath no other intereſt,
+but ſuch as is ſubject to the will of another? <hi>&amp;c.</hi>
+Shall it be Treaſon to embaſe the Kings Coin; though
+but a piece of twelve pence or ſix pence, and muſt it not
+needs be the effect of GREATER TREASON to
+<note n="*" place="margin">And were they ever ſo baſe, cowardly, ſlaviſh as now?</note> embaſe the Spirits of his Subjects, and to ſet a ſtamp
+and Character of Servitude upon them, whereby they
+ſhall be diſabled to do any thing for the Service of the
+King or Common-wealth?</p>
+                  <p>5. In times of ſudden danger, by the Invaſion of an
+enemy, it will diſable his Majeſty to preſerve himſelf and
+his Subjects from that danger. When war threatens a
+Kingdome, by the coming of a forreign enemy, it is no
+<pb n="36" facs="tcp:118951:20"/>
+time then to diſcontent the people, to make them wea<g ref="char:EOLhyphen"/>ry
+of the PRESENT GOVERNMENT, and more in<g ref="char:EOLhyphen"/>clinable
+to a change. The Supplies which are to come
+in this way, will be unready, uncertain; there can be
+no aſſurance of them, no dependence upon them, either
+for time or proportion. And if ſome money be gotten
+in ſuch a way, the Diſtractions, the Diviſions, Diſtem<g ref="char:EOLhyphen"/>pers,
+which this cauſe is apt to produce, will be more
+prejudiciall to the publick ſafety, than the Supply can
+be advantageous to it.</p>
+                  <p>6. This crime is contrary to the Pact and Covenant between the
+King and his people; by mutuall agreement and ſtipulation, con<g ref="char:EOLhyphen"/>firmed
+by OATH on both ſides.</p>
+                  <p>7. It is an Offence that is contrary to the ends of Go<g ref="char:EOLhyphen"/>vernment.</p>
+                  <p>1. To prevent Oppreſſions; to<note n="*" place="margin">Was ever their power, vi<g ref="char:EOLhyphen"/>olence ſo un<g ref="char:EOLhyphen"/>limited, un<g ref="char:EOLhyphen"/>bounded in all Kinds as now?</note> limit and reſtrain the ex<g ref="char:EOLhyphen"/>ceſſive
+power and violence of great Men: to open paſſages of Ju<g ref="char:EOLhyphen"/>ſtice
+with indifference towards all.</p>
+                  <p>2. To preſerve men in their Eſtates, to ſecure them in their
+Lives, and Liberties.</p>
+                  <p>3. That vertue ſhould be cheriſhed, and vice ſuppreſſed: but
+where Laws are ſubverted, and arbitrary and unlimited power
+ſet up; a way is open not onely for the ſecurity, but for the
+Advancement and Incouragement of evil. Such men as are
+<note n="*" place="margin">Is it not moſt true of late and ſtill?</note> apteſt for the execution and maintenance of this power are
+onely capable of Preferment, and others, will not he Inſtru<g ref="char:EOLhyphen"/>ments
+of any unjuſt Commands, who make conſcience to do any
+thing againſt the Law of the Kingdome,<note place="margin">Nota.</note> and Liberties of the
+Subject, are not only not paſſable for imployment; <hi>but SUBJECT
+TO MUCh JEALOUSIE and DANGER, (Is not this
+their Condition of late and preſent times?</hi> expertus lo<g ref="char:EOLhyphen"/>quor.)</p>
+                  <p>4. That all Accidents and events, all Counſels, and Deſigns
+ſhould be improved to the publick good. But this arbitrary power
+is apt to diſpoſe all to the maintenance of it ſelf. <hi>And is it not
+ſo now?</hi>
+                  </p>
+                  <p>8. The Treaſons of Suberſions of the Lawes, violation of
+Liberties can never be good or juſtifiable by any circumſtance or
+<pb n="37" facs="tcp:118951:20"/>
+occaſion, being evil in their own nature, how ſpecious or good ſo<g ref="char:EOLhyphen"/>ever
+they be pretended. He alledgeth it was a time of <hi>GREAT
+NECESSITY and DANGER,</hi>
+                     <note place="margin">Nota.</note> when ſuch Counſels were
+neceſſary <hi>FOR THE PRESERVATION OF THE
+STATE, (the Plea ſince, and now uſed by others, who
+condemned him:</hi>) If there were any <hi>NECESSITY IT
+WAS OF HIS OWN MAKING.</hi> He by his evil Counſel
+had brought the King (<hi>as others the Kingdome ſince</hi>) into
+a neceſſity; and by no Rules of Juſtice can be allowed to gain
+this advantage to his Juſtification; which is <hi>A GREAT
+PART OF HIS OFFENCE.</hi>
+                  </p>
+                  <p>9. As this is Treaſon in the nature of it, ſo it doth
+exceed all other Treaſons in this; that in the Deſign
+and endevour of the Authour, it was to be A CON<g ref="char:EOLhyphen"/>STANT
+and PERMANENT TREASON; a ſtanding,
+perpetual Treaſon, which would have been in continu<g ref="char:EOLhyphen"/>all
+Act, not determined within one time or age, but
+tranſmitted to Poſterity, even from Generation to Ge<g ref="char:EOLhyphen"/>neration.
+And are not others Treaſons of late times
+ſuch, proclaimed ſuch, in and by their own <hi>Printed Pa<g ref="char:EOLhyphen"/>pers,</hi>
+and therein exceeding <hi>Straffords?</hi>
+                  </p>
+                  <p>10. As it is a crime <hi>Odious</hi> in the nature of it, ſo it is
+odious in the Judgement and eſtimation of the Law.
+TO ALTER THE SETLED FRAME AND CON<g ref="char:EOLhyphen"/>STITUTION
+OF GOVERNMENT IN ANY
+STATE. (Let thoſe conſider it who are guilty of it in
+the higheſt Degree, beyond <hi>Strafford, Canterbury,</hi> or the
+<hi>Shipmony Judges</hi> in our own State) The Lawes whereby
+all parts of a Kingdome are preſerved, ſhould be very
+vain and defective, if they had not a <hi>Power to ſecure and
+preſerve themſelves.</hi> The <hi>Forfeitures</hi> inflicted for <hi>Treaſon</hi> by
+our <hi>Law,</hi> are of <hi>Life, Honour</hi> and <hi>Eſtate,</hi> even all that
+can be forfeited: and this <hi>Priſoner,</hi> although he ſhould
+<note n="*" place="margin">And others, as well as he, of farre inſe<g ref="char:EOLhyphen"/>riour place and Eſtate.</note> pay all theſe <hi>Forfeitures,</hi> will ſtill be a <hi>Debtor</hi> to the
+<hi>Common wealth.</hi> Nothing can be more equall, <hi>then that he
+ſhould periſh by the Juſtice of the Law, which he would have
+ſubverted.</hi> Neither will this be a <hi>New way of blood.</hi> There
+are marks enough to trace this <hi>Law</hi> to the very Origi<g ref="char:EOLhyphen"/>nall
+<pb n="38" facs="tcp:118951:21"/>
+of this Kingdome. And if it hath not been put in
+execution, as he alledgeth this 240 years; it was not
+for <hi>want of Law,</hi> but that all <hi>that time had not bread a man</hi>
+                     <note n="*" place="margin">But have not our times bred men much bolder then he, ſince this Sp<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ech was made, and he executed.</note> 
+                     <hi>bold enough to commit ſuch crimes as theſe:</hi> which is a
+<hi>circumſtance</hi> much aggravating his <hi>Offence,</hi> and making
+him no leſſe liable to puniſhment, becauſe he is THE
+<note n="*" place="margin">Since he hath many follow<g ref="char:EOLhyphen"/>e<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s.</note> ONELY MAN, that in ſo long a time hath ventured
+UPON SUCH A TREASON AS THIS.'</p>
+               </q>
+            </p>
+            <p>Thus far M. <hi>John Pym;</hi> in the <hi>Name</hi> and by the <hi>Order</hi> and
+<hi>Authority</hi> of the whole <hi>Commons Houſe</hi> in <hi>Parliament,</hi> w<hi rend="sup">ch</hi> I
+wiſh all thoſe, who by their <hi>Words, Actions, Counſels</hi> (and
+printed <hi>Publications</hi> too, <hi>have trayterouſly endevoured to ſub<g ref="char:EOLhyphen"/>vert
+the Fundamentall Lawes, Liberties of</hi> England and <hi>Ire<g ref="char:EOLhyphen"/>land,
+and to introduce an arbitrary and Tyrannicall Government
+againſt Law,</hi> as much as ever <hi>Strafford</hi> did, and out ſtripped
+him therein, (even ſince his execution) in all particulars,
+for which he was <hi>beheaded;</hi> would now ſeriouſly lay to
+heart, and ſpeedily reform, leſt they equall or exceed him
+in concluſion, in <hi>Capitall puniſhments</hi> for the ſame, or end<g ref="char:EOLhyphen"/>leſſe,
+<hi>Helliſh Torments.</hi>
+            </p>
+            <p>The next Authority I ſhall produce in point is, <hi>The
+ſpeech and Declaration</hi> of Mr. <hi>Oliver St. John</hi> at a Conference
+of both <hi>Houſes of Parliament,</hi> concerning <hi>Shipmony</hi> upon
+Judge <hi>Finches Impeachment of High Treaſon,</hi> January 14.
+1640. printed by the <hi>Commons Order, London,</hi> 1641. where<g ref="char:EOLhyphen"/>in
+he <hi>declares the ſenſe of the Commons.</hi> p. 12. <hi>&amp;c.</hi>
+               <q rend="inline margQuotes">
+                  <p>'<hi>That by the
+Judges Opinions</hi> (forecited) <hi>concerning Shipmony</hi> THE
+FUNDAMENTAL LAWS OF THE REALM CON<g ref="char:EOLhyphen"/>CERNING
+OUR PROPERTY and OUR PER<g ref="char:EOLhyphen"/>SONS
+ARE SHAKEN. <hi>Whoſe Treaſonable Offence</hi> here<g ref="char:EOLhyphen"/>in,
+he thus aggravates. <hi>p. 20. &amp;c.</hi> The <hi>Judges</hi> as is declared
+in the Parliament of 11. <hi>R.</hi> 2. are the <hi>Executors</hi> of the <hi>Sta<g ref="char:EOLhyphen"/>tutes,
+and of the Judgements and Ordinances of Parliament.</hi>
+They have here made themſelves the<note n="*" place="margin">Have none done ſo ſince them.</note> 
+                     <hi>EXEC<g ref="char:V">Ʋ</g>TIONERS
+OF THEM;</hi> they have endevoured <hi>THE DESTR<g ref="char:V">Ʋ</g>
+                        <g ref="char:EOLhyphen"/>CTION
+OF THE F<g ref="char:V">Ʋ</g>NDAMENTALS OF O<g ref="char:V">Ʋ</g>R LAWS
+and LIBERTIES. Holland</hi> in the <hi>Low-Countries</hi> lies un<g ref="char:EOLhyphen"/>der
+the Sea: the <hi>Superficies</hi> of the <hi>Land,</hi> is lower than
+<pb n="39" facs="tcp:118951:21"/>
+the <hi>Superficies</hi> of the <hi>Sea.</hi> It is <hi>Capitall</hi> therefore for any
+man to cut the <hi>Banks,</hi> becauſe they defend the Country.
+Beſides our own,<note place="margin">See chap. 2.</note> even Forreign Authours, as <hi>Comines</hi>
+obſerves,<note place="margin">Propoſition 1.</note> That the Statute <hi>DE TALLAGIO,</hi> and the
+other <hi>old Laws</hi> are the <hi>Sea walls</hi> and <hi>Banks,</hi> which keep
+the Commons from the innundation of the Preroga<g ref="char:EOLhyphen"/>tive.
+Theſe<note n="*" place="margin">Aave not o<g ref="char:EOLhyphen"/>ther Pioners and Jaſſes done the like?</note> 
+                     <hi>Pioners</hi> have not onely <hi>undermined</hi> theſe
+<hi>Banks,</hi> but they have <hi>levelled</hi> them even with the ground.
+It one that was known to be <hi>Hoſtis Patriae,</hi> had done this,
+though the <hi>Dammage</hi> be the ſame, yet the <hi>Guilt</hi> is leſſe;
+but the <hi>Con<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ervatores Riparum,</hi> the overſeers intruſted
+with the Defence of theſe <hi>Banks,</hi> for them to deſtroy
+them; the <hi>breach of Truſt</hi> aggravates, nay alters the na<g ref="char:EOLhyphen"/>ture
+of the offence. <hi>Breach of Truſt</hi> though in a private
+Perſon, and in the leaſt things, is <hi>odious amongſt all men:</hi>
+much more in a publick Perſon, in things of great and
+publick concernment, becauſe<note n="*" place="margin">This is now grown a meere Paradox.</note> GREAT TRUST
+BINDS THE PARTY TRUSTED TO GREAT<g ref="char:EOLhyphen"/>EST
+CARE AND FIDELITY.</p>
+                  <p>It is TREASON in the <hi>Conſtable of Dover Caſtle</hi> to deli<g ref="char:EOLhyphen"/>ver
+the Keys to the known enemies of the Kingdom, be<g ref="char:EOLhyphen"/>cauſe
+the <hi>Caſtle is the Key of the Kingdome:</hi> wheras if the
+houſekeeper of a private perſon, deliver poſſeſſion to his
+Adverſary, it is a crime ſcarce puniſhab<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e by Law. The
+<note n="*" place="margin">What are they now of late times of pub<g ref="char:EOLhyphen"/>lick Changes?</note> 
+                     <hi>Judges</hi> under his <hi>Majeſty,</hi> are the Perſons truſted with
+the Laws and in them with the <hi>Lives, Liberties and Eſtates
+of the whole Kingdom.</hi> This Truſt of all we have, is prima<g ref="char:EOLhyphen"/>rily
+from his <hi>Majeſty,</hi> &amp;<note n="*" place="margin">See 27 H. 8. c. 24. 26. Ma<g ref="char:EOLhyphen"/>gna Charta. c. 12. 29 32 H. 3. c. 1. 3, 5. 9, 20 3 E. 1 c. 44. 45, 46. 13 E. 1. 10, 12 30 31. 35, 39. 44. 45. 25 E 1. c. 1, 2. 27 E., 1. c. 2, 3. 34 E. 1. c. 6. 12 E. 2. c. 6. 2 E. 3. c. 3. 14 E. 3. c. 10. 16. Rastal Ju<g ref="char:EOLhyphen"/>stices.</note> in him delegated to the <hi>Judges.</hi>
+His <hi>Majeſty</hi> at his <hi>Coronation</hi> is bound by his <hi>Oath</hi> TO
+EXECUTE JUSTICE TO HIS PEOPLE ACCOR<g ref="char:EOLhyphen"/>DING
+TO THE LAWS, thereby to aſſure the people
+of the faithfull performance of his <hi>Great Truſt:</hi> His Ma<g ref="char:EOLhyphen"/>jeſty
+again, as he truſts the <hi>Judges</hi> with the performance
+of this part of his <hi>Oath;</hi> ſo doth he likewiſe exact ano<g ref="char:EOLhyphen"/>ther
+<hi>Oath</hi> of them, for their due execution of Juſtice to
+the people, according to the Laws: hereby the Judges
+ſtand intruſted with this part of his <hi>Majeſties Oath.</hi> If
+therefore the <hi>Judges</hi> ſhall do wittingly againſt the Law,
+<pb n="40" facs="tcp:118951:22"/>
+they do not onely break their <hi>own Oaths,</hi> and therein the
+<hi>Common Faith and Truſt of the whole Kingdome,</hi> but do as
+much as in them lies, ſp<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rce and blemiſh the ſacred
+Perſon of his <hi>Majeſty</hi> with the odious and hatefull ſin of
+<note n="*" place="margin">Was it ever ſo freque <gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t a ſia as now in all ſorts of late Judges, Officers Subjects?</note> 
+                     <hi>Perjury.</hi>
+                  </p>
+                  <p>
+                     <hi>My Lords,</hi> the hainouſneſſe of this offence is moſt le<g ref="char:EOLhyphen"/>gible
+in the<note n="*" place="margin">Do none de<g ref="char:EOLhyphen"/>ſerve as ſevere now?</note> ſevere puniſhment which former ages have
+inflicted upon thoſe <hi>Judges,</hi> who have broken any part
+of their <hi>Oaths</hi> wittingly, though in things not ſo dan<g ref="char:EOLhyphen"/>gerous
+to the Subject, as in the caſe in queſtion.<note n="*" place="margin">See Cooks 3. Instil. p. 146, 147<g ref="char:punc">▪</g> and f. 133 Hollirſhed p. 284, 285. Speeds Hiſtory p. 651. S<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ow, Walſingham, Daniel in 18 Ed. 1.</note> Sir
+<hi>Thomas Wayland,</hi> Chief Juſtice of the <hi>Common-Pleas, 17 E.</hi>
+1. was attainted of <hi>Felony for taking bribes,</hi> and his <hi>Lands</hi>
+and <hi>Goods forfeited,</hi> as appears in the <hi>Pleas of Parliament,</hi>
+18 E. 1. and <hi>he was baniſhed the Kingdome,</hi> as unworthy to
+live in the State againſt which he had ſo much offended.
+<note n="*" place="margin">See Cgoks 3. Instit. p. 145.</note> Sir <hi>William Thorp</hi> Chief Juſtice of the <hi>Kings Bench</hi> in <hi>Ed<g ref="char:EOLhyphen"/>ward</hi>
+the thirds time, having of five perſons received
+five ſeverall <hi>Bribes,</hi> which in all amounted to one hun<g ref="char:EOLhyphen"/>dred
+pounds, was for this alone, <hi>adjudged to be hanged, and
+all his Goods and Lands forfeited:</hi> The reaſon of the Judge<g ref="char:EOLhyphen"/>ment
+is entered in the Roll in theſe words. <hi>Quia praedi<g ref="char:EOLhyphen"/>ctus
+Wilielmus</hi>
+                     <note n="*" place="margin">Have none of this Name, or of his Functi<g ref="char:EOLhyphen"/>on ſince done the like in an higher degree?</note> 
+                     <hi>Thorp qui Sa cramentum Domini Regis erga
+populum ſuum habuit ad cuſtodiendum, fugit malitiosè falsò &amp;
+rebelliter, quantum in ipſo fuit.</hi> There is a notable Decla<g ref="char:EOLhyphen"/>ration
+in that Judgement, that this Judgement was not
+to be drawn into example, againſt any other officers,
+who ſhould break their Oaths, but onely againſt thoſe,
+<hi>qui praedictum Sacramentum fecerunt, &amp; fregerunt, &amp;</hi>
+                     <note n="*" place="margin">Let Custodes Legum &amp; Li<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rtatum Angliae remem<g ref="char:EOLhyphen"/>ber it.</note> 
+                     <hi>ha<g ref="char:EOLhyphen"/>bent
+Leges Angliae ad cuſtodiendum:</hi> That is onely to the
+<hi>Judges Oaths,</hi> who have the Laws intruſted unto them.
+This Judgement was given 24 E. 3. The next year in
+Parliament 25 E. 3. <hi>Num.</hi> 10. it was debated in <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi>
+whether this Judgement was legall? <hi>Et nullo con<g ref="char:EOLhyphen"/>tradicente,</hi>
+it was declared, TO BE JUST AND AC<g ref="char:EOLhyphen"/>CORDING
+TO THE LAW: <hi>and that the</hi>
+                     <note n="*" place="margin">Let the Re<g ref="char:EOLhyphen"/>pater and o<g ref="char:EOLhyphen"/>thers conſi<g ref="char:EOLhyphen"/>der it.</note> 
+                     <hi>ſame Judge<g ref="char:EOLhyphen"/>ment
+may be given in time to come upon the like occaſion.</hi> This
+caſe is in point, <hi>That it is death for any Judge wittingly, to
+break his <gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ath in any part of it.</hi> This <hi>oath</hi> of <hi>Thorp</hi> is entred in
+<pb n="41" facs="tcp:118951:22"/>
+the Roll, and is the ſame <hi>verbatim</hi> with the Judges <hi>Oath</hi>
+in 18 E. 3. <hi>and is the ſame which the Judges now take.</hi> (And
+let thoſe who have taken the ſame Oath, remember and
+apply this Preſident, left others do it for them.)</p>
+                  <p>Your <hi>Lordſhips</hi> will give me leave to obſerve the diffe<g ref="char:EOLhyphen"/>rences
+between that and the caſe in queſtion.</p>
+                  <p>1. That of <hi>Thorp,</hi> was onely a ſelling of the <hi>Law</hi> by
+<hi>Retail</hi> to thoſe five perſons, for he had five ſeverall
+bribes, of theſe five perſons; the Paſſage of the Law to
+the reſt of the Subjects for ought appears, was free and
+open. But theſe <hi>Opinions</hi> are a conveyance of the <hi>Law</hi> by
+<hi>wholeſale,</hi> and that not to, but from the Subject.</p>
+                  <p>2. In that of <hi>Thorp.</hi> as to thoſe five perſons, it was
+not an <hi>abſolute deniall of Juſtice,</hi> it was not a <hi>damming
+up,</hi> but a <hi>ſtraitning onely of the Chanel.</hi> For whereas the
+<hi>Judges</hi> ought <hi>Judicium reddere,</hi> that is, the Laws being
+<hi>THE BIRTHRIGHT and INHERITANCE OF THE
+S<g ref="char:V">Ʋ</g>BJECT,</hi> the Judge when the parties in ſuit demand
+Judgement, ſhould <hi>re dare,</hi> freely reſtore the Right unto
+them; now he doth not <hi>dare,</hi> but <hi>vendere,</hi> with hazard
+onely of perverting Juſtice; for the party that buyes the
+Judgement, may have a good and honeſt cauſe. But
+theſe <hi>Opinions,</hi> beſides that they have coſt the Subjects
+very dear, dearer than any, nay, I think I may truly ſay,
+than all the unjuſt Judgements that ever have been given
+in this Realm, witneſſe the many hundred thouſand
+pounds, which under colour of them have been levyed
+upon the Subjects, amounting to<note n="*" place="margin">This is no<g ref="char:EOLhyphen"/>thing in com<g ref="char:EOLhyphen"/>pariſon to the late Taxes, or Exciſes impo<g ref="char:EOLhyphen"/>ſed on the Sub<g ref="char:EOLhyphen"/>jects, without a Parliament a<g ref="char:EOLhyphen"/>mounting to a<g ref="char:EOLhyphen"/>bove 20 times as much as the Kings Shipmo<g ref="char:EOLhyphen"/>ny, and more frequent, un<g ref="char:EOLhyphen"/>ceſſant, and endleſſe than it</note> ſeven hundred thou<g ref="char:EOLhyphen"/>ſand
+pounds and upwards, that have been paid unto the
+<hi>Treaſurer</hi> of the Nav<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, (in ſundry years) beſides what the
+Subjects have been forced to pay Sheriffes, Sheriffes-Bayliffes,
+(<hi>and now an hundred times more to T<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oopers, and
+Souldiers, who forcibly levy their unlawfull Contributions, and
+Exciſes</hi>) and otherwiſe; which altogether as is concei<g ref="char:EOLhyphen"/>ved,
+amounts not to leſſe than <hi>a million</hi> (in five years
+ſpace, whereas now we pay above two Millions in Taxes,
+Impoſts, Exciſes, every year) beſides the infinite v<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>xati<g ref="char:EOLhyphen"/>ons
+of the Subject by ſuits in Law, binding them over,
+<pb n="42" facs="tcp:118951:23"/>
+attendance at the Councel Table, taking them from
+their neceſſary imployments, in making Seſſes, and Col<g ref="char:EOLhyphen"/>lections,
+and impriſonment of their perſons (all now
+trebled to what then) I ſay beſides what is paſt, to make
+our miſeries compleat, they have as much as in them is
+MADE THEM ENDLESSE (as others ſince have done)
+for by theſe <hi>Opinions</hi> they have put upon themſelves and
+their Succeſſors, <hi>An impoſſibility of ever doing us right again,
+&amp; an incapacity upon us of demanding it ſo long as they continue</hi>
+(as the Compilers of the late <hi>Inſtrument,</hi> with 42. Strings,
+intitu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed, <hi>The Government of the Common-wealth of</hi> Eng<g ref="char:EOLhyphen"/>land,
+<hi>&amp;c. Artic.</hi> 1, 2, 3, 9, 10, 12, 22, 24, 25, 26, 27, 28. 31, 32.
+36, 37, 38, 39. have done, as far as they, and much be<g ref="char:EOLhyphen"/>yond
+them.)</p>
+                  <p>In that ſore famine in the <hi>Land of Egypt,</hi> when the in<g ref="char:EOLhyphen"/>habitants
+were reduced to the next doore to death (for
+there they ſay, why ſhould we die?) for bread, Firſt
+they give their money, next their flocks and Cattle, laſt
+of all their perſons and Lands for bread; all became
+<hi>Pharaohs;</hi> but by this <hi>Lex Regia,</hi> there is a tranſaction
+made, not onely of our perſons, but of our bread like<g ref="char:EOLhyphen"/>wiſe,
+wherewith our perſons ſhould be ſuſtained; that
+was for bread, this of our bread. For ſince theſe <hi>Opini<g ref="char:EOLhyphen"/>ons,</hi>
+if we have any thing at all, we are not at all be<g ref="char:EOLhyphen"/>holding
+TO THE LAW FOR IT, but are wholly
+caſt UPON THE MERCY and GOODNESSE OF
+THE KING. Again, there the <hi>Egyptians</hi> themſelves, ſold
+themſelves, and all they had to the King, if ours had
+been ſo done; if it had been ſo done by <hi>our own free conſent
+in Parliament,</hi> we had the leſſe cauſe to complain: <hi>But it
+was done againſt our wills,</hi> and <hi>by thoſe who were truſted,</hi> and
+<hi>that upon Oath, with the preſervation of theſe things for us.</hi>
+The Laws are our <hi>Forts,</hi> and <hi>Bulwarks</hi> of Defence: If the
+Captain of a <hi>Caſtle,</hi> onely out of fear and Cowardice,
+and not from any <hi>Compliance</hi> with the enemy ſurrender
+it, This is TREAON, as was adjudged in Parliament,
+1 R. 2. in the two Caſes of <hi>Comines</hi> and <hi>Weſton,</hi> and in
+the Caſe of the Lord <hi>Gray,</hi> for ſurrendering <hi>Barwick</hi> Ca<g ref="char:EOLhyphen"/>ſtle
+<pb n="43" facs="tcp:118951:23"/>
+to the <hi>Scots,</hi> in <hi>Edward</hi> the thirds time, though good
+defence had been made by him, and that he had loſt his
+eldeſt ſon in maintenance of the Siege: and yet the loſſe
+of a <hi>Caſtle</hi> loſeth not the Kingdome, onely the place and
+adjacent parts, with trouble to the whole. But by the
+<hi>Opinions,</hi> there is a Surrender made <hi>of all our Legal defence
+of Property:</hi> that which hath been preacht is now <hi>judged;</hi>
+that there is no <hi>Meum &amp; Tuum, between the King and people;</hi>
+beſides that which concerns our Perſons.</p>
+                  <p>The Law is the <hi>Temple,</hi> the <hi>Sanctuary,</hi> whether Sub<g ref="char:EOLhyphen"/>jects
+ought to run for <hi>ſhelter</hi> and <hi>Refuge:</hi> hereby it is be<g ref="char:EOLhyphen"/>come
+<hi>Templum fine numine,</hi> as was the <hi>Temple</hi> built by the
+<hi>Romane Emperour,</hi> who after he had built it, put no <hi>gods</hi>
+into it. We have the <hi>Letter</hi> of the <hi>Law</hi> ſtill, but not the
+<hi>ſenſe:</hi> we have the <hi>Fabrick of the Temple</hi> ſtill, but the <hi>Dii
+Tutelares</hi> are gone. But this is not all the Caſe, that is,
+<hi>That the Law now ceaſeth to aid and defend us in our Rights,</hi>
+for then poſſeſſion alone were a good Title, if there were
+no Law to take it away: <hi>Occupanti concederetur, &amp; melior
+eſſet Poſſidentis conditio:</hi> But this, though too bad is not
+the worſt: for beſides that which is <hi>Privitive</hi> in theſe <hi>O<g ref="char:EOLhyphen"/>pinions,</hi>
+there is ſomewhat <hi>poſitive. For now the Law doth
+not onely not defend us, but the Law it ſelf,</hi> (by temporiſing
+Judges and Lawyers) <hi>is made the Inſtrument of taking all
+away.</hi> For whenſoever his <hi>Majeſty</hi> or his <hi>Succeſſors,</hi> ſhall
+be pleaſed to ſay, <hi>that the good and ſafety of the Kingdome
+is concerned, and that the whole Kingdome is in danger, the
+when and how, the ſame is to be prevented, makes our perſons and
+all we have liable to bare will and Pleaſure.</hi> By this means,
+<hi>The Sanctuary is turned into a Shambles; the Forts are ſleight<g ref="char:EOLhyphen"/>ed,</hi>
+that ſo they might neither do us good nor hurt; <hi>But
+they are held againſt us by thoſe who ought to have held them for
+us,</hi> and <hi>the mouth of our own Can<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n is turned upon our own
+ſelves:</hi> and that by our own military Officers, Souldi<g ref="char:EOLhyphen"/>ers
+and others ſince, as well as the Ship money Judges
+then)'</p>
+               </q> 
+Thus far Mr. <hi>Oliver St. John</hi> (by the Commons
+Order) whoſe words I thought fit thus to tranſcribe at
+large, becauſe not onely moſt pertinent, but <hi>ſeaſonable</hi> for
+<pb n="44" facs="tcp:118951:24"/>
+the preſent times; wherein as in a Looking Glaſſe, ſome
+pretended Judges and Grandees, of theſe preſent and late
+paſt times, may behold their own faces and deformities;
+and the whole Nation their ſad condition under them.
+In the reſidue of that his Printed <hi>Speech,</hi> he compares the
+<hi>Treaſon</hi> of the <hi>Shipmony Judges,</hi> and of Sir <hi>Robert Treſy<g ref="char:EOLhyphen"/>lium</hi>
+and his Complices in XI. R. 2. condemned and exe<g ref="char:EOLhyphen"/>cuted
+for Traytors by Judgement in Parliament, <hi>for en<g ref="char:EOLhyphen"/>devouring
+to ſubvert the lawes and ſtatutes of the Realm by their
+illegall Opinions then delivered to King</hi> Richard <hi>at</hi> Notting<g ref="char:EOLhyphen"/>ham
+<hi>Caſtle,</hi> not out of <hi>conſpiracy,</hi> but for <hi>fear of death</hi> and
+corporall <hi>Torments</hi> wherewith they were menaced:
+whoſe offence he there makes tranſcendent to theirs then
+in ſix particulars, as thoſe who pleaſe may there read at
+leiſure, being over large to tranſcribe, I could here inform
+you, that the Fundamentall laws of our Nation, are the
+ſame in the Body politique of the Realm, as the Arteries,
+Nerves, Veins, are in, and to the naturall Body, the Bark
+to the tree; the Foundation to the Houſe: and there<g ref="char:EOLhyphen"/>fore
+the cutting of them aſunder, or their Subverſion,
+muſt of neceſſity, kill, deſtroy, disjoyn and ruine the
+whole Realm at once: therefore it muſt be Treaſon in the
+higheſt degree. But I ſhall onely ſubjoyn here ſome mate<g ref="char:EOLhyphen"/>riall
+Paſſages, in his <hi>Argument at Law,</hi> concerning the <hi>At<g ref="char:EOLhyphen"/>tainder
+of high Treaſon, of</hi> Thomas <hi>Earl of</hi> Strafford, <hi>before
+a Committee of both Houſes of Parliament in</hi> Weſtminſter <hi>Hall,</hi>
+April 29. 1641. ſoon after <hi>printed and publiſhed by Order of
+the Commons Houſe:</hi> wherein <hi>p.</hi> 8. he layes down this Poſi<g ref="char:EOLhyphen"/>tion;
+recited again, p. 64.</p>
+            <p>
+               <hi>That</hi> (Straffords) <hi>Endeavouring</hi> To ſubvert the Fun<g ref="char:EOLhyphen"/>damentall
+Laws and Government of <hi>England</hi> and <hi>Ireland,</hi>
+and inſtead thereof to introduce a Tyrannicall Govern<g ref="char:EOLhyphen"/>ment
+againſt Law, is Treaſon by the Common-Law.
+<hi>That Treaſons at the Common-Law, are not taken away
+by the Statutes,</hi> by 25. E. 3. 1. H. 4. c. 10. 1. Mar. c. 1. nor any
+of them.</p>
+            <p>The Authorities, Judgements, in and out of Parlia<g ref="char:EOLhyphen"/>ment
+which he cites to prove it, have been already men<g ref="char:EOLhyphen"/>tioned,
+<pb n="45" facs="tcp:118951:24"/>
+with ſome others he omitted; I ſhall therefore but
+tranſcribe his Reaſons to evince it to be <hi>Treaſon,</hi> ſuper-added
+to thoſe alledged by him againſt the <hi>Shipmony
+Judges.</hi>
+            </p>
+            <p>Page 12. <hi>It is a Warre againſt the King</hi> (Let our Mili<g ref="char:EOLhyphen"/>tary
+Officers and ſouldiers conſider it) <hi>when</hi> intended.
+<hi>The alteration of the laws or Government in any part of them.</hi>
+This is a levying Warre againſt the King (and ſo <hi>Treaſon</hi>
+within the Statute of 25 E 3.)</p>
+            <p>1. Becauſe the King doth maintain and protect the laws in e<g ref="char:EOLhyphen"/>very
+part of them.</p>
+            <p>2. Becauſe they are the Kings laws. He is the Fountain from
+whence in their ſeverall Channells, they are derived to the
+Subject. Whence all our indictments run thus: Treſpaſſes laid to be
+done, Contra pacem Domini Regis, <hi>&amp;c.</hi> againſt the Kings Peace
+for exorbitant offences; though not intended againſt the Kings
+Perſon; againſt the King his Crown and dignity.</p>
+            <q rend="inline margQuotes">'<p>Page 64. In this I ſhall not labour at all to prove,
+That the endevouring by words, Counſels and actions,
+<hi>To ſubvert the Fundamentall Laws and Government of the
+Kingdome is Treaſon at the Common Law.</hi> If there be any
+Common Law Treaſons at all left, NOTHING TREA<g ref="char:EOLhyphen"/>SON
+IF THIS NOT, TO MAKE A KINGDGME
+NO KINGDOME. Take the Polity and Government
+away, <hi>England's</hi> but a piece of earth, wherein ſo many
+men have their commerce and abode, without rank or
+diſtinction of men, without property in any thing fur<g ref="char:EOLhyphen"/>ther
+than in poſſeſſion; no Law to puniſh the murdering,
+or robbing one another.</p>'</q>
+            <q rend="inline margQuotes">'<p>Page 70, 71, 72. <hi>The horridneſſe of the offence in endea<g ref="char:EOLhyphen"/>vouring
+to overthrow the Lawes and preſent Government,</hi> hath
+been fully opened before. The <hi>Parliament</hi> is the repre<g ref="char:EOLhyphen"/>ſentation
+of the whole Kingdome, wherein <hi>The King as
+Head, your Lordſhips as the more Noble,</hi> and <hi>the Commons,
+the other Members are knit together in one body Politick.</hi> This
+diſſolved, the Arteries and Ligaments that hold the body
+together, THE LAWES. He that takes away the Laws,
+takes not away the Allegiance of one Subject onely, but
+<pb n="46" facs="tcp:118951:25"/>
+of the whole Kingdome. It was made <hi>Treaſon</hi> by the Sta<g ref="char:EOLhyphen"/>tute
+of 13 <hi>Eliz.</hi> for her time to affirm, <hi>That the Lawes
+of the Realme doe not bind the deſcent of the Crown.</hi> No
+Law, no deſcent at all, NO LAWES NO PEERAGE,
+no ranks nor degrees of men, the ſame condition to all.
+Its <hi>Treaſon</hi> to kill a Judge upon the Bench; this kills not
+<hi>Judicem ſed J<g ref="char:V">Ʋ</g>DICI<g ref="char:V">Ʋ</g>M.</hi> There be twelve men, but no
+Law; never a Judge amongſt them. <hi>Its felony</hi> to embe<g ref="char:EOLhyphen"/>zel
+any one of the Judiciall Records of the Kingdome:
+<hi>THIS AT ONCE SWEEPS THEM ALL AWAY and
+FROM ALL.</hi> Its <hi>Treaſon</hi> to countefeit a twenty ſhil<g ref="char:EOLhyphen"/>ling
+piece: here's a counter feiting of the Law: we can
+call neither the counterfeit nor the true coin our own.
+Its <hi>Treaſon</hi> to counterfeit the Great Seal for an Acre of
+Land: No property is left hereby to any Land at all,
+<hi>Nothing Treaſon now, againſt King or Kingdome; No Law to
+puniſh it.</hi>
+               </p>
+               <p>My Lords, if the Queſtion were asked in <hi>Weſtminſter
+Hall,</hi> whether this were a Crime puniſhable in <hi>Star cham<g ref="char:EOLhyphen"/>ber,</hi>
+or in THE KINGS BENCH, by Fine or impriſon<g ref="char:EOLhyphen"/>ment?
+They would ſay, <hi>It were higher.</hi> If whether Fe<g ref="char:EOLhyphen"/>lony?
+They would ſay, That is an offence onely againſt
+the life or goods of ſome one, or few perſons. It would
+I believe be anſwered by the <hi>Judges,</hi> as it was by the
+Chief Juſtice <hi>Thirning,</hi> in 21 R<g ref="char:punc">▪</g> 2. <hi>That though he could not
+judge the Caſe TREASON there before him, yet if he were a
+Peer in Parliament; HE WO<g ref="char:V">Ʋ</g>LD SO ADJ<g ref="char:V">Ʋ</g>DGE IT.</hi>
+(And ſo the Peeres did here in <hi>Straffords,</hi> and not long
+after in <hi>Canterburies</hi> Caſe, who both loſt their Heads on
+Tower Hill.)</p>'</q>
+            <p>I have tranſcribed theſe Paſſages of Mr. <hi>Oliver St. John</hi>
+at large for five Reaſons.</p>
+            <p>1. Becauſe they were the voice and ſenſe of the whole
+Houſe of Commons by his mouth; who afterwards own<g ref="char:EOLhyphen"/>ed
+and ratified them by their ſpeciall Order for their pub<g ref="char:EOLhyphen"/>lication
+in print, for information and ſatisfaction of the
+whole Nation, and terrour of all others who ſhould af<g ref="char:EOLhyphen"/>ter
+that, either ſecretly or openly, by fraud or force, di<g ref="char:EOLhyphen"/>rectly
+<pb n="47" facs="tcp:118951:25"/>
+or indirectly, attempt the ſubverſion of all, or any
+of our Fundamentall Laws, or Liberties, or the altera<g ref="char:EOLhyphen"/>tion
+of our Fandamentall Government, or ſetting up
+any arbitrary or Tyrannicall power, Taxes, Impoſiti<g ref="char:EOLhyphen"/>ons,
+or new kinds of arbitrary Judicato<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies, and impri<g ref="char:EOLhyphen"/>ſonments
+againſt theſe our Laws and Liberties.</p>
+            <p>2. To mind an inform all ſuch who have not only equal<g ref="char:EOLhyphen"/>led,
+but tranſcended <hi>Strafford</hi> and <hi>Canterbury</hi> in theſe their
+<hi>High Treaſons,</hi> even ſince theſe <hi>Publications, Speeches,</hi> and
+their <hi>exemplary executions,</hi> of the hainouſneſſe, in excuſa<g ref="char:EOLhyphen"/>bleneſſe,
+wilfulneſſe, maliciouſneſſe, Capitalneſſe of
+their crimes; which not onely the whole Parliament in
+generality, but many of themſelves in particular, ſo ſe<g ref="char:EOLhyphen"/>verely
+proſecuted, condemned, and inexorably puniſhed
+of late years in them: that ſo they may bewail, repent
+of, and reform them with all ſpeed and diligence, as much
+as in them lies. And withall, I ſhall exhort them ſeriouſly
+to conſider that Goſpel terrifying Paſſage, Rom. 2. 1, 2,
+3. <hi>Therefore thou art inexcuſable O man, whoſoever thou art
+that judgeſt; for wherein thou judgeſt another, tbou</hi> CON<g ref="char:EOLhyphen"/>DEMNEST
+THY SELF; FOR THOU THAT JUD<g ref="char:EOLhyphen"/>GEST,
+DOEST THE SAME THINGS. <hi>But we are ſure
+that the judgement of God is according to truth, againſt them
+which commit ſuch things. And thinkeſt thou this, O man, that
+judgeſt them which do ſuch things, and doeſt the ſame, that thou
+ſhalt eſcape the Judgement of God.</hi>
+            </p>
+            <p>3. To excite all Lawyers, eſpecially ſuch who of late
+times have taken upon them the ſtile and power of Jud<g ref="char:EOLhyphen"/>ges,
+to examine their conſciences, actions, how far all
+or any of them have been guilty of theſe crimes and Trea<g ref="char:EOLhyphen"/>ſons,
+ſo highly aggravated, and exemplarily puniſh<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d
+of former and later times, in corrupt, cowardly time<g ref="char:EOLhyphen"/>ſerving,
+degenerate Lawyers and <hi>Judaſſes,</hi> rather than
+<hi>Judges,</hi> to the diſgrace of their Profeſſion, and prejudice
+of the Fundamentall Lawes, Liberties, Rights, Priviled<g ref="char:EOLhyphen"/>ges
+of our Nation, Peers, Parliaments, ſubverſion of the
+Fundamentall Government of this famous Kingdome,
+whereof they are Members.</p>
+            <p>
+               <pb n="48" facs="tcp:118951:26"/>
+4. To inſtruct thoſe <hi>Jeſuited Anabaptiſts, Levellers</hi> and
+their Factors, (eſpecially <hi>John Canne,</hi> and the reſt of the
+Compilers, Publiſhers, Abetters of the Pamphlet inti<g ref="char:EOLhyphen"/>tuled,
+<hi>Lieutenant Colonel Lilburn, tried and caſt,</hi> and other
+forementioned publications:) who profeſſedly ſet them<g ref="char:EOLhyphen"/>ſelves
+by words, writing, Counſels and overt Acts to ſub<g ref="char:EOLhyphen"/>vert
+both our old Fundamentall (and all other Laws) Li<g ref="char:EOLhyphen"/>berties,
+Cuſtomes, Parliaments, and Government, what
+tranſcendent <hi>Malefactor<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, traytors and Enemies they are to the
+publick,</hi> and what <hi>Capitall puniſhments,</hi> they may thereby
+incurre, as well as demerit, ſhould they be legally pro<g ref="char:EOLhyphen"/>ſecuted
+for the ſame; and thereupon to adviſe them
+timely to repent of, and deſiſt from ſuch high <hi>Treaſonable
+Attempts.</hi>
+            </p>
+            <p>5. To clear both my ſelf and this my ſeaſonable <hi>De<g ref="char:EOLhyphen"/>fence
+of our Fundamentall Lawes, Liberties, Government,</hi> from
+the leaſt ſuſpition or ſh<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dow of <hi>Faction, Sedition, Treaſon,</hi>
+and <hi>Enmi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> to the publick peace, weal, ſettlement of
+the Nation, which thoſe, (and thoſe onely) who are
+moſt Factious and ſeditious, and the greateſt Enemies,
+Traytors to the publick tranquility, weal and eſtabliſh<g ref="char:EOLhyphen"/>ment
+of our Kingdome, (as the premiſes evidence) will be
+ready maliciouſly to aſperſe both me and it, with, as they
+have done ſome other of my writings of this nature;
+with all which, they muſt firſt brand Mr. <hi>St John</hi> Mr. <hi>Pym,</hi>
+the whole <hi>Houſe of Commons,</hi> the laſt two, with all other
+Parliamens forecited, ere they can accuſe, traduce, or
+cenſure me, who do but barely relate, apply their words
+and judgements without malice or partiality, for the
+whole Kingdomes benefit and ſecurity.</p>
+            <p>To theſe punctuall full Jury of Records and Parlia<g ref="char:EOLhyphen"/>mentary
+Authorities in point, I could accumulate Sir
+<hi>Edward Cook</hi> his 3. Inſtitutes, p. 9. printed and authoriſed
+by the Houſe of Commons ſpeciall Order, the laſt Parli<g ref="char:EOLhyphen"/>ament:
+The ſeverall Speeches of Mr. <hi>Hide,</hi> Mr. <hi>Walker,</hi>
+Mr. <hi>Pierpoint</hi> and Mr. <hi>Hollis, July</hi> 6. 1641. at the Lords
+Bar in Parliament, by order of the Commons Houſe, at
+the <hi>Impeachment of the Shipmony Judges of High Treaſon,</hi>
+               <pb n="49" facs="tcp:118951:26"/>
+printed in <hi>Diurnall Occurrences, and ſpeeches in Parliament,</hi>
+London 1641. p. 237. to 264. Mr. <hi>Samuel Browns</hi> Argu<g ref="char:EOLhyphen"/>ment
+at Law before the Lords and Commons at <hi>Canterbu<g ref="char:EOLhyphen"/>ries</hi>
+Attainder; all manifeſting, their endevouring to
+ſubvert the Fundamentall Laws and government of the
+Nation to be <hi>HIGH TREASON;</hi> with ſundry other
+printed Authorities to prove, <hi>That we have fundamentall
+Laws, Liberties, Rights, and a fundamentall Government
+likewiſe, which ought not to be innovated, violated, or ſubvert<g ref="char:EOLhyphen"/>ed
+upon any pretences whatſoever, by any power or prevailing Fa<g ref="char:EOLhyphen"/>ction.</hi>
+But to avoid prolixity, (the double <hi>Jury</hi> of irrefra<g ref="char:EOLhyphen"/>gable
+and punctuall Authorities already produced, being
+ſufficient to ſatisfie the moſt obſtinate Oppoſites formerly
+contradicting it) I ſhall onely adde three ſwaying Au<g ref="char:EOLhyphen"/>thorities
+more, wherewith I ſhall conclude this point.</p>
+            <p>
+               <hi>The firſt is a very late one, in a Treatiſe intituled,</hi> A
+true State of the Common wealth of <hi>England, Scotland</hi> and
+<hi>Ireland,</hi> and the Dominions thereunto belonging, in Reference
+to the late eſtabliſhed Government, by a Lord Protector and a
+<hi>PARLIAMENT. It being the Judgement of DIVERS
+PERSONS,</hi> who throughout theſe late troubles, have <hi>appro<g ref="char:EOLhyphen"/>ved</hi>
+themſelves faithfull to the Cauſe and intereſt of God, and
+their <hi>COUNTRY:</hi> preſented to the Publick, for the ſatisfacti<g ref="char:EOLhyphen"/>on
+of others. <hi>Printed at</hi> London 1654. <hi>who relating the
+miſcarriages of the laſt</hi> Aſſembly at Weſtminſter, <hi>uſe theſe
+expreſſions of them, p,</hi> 13, 14, 16, 17, 21, 22. But on the
+contrary, it ſo fell out in a ſhort time, that there appeared many
+in this Aſſembly of very contrary Principles to the intereſt afore<g ref="char:EOLhyphen"/>ſaid,
+which led them violently on to attempt and promote many
+things, the conſequence whereof would have been: <hi>A Subvert<g ref="char:EOLhyphen"/>ing
+of the fundamentall Laws of the Land, the Deſtru<g ref="char:EOLhyphen"/>ction
+of Property, and an utter extinguiſhment of the
+Goſpel.</hi> In truth their Principles led them <hi>TO A PUL<g ref="char:EOLhyphen"/>LING
+DOWN ALL? AND ESTABLISHING NO<g ref="char:EOLhyphen"/>THING.</hi>
+So that inſtead of the expected ſettlement, they were
+running <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut into <hi>FURTHER ANARCHY and CONFU<g ref="char:EOLhyphen"/>SION.</hi>
+As to the Laws and Civil Rights of the Nation, nothing
+would ſerve them, but <hi>A TOTALL ERADICATION OF
+<pb n="50" facs="tcp:118951:27"/>
+THE OLD, and INTRODUCTION OF A NEW: and
+ſo the</hi> Good, Old Laws of <hi>England,</hi> (the Guardians of our
+Lives and Fortunes) <hi>eſtabliſhed with prudence, and confir<g ref="char:EOLhyphen"/>med
+by the experience of many Ages and Generations:</hi>
+(The Preſervation whereof, was a principall Ground of our late
+Quarrel with the King) <hi>having been once aboliſhed, what
+could we have expected afterward,</hi> but <hi>an inthroning
+of Arbitrary Power in the Seat of Judicature, and an
+expoſing of our Lives, our Eſtates, our Liberties,</hi> and <hi>all
+that is dear unto us, as a Sacrifice to the boundleſſe Ap<g ref="char:EOLhyphen"/>petite
+of Meer Will and Power,</hi> &amp;c.</p>
+            <p>
+               <hi>Things being at this Paſſe, and the Houſe (through theſe pro<g ref="char:EOLhyphen"/>ceedings)
+perfectly disjointed, it was in vain to look for a ſettle<g ref="char:EOLhyphen"/>ment
+of this Nation from them, thus conſtituted on the con<g ref="char:EOLhyphen"/>trary,
+nothing elſe could be expected,</hi> But that the Common<g ref="char:EOLhyphen"/>wealth
+ſhould ſink under their Hands, <hi>and the great cauſe
+hitherto ſo happily upheld and maintained, to be for ever loſt,
+through their prepoſterous management of theſe affairs, where<g ref="char:EOLhyphen"/>with
+they had been intruſted.</hi> Whereupon they juſtifie their
+diſſolution, and turning them forcibly out of doores
+by the <hi>Souldiers,</hi> with ſhame and infamy; to prevent that
+deſtruction which thereby was coming on <hi>THE WHOLE
+LAND,</hi> but this New <hi>Powder Treaſon</hi> Plot, ſet on foot by
+the <hi>Jeſuites</hi> and <hi>Anabaptiſts,</hi> to deſtroy our Laws, Liber<g ref="char:EOLhyphen"/>ties,
+properties, Miniſters, and Religion it ſelf, at one
+blow, and that in the very <hi>Parliament Houſe,</hi> where they
+had been conſtantly defended, vindicated, preſerved, eſta<g ref="char:EOLhyphen"/>bliſhed
+in all former ages <hi>by all true Engliſh Parliaments.</hi>
+            </p>
+            <p>
+               <hi>The ſecond is,</hi>
+               <note n="a" place="margin">See my Speech in Parliament. p. 100. to 108.</note> 
+               <hi>The</hi> Votes of the Houſe of Commons,
+<hi>concerning a Paper preſented to them, entituled</hi> An a<g ref="char:EOLhyphen"/>greement
+of the people for a firm and preſent peace, upon grounds
+of Common Right 9. <hi>November,</hi> 1647. viz.</p>
+            <p>
+               <hi>Reſolved upon the Queſtion, That the matters contained in
+theſe Papers,</hi> Are deſtructive to the being of Parliaments,
+and to the Fundamentall Government of this Kingdome,</p>
+            <p>Reſolved, &amp;c. That a Letter be ſent to the Generall and
+thoſe Papers incloſed, together with the Vote of this Houſe up<g ref="char:EOLhyphen"/>on
+them; And that he be deſired to examine the proceedings of
+<pb n="51" facs="tcp:118951:27"/>
+this buſineſſe in the Army (<hi>where it was firſt coined</hi>) and re<g ref="char:EOLhyphen"/>turn
+an Accompt hereof to this Houſe.</p>
+            <p>Theſe Votes were ſeconded ſoon after with theſe en<g ref="char:EOLhyphen"/>ſuing
+votes, entred in the <hi>Commons Journall,</hi> and printed
+by their <hi>ſpecial Order,</hi> 23. November, 1647.</p>
+            <p>A <hi>Petition</hi> directed to the Supream Authority of
+<hi>England,</hi> the <hi>Commons in Parliament</hi> aſſembled, <hi>The hum<g ref="char:EOLhyphen"/>ble
+petition of many Free born people of</hi> England, <hi>&amp;c.</hi> was
+read the firſt and ſecond time.</p>
+            <p>
+               <hi>Reſolved upon the Queſtion,</hi> that this petition is, <hi>A ſediti<g ref="char:EOLhyphen"/>tious</hi>
+and <hi>contemptuous avowing</hi> and proſecution of a former
+petition and paper annexed, ſtiled, an agreement of the
+people formerly <hi>adjudged by this Houſe, to be Deſtructive to
+the being of Parliaments</hi> and <hi>Fundamentall Government of the
+Kingdome.</hi>
+            </p>
+            <p>
+               <hi>Reſolved,</hi> &amp;c. <hi>That</hi> Thomas Prince <hi>Cheeſemonger, and</hi>
+Samuel Chidley, <hi>be forthwith committed</hi> priſoners <hi>to the
+Priſon of the</hi> Gatehouſe, <hi>there to remain priſoners during
+the pleaſure of</hi> this Houſe, <hi>for</hi> a Seditious avowing and proſe<g ref="char:EOLhyphen"/>cution
+<hi>of a former</hi> Petition, <hi>and Paper annexed, ſtiled,</hi> An
+Agreement of the People, <hi>formerly</hi> Ajudged by this Houſe to be
+deſtructive to the being of Parliamen's <hi>and</hi> fundamentall Go<g ref="char:EOLhyphen"/>vernment
+of the Kingdome.</p>
+            <p>Reſolved <hi>&amp;c.</hi> That <hi>Jeremy Jues, Thomas Taylor</hi> and
+<hi>William Larnar,</hi> be forthwith committed to the Priſon of
+<hi>Newgate,</hi> there to remain <hi>Priſoners,</hi> during the pleaſure
+of this <hi>Houſe,</hi> for a <hi>ſeditious and contemptuous avowing</hi> and
+<hi>proſecution</hi> of a former Petition and Paper annexed, ſtiled,
+<hi>An Agrement of the people, formerly adjudged by this Houſe,</hi> to
+be deſtructive to the being of Parliaments <hi>and</hi> Fundamen<g ref="char:EOLhyphen"/>tall
+Government of this Kingdome.</p>
+            <p>Reſolved, <hi>&amp;c.</hi> That a Letter be prepared and ſent to
+the Generall; taking notice of his proceeding in the exe<g ref="char:EOLhyphen"/>cution
+(according to the Rules of <hi>Warre</hi>) of a <hi>muti<g ref="char:EOLhyphen"/>nous
+perſon</hi> (avowing and proſecuting this agreement in
+the Army contrary to theſe Votes) at the Rendezvouz
+near <hi>Ware;</hi> and to <hi>give him thanks for it:</hi> and to deſire
+him to proſecute <hi>that Buſineſſe to the bottome;</hi> and to <hi>bring</hi>
+               <pb n="52" facs="tcp:118951:28"/>
+Such guilty perſons as he ſhall think fit, to condigne
+and exemplary Puniſhment.</p>
+            <p>
+               <hi>Reſolved,</hi> &amp;c. That the Votes upon the Petition and Agree<g ref="char:EOLhyphen"/>ment
+annexed, and likewiſe the Votes upon this Petition be forth<g ref="char:EOLhyphen"/>with
+printed and publiſhed.</p>
+            <p>After which by a <hi>Speciall Ordinance of both Houſes of Par<g ref="char:EOLhyphen"/>liament,</hi>
+17 December, 1647. No perſon whatſoever,
+who had contrived, plotted, proſecuted or entred into
+that Engagement intituled The agreement of the peo<g ref="char:EOLhyphen"/>ple
+declared <hi>To be deſtructive to the being of Parliaments,</hi> and
+<hi>Fundamentall Government of the Kingdome,</hi> for one whole
+year, was to be elected, choſen or put into the office or
+Place of Lord <hi>Mayor or Alderman, Sheriffe, Deputy of a
+Ward,</hi> or <hi>Common-Councel man of the City of</hi> London; <hi>or
+to have a voice in the Election of any ſuch Officer.</hi>
+            </p>
+            <p>All theſe particulars, with the Capitall Proceedings
+againſt <hi>White</hi> and others who ſomented this <hi>Agreement in
+the Army,</hi> abundantly evidence the veriey of my foreſaid
+<hi>Propoſition,</hi> and the extraordinary guilt of thoſe Mem<g ref="char:EOLhyphen"/>bers
+and Souldiers, who contrary to their <hi>own Votes, Or<g ref="char:EOLhyphen"/>dinances,
+Proceedings and Cenſures of others,</hi> have ſince proſe<g ref="char:EOLhyphen"/>cuted
+this, the like, or far worſe <hi>Agreement,</hi> to the deſtru<g ref="char:EOLhyphen"/>ction
+of our ancient Parliaments and their Priviledges,
+and the fundamentall Government, Laws and Liberty of
+our Nation, which I wiſh they would now ſadly lay to
+heart.</p>
+            <p>The third is the memorable Statutes of 3. <hi>Jacobi</hi> ch. 1,
+2, 4, and 5. Which relating the old <hi>Gunpowder Treaſon
+of the Jeſuites and Papiſts, and their infernal, inhumane, bar<g ref="char:EOLhyphen"/>barous,
+deteſtable plot, to blow up the King, Queen, Prince, Lords,
+Commons, and whole Houſe of Peers with Gunpowder, when
+they ſhould have been aſſembled in Parliament, in the upper
+Houſe of Parliament, upon the fifth of</hi> November, <hi>in the year
+of our Lord</hi> 1605, do aggravate the hainouſneſſe and tran<g ref="char:EOLhyphen"/>ſcendency
+thereof by this circumſtance, <hi>That it was (as
+ſome of the principall Conſpirators thereof confeſſed) purpoſely
+deviſed and concluded to be done in the ſaid Houſe,</hi> That where
+ſundry neceſſary <hi>and</hi> Religious Laws for Preſervation of
+<pb n="53" facs="tcp:118951:28"/>
+the Church <hi>and</hi> State were made, (<hi>which they falſely and
+ſlanderouſly term, Cruel Laws enacted againſt them and their Re<g ref="char:EOLhyphen"/>ligion</hi>)
+Both Place and Perſons ſhould be all deſtroyed <hi>and</hi>
+blown up at once: And by theſe dangerous conſequen<g ref="char:EOLhyphen"/>ces
+if it had not been miraculouſly prevented, but taken
+effect. That it would have turned to the utter ruine,
+overthrow and Subverſion <hi>Of the whole State and Common-Wealth
+of this flouriſhing and renowned Kingdom,</hi> and <hi>Gods true
+Religion therein eſtabliſhed by Law,</hi> and of our Laws and Go<g ref="char:EOLhyphen"/>vernment.
+For which horrid Treaſon, they <hi>were all at<g ref="char:EOLhyphen"/>tainted,
+and then executed as Traytors, and ſome of their heads,
+Quarters,</hi>
+               <note place="margin">See Speeds History, p. 1250 and Mr. John Vica<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'s Hiſtory of the Gunpow<g ref="char:EOLhyphen"/>der Treaſon, and the Ar<g ref="char:EOLhyphen"/>raignment of Traytors.</note> 
+               <hi>ſet up upon the Parliament Houſe for terrour of others.</hi>
+Even ſo let all other Traytors, Conſpirators againſt our
+Fundamental Laws, Liberties, Government, Kings, Parlia<g ref="char:EOLhyphen"/>ments,
+and Religion, treading preſumptuouſly in their
+Jeſuiticall footſteps,<note n="a" place="margin">Judges 5. 31</note> 
+               <hi>periſh O Lord, but let all them who
+cordially love,</hi> and ſtrenuouſly maintain them againſt all
+Conſpirators, Traytors, Underminers, Invaders what<g ref="char:EOLhyphen"/>ſoever,
+<hi>be as the Sunne when he goeth forth in his might: That
+the Land may have reſt,</hi> peace, Settlement again, for as ma<g ref="char:EOLhyphen"/>ny
+years at leaſt, as it had before our late innovations,
+Warres, Confuſions, <hi>by their reſtitution and eſtabliſhment.</hi>
+            </p>
+            <div n="2" type="chapter">
+               <pb n="54" facs="tcp:118951:29"/>
+               <head>CHAP. II.</head>
+               <p>
+                  <hi>HAving thus ſufficiently proved,</hi> That the Kingdome,
+and Freemen of <hi>England,</hi> have ſome ancient, hereditary
+Rights, Liberties, Franchiſes, Priviledges, Cuſtomes, properly
+called F<g ref="char:V">Ʋ</g>NDAMENTALL, as likewiſe a Fundamentall Go<g ref="char:EOLhyphen"/>vernment,
+no wayes to be altered, undermined, ſubverted, direct<g ref="char:EOLhyphen"/>ly
+or indirectly, under the guilt and pain of High Treaſon in
+thoſe who attempt it; eſpecially by Fraud, Force, or armed
+Power.</p>
+               <p>I ſhall in the ſecond place preſent you in brief Propoſi<g ref="char:EOLhyphen"/>tions,
+a <hi>Summary</hi> of the chiefeſt and moſt conſiderable of
+them, which our prudent Anceſtors in former ages, and
+our lateſt reall Parliaments, have both declared to be,
+and eagerly conteſted for, as <hi>Fundamentall</hi> and Eſſentiall
+to their very <hi>being</hi> and <hi>well being,</hi> as a <hi>Free people, Kingdome,
+Republick,</hi> unwilling to be enſlaved under any <hi>yokes</hi> of
+Tyranny or arbitrary power, that ſo the whole Nation
+may the more perſpicuouſly know and diſcern them, the
+more ſtrenuouſly contend for them, the more vigilantly
+watch againſt their violations, underminings in any
+kind, by any Powers, or Pretences whatſoever; and
+tranſmit, perpetuate them intirely to their poſterities, as
+their beſt and chiefeſt inheritance.</p>
+               <p>I ſhall compriſe the <hi>Summe</hi> and Subſtance of them all
+in theſe 9. Propoſitions; beginning with the Subjects
+Property, which hath been more frequently, univerſally
+invaded, aſſaulted, undermined by our Kings, and their
+evill inſtruments; and thereupon more ſtrenuouſly, fre<g ref="char:EOLhyphen"/>quently
+and vigilantly maintained, retained by our No<g ref="char:EOLhyphen"/>bles,
+Parliaments and the people in all ages (till of late
+years) than any or all of the reſt put together, though
+every of them have been conſtantly defended, maintain<g ref="char:EOLhyphen"/>ed,
+when impugned, or incroached upon by our Ance<g ref="char:EOLhyphen"/>ſtors
+and our ſelves.</p>
+               <p>
+                  <pb n="55" facs="tcp:118951:29"/>
+1. That no Tax, Tallage, Aid, Subſidy, Cuſtome,
+Contribution, Loan, Impoſition, Exciſe or other Aſ<g ref="char:EOLhyphen"/>ſeſſement
+whatſoever, for Defence of the Realm by Land
+or Sea, or any other publick ordinary, or extraordinary
+occaſion, may or ought to be impoſed, or levyed upon
+all or any of the Freemen of <hi>England,</hi> by reaſon of any
+pretended or reall Danger, Neceſſity or other pretext;
+by the Kings of <hi>England,</hi> or any other Powers, but onely
+with and by their common conſent and Grant, in a free
+and lawfull Parliament duly ſummoned and elected:
+Except onely ſuch ancient, legall Ayds, as they are ſpe<g ref="char:EOLhyphen"/>cially
+obliged to render by their Tenures, Charters,
+Contracts, and the Common Law of <hi>England.</hi>
+               </p>
+               <p>2. That no Freeman of <hi>England</hi> ought to be arreſted,
+confined, impriſoned, in any private Caſtles, or remote,
+unuſuall Priſons under Souldiers or other Guardians,
+but onely in uſuall or Common Gaols, under ſworn,
+reſponſible Gaolers, in the County where he lives, or is
+apprehended, and where his Friends may freely viſit and
+relieve him with neceſſaries: And that onely for ſome juſt,
+and legall cauſe expreſſed in the Writ, Warrant, or Pro<g ref="char:EOLhyphen"/>ceſſe,
+by which he is arreſted, or impriſoned; which ought
+to be legally executed by known, legal, reſponſible
+ſworn Officers of Juſtice, not unknown military Officers,
+Troopers, or other illegall Catchpols, That no ſuch
+Freeman ought to be denied bail, Mainpriſe, or the be<g ref="char:EOLhyphen"/>nefit
+of an <hi>Habeas Corpus,</hi> or any other Legal Writ for his
+enlargement, when bailable or incumpernable by Law;
+nor to be detained priſoner for any reall or pretended
+Crime, not bailable by Law, then untill the next Gene<g ref="char:EOLhyphen"/>rall
+or Speciall Gaol-delivery, held in the County where
+he is impriſoned; where he ought to be legally tried and
+proceeded againſt, or elſe enlarged by the Juſtices, without
+deniall or delay of Right and Juſtice. And that no ſuch
+Freeman may or ought to be outlawed, exiled, condem<g ref="char:EOLhyphen"/>ned
+to any kind of corporall puniſhment, loſſe of Life or
+Member, or otherwiſe deſtroyed or paſſed upon, but
+onely by due and lawfull Proceſſe, Indictment, and the
+<pb n="56" facs="tcp:118951:30"/>
+lawfull Triall, Verdict and Judgement of his Peers, ac<g ref="char:EOLhyphen"/>cording
+to the good old Law of the Land, in ſome uſuall
+Court of Publick Juſtice: not by and in new illegall<g ref="char:punc">▪</g> Mi<g ref="char:EOLhyphen"/>litary,
+or other Arbitrary Judicatories, Committees, or
+Courts of High Juſtice, unknown to our Anceſtors.</p>
+               <p>3. That no Freeman of <hi>England,</hi> unleſſe it be by Spe<g ref="char:EOLhyphen"/>ciall
+Grant and Act of Parliament may or ought to be
+compelled, enforced, preſſed or arrayed to go forth of
+his own Countrey (much leſſe out of the Realm into
+forreign parts) againſt his will in times of Warre or
+Peace, or except he be ſpecially obliged thereto by anci<g ref="char:EOLhyphen"/>ent
+Tenures and Charters; ſave onely upon the ſudden
+coming of ſtrange enemies into the Realm, and then he
+is to array himſelf onely in ſuch ſort, as he is bound to
+do by the ancient Laws and Cuſtomes of the Kingdome
+ſtill in force.</p>
+               <p>4. That no Freeman of <hi>England,</hi> may or ought to be
+disinherited, diſſeiſed, diſpoſſeſſed or deprived of any in<g ref="char:EOLhyphen"/>heritance,
+Freehold, Liberty, Cuſtome, Franchiſe, Chattle,
+Goods whatſoever without his own Gift, Grant, or
+free Conſent, unleſſe it be by lawfull Proceſſe, Triall and
+Judgement of his Peers, or ſpecial Grant by act of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+               <p>5. That the old received Government, Lawes, Sta<g ref="char:EOLhyphen"/>tutes,
+Cuſtomes, Priviledges, Courts of Juſtice, legal
+Proceſſe of the Kingdome and Crown ought not to be
+altered, repealed, ſuppreſſed, nor any new form of Go<g ref="char:EOLhyphen"/>vernment,
+Law, Statute, Ordinance Court of Judica<g ref="char:EOLhyphen"/>ture,
+Writs, or legal Proceedings inſtituted or impoſed
+on all or any of the Free-men of <hi>England,</hi> by any Per<g ref="char:EOLhyphen"/>ſon
+or Perſons, but onely in and by the Kingdomes free
+and full conſent in a lawfull Parliament, wherein the
+Legiſlative Power ſolely reſides.</p>
+               <p>6. That Parliaments ought to be duly ſummoned, and
+held for the good and ſafety of the Kingdome every year,
+or every three years at leaſt, or ſo often as there is juſt
+occaſion. That the Election of all Knights, Citizens and
+Burgeſſes, to ſit and ſerve in Parliament (and ſo of all o<g ref="char:EOLhyphen"/>other
+<pb n="57" facs="tcp:118951:30"/>
+Elective Officers) ought to be free. That all Mem<g ref="char:EOLhyphen"/>bers
+of Parliament hereditary or Elective, ought to be
+preſent, and there freely to ſpeak and vote according to
+their judgements and Conſciences, without any over<g ref="char:EOLhyphen"/>awing
+Guards to terrifie them; and none to be forced or
+ſecluded thence. And that all Parliaments not thus duly
+ſummoned, elected whilſt held, but unduly packed, and
+all Acts of Parliament fraudulently and forcibly pro<g ref="char:EOLhyphen"/>cured
+by indirect means, ought to be nulled, repealed,
+as void, and of dangerous preſident.</p>
+               <p>7. That neither the Kings nor any Subjects of the
+Kingdome of <hi>England,</hi> may or ought to be ſummoned
+before any Forreign Powers or Jurisdictions whatſoever,
+out of the Realm, or within the ſame, for any manner
+of Right, Inheritance, Thing belonging to them, or
+Offence done by them within the Realm.</p>
+               <p>8. That all Subjects of the Realm are obliged by Alle<g ref="char:EOLhyphen"/>giance
+and duty to defend their Lawfull Kings, Perſons,
+Crowns, the Laws, Rights and Priviledges of the Realm,
+and of Parliament againſt all Uſurpers, Traytors, vio<g ref="char:EOLhyphen"/>lence,
+and Conſpiracies. And that no Subject of this
+Realm, who according to his duty, and Allegiance ſhall
+ſerve his King in his Warres, for the juſt defence of him
+and the Land, againſt Forreign enemies or Rebels, ſhall
+loſe or forfeit any thing for doing his true duty, ſervice,
+and Allegiance to him therein; but utterly diſcharged
+of all vexation, trouble, or loſſe.</p>
+               <p>9. That no publick Warre by Land or Sea ought to
+be made or levied with or againſt any Forreign Nation,
+or Publick Truce or League entred into with Forreign
+Realms or States, to bind the Nation, without their
+Common advice and conſent in Parliament.</p>
+               <p>10. That the ancient, Honours, Manors, Lands, Rents,
+Revenues, Inheritances, Right, and perquiſites of the
+Crown of <hi>England,</hi> originally ſettled thereon for the
+Eaſe &amp; Exemption of the people from all kind of Taxes,
+payments whatſoever (unleſſe in caſes of extraordi<g ref="char:EOLhyphen"/>nary
+neceſſity) and for defraying all the conſtant, ordi<g ref="char:EOLhyphen"/>nary
+<pb n="58" facs="tcp:118951:31"/>
+expences of the Kingdome, (as the expences of the
+Kings houſhold, Court, Officers, Judges, Embaſſadors,
+Gariſons, Navy and the like) ought not to be ſold, ali<g ref="char:EOLhyphen"/>enated,
+given away or granted from it, to the prejudice
+of the Crown and burdening of the people. And that all
+Sales, Alienations, Gifts, or Grants thereof, to the empair<g ref="char:EOLhyphen"/>ing
+of the publick Revenue, or prejudice of the Crown
+and people, are void in Law, and ought to be reſumed, and
+repealed, by our Parliaments and Kings, as they have
+frequently been in all former ages.</p>
+               <p>For the Readers fuller ſatisfaction in each of theſe
+propoſitions (ſome of which I muſt ſhew here but briefly,
+touch for brevity ſake, having elſewhere fully debated
+them in print) I ſhall ſpecially recommend unto him the
+peruſall of ſuch Tractates, and Arguments formerly
+publiſhed, wherein each of them hath been fully diſcuſ<g ref="char:EOLhyphen"/>ſed,
+which he may peruſe at his beſt leaſure.</p>
+               <p>The firſt of theſe Fundamentalls (which I <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntend prin<g ref="char:EOLhyphen"/>cipally
+to infiſt on) is fully aſſerted, debated, confirmed
+by 13. H. 4. f. 14. By <hi>Forteſcue</hi> Lord Chief Juſtice, and
+Chancellour of <hi>England, de laudibus Legum Angliae,</hi> dedica<g ref="char:EOLhyphen"/>ted
+by him to King <hi>Henry</hi> the 6. f. 25. c. 36. f. 84. By a <hi>learn<g ref="char:EOLhyphen"/>ed
+and neceſſary Argument againſt impoſitions in Parliament,</hi> of
+7. <hi>Jacobi:</hi> by a late <hi>Reverend Judge,</hi> printed at <hi>London</hi> 1641.
+By Mr. <hi>William Hakewell, in his Liberty of the Subject againſt
+Impoſitions,</hi> maintained in an <hi>Argument</hi> in the <hi>Parliament</hi>
+of 7. <hi>Jacobi:</hi> printed at <hi>London</hi> 1641. By <hi>Judge Crooks, and
+Judge Huttons Arguments</hi> concerning <hi>Shipmony</hi> both print<g ref="char:EOLhyphen"/>ed
+at <hi>London</hi> 1641. By the <hi>Caſe of Shipmony</hi> briefly <hi>diſcuſſed
+London,</hi> 1640. by Mr. <hi>St. Johns Argument, and Speech againſt
+Shipmony,</hi> printed at <hi>London,</hi> 1641. By Sir <hi>Edward Cook</hi> in
+his 1. Inſtitutes, p. 46. and 57. to 64. and 528. to 537. By
+the 1. and 2. <hi>Remonſtrance of the Lords and Commons in Par<g ref="char:EOLhyphen"/>liament,
+againſt the Commiſſion of Array.</hi> Exact Collection
+p. 386. to 398. and 850. to 890. and by my own <hi>Humble
+Remonſtrance againſt Shipmony,</hi> London, 1643. <hi>The fourth
+part of the Soveraign power of Parliaments and Kingdomes,</hi> p. 14.
+to 26. and my Legall Vindications of the Liberties of
+<pb n="59" facs="tcp:118951:31"/>
+                  <hi>England</hi> againſt Illegall Taxes, <hi>&amp;c. London</hi> 1649. and by
+the Records and Statutes cited in the enſuing Chapter, re<g ref="char:EOLhyphen"/>ferring
+for the moſt part to the firſt Propoſition.</p>
+               <p>
+                  <hi>The ſecond, third, and fourth of them are largely de<g ref="char:EOLhyphen"/>bated
+and confirmed by a</hi> Conference deſired by the Lords, and
+had by a Committee of both Houſes, concerning the Rights and
+Priviledges of the Subject, 3. Aprilis, 4. Caroli <hi>printed at</hi>
+London 1642. <hi>By Sir</hi> Edward Cook <hi>in his</hi> Inſtitutes <hi>on</hi> Magna
+Charta. <hi>c. 29. p. 45. to 57. By the 1. and</hi> 2. Remonſtrance of
+the Lords and Commons againſt the Commiſſion of Array, <hi>Ex<g ref="char:EOLhyphen"/>act
+Collection p.</hi> 386. &amp;c. 850. <hi>to 890. By</hi> Judge Crooks,
+and Judge Huttons Arguments againſt Shipmony: <hi>By Sir</hi> Ro<g ref="char:EOLhyphen"/>bert
+Cotton <hi>his</hi> Poſthuma <hi>p. 222. to 269. By my</hi> Breviate of
+the Prelates encroachments on the Kings Prerogative, and Sub<g ref="char:EOLhyphen"/>jects
+Liberties. <hi>p.</hi> 138. &amp;c. My new diſcovery of the Prelates ty<g ref="char:EOLhyphen"/>ranny,
+<hi>p. 137. to 183. and ſome of the enſuing Statutes,
+and Records.</hi>
+               </p>
+               <p>
+                  <hi>The fifth and ſixth of them are fully cleared and vindi<g ref="char:EOLhyphen"/>cated
+in and by the Prologues of all our Councils, Sta<g ref="char:EOLhyphen"/>tutes,
+Laws, before and ſince the Conqueſt. By Sir</hi> Edward
+Cooks 4. <hi>Inſtitutes. ch. 1. Mr.</hi> Cromptons <hi>Jurisdiction of
+Courts. Title,</hi> High Court of Parliament: <hi>My</hi> Soveraign
+power of Parliaments and Kingdomes, <hi>p. 1, 2, 3, 4. My</hi> Legal
+Vindication againſt illegal Taxes, <hi>and</hi> pretended Acts of Parlia<g ref="char:EOLhyphen"/>ment,
+London 1649<g ref="char:punc">▪</g> Prynne the Member, reconciled to Prynne
+the Barreſter, <hi>printed the ſame year. My</hi> Hiſtoricall Colle<g ref="char:EOLhyphen"/>ction
+of the ancient great Councils of the Parliaments of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+London 1649. <hi>My</hi> Truth triumphing over Falſhood, Anti<g ref="char:EOLhyphen"/>quity
+over Novelty. London 1645. <hi>and ſome of the Records
+hereafter tranſcribed. In this I ſhall be more ſparing, be<g ref="char:EOLhyphen"/>cauſe
+ſo fully confirmed in theſe and other Treatiſes.</hi>
+               </p>
+               <p>The ſeventh is ratified by Sir <hi>Edward Cooks</hi> 1. Inſtitutes,
+p. 97, 98. 4. Inſtitutes p. 89. and 5. Report <hi>Cawdries</hi> Caſe
+of the Kings Eccleſiaſticall Lawes: and <hi>Raſtals</hi> Abridge<g ref="char:EOLhyphen"/>ment
+of Statutes. Tit. <hi>Proviſors, Praemunire</hi> and <hi>Rome,</hi>
+11. H. 7. c. 1. and other Records and Statutes in the enſu<g ref="char:EOLhyphen"/>ing
+Chapter.</p>
+               <p>The eighth and ninth are fully debated in my <hi>Sove<g ref="char:EOLhyphen"/>raign
+<pb n="60" facs="tcp:118951:32"/>
+Power of Parliaments and Kingdomes,</hi> Part. 2. p. 3. to.
+34. Part fourth, p. 162. to 170. and touched in Sir <hi>Robert
+Cottons Poſthuma</hi> p. 174. 179.</p>
+               <p>How all and every of theſe Fundamentall Liberties,
+Rights, Franchiſes, Lawes, have been unparalelledly
+violated, ſubverted, in all and every particular of late
+years beyond all Preſidents in the worſt of former ages,
+even by their greateſt pretended <hi>Propugners;</hi> their own
+printed <hi>Edicts, Inſtruments, Ordinances, Papers,</hi> together
+with their illegall oppreſſions, Taxes, Exciſes, Impoſts,
+Rapines, violences, Proceedings of all kinds, (whereof
+I ſhall give a brief accompt in its due place) will ſuffici<g ref="char:EOLhyphen"/>ently
+evidence, if compared with the premiſed <hi>propoſiti<g ref="char:EOLhyphen"/>ons.</hi>
+Which abundantly confirm the truth of our <hi>Saviours</hi>
+words, <hi>John</hi> 10. 1. 10. and this rule of <hi>Johannis Angelius,
+Wenderhagen: Politicae Synopticae. lib. 3. c. 9. ſect. 11. p.</hi> 310.
+<hi>Hinc Regulae loco notandum,</hi> Quod omne Regnum Vi Ar<g ref="char:EOLhyphen"/>mata
+acquiſitum in Effectu Subditis Semper in durioris
+Servitutis conditiones arripiat, <hi>licet à principio</hi> Ducedi<g ref="char:EOLhyphen"/>nem
+prurientibus ſpirare videatur. <hi>Ideo cunctis hoc caven<g ref="char:EOLhyphen"/>dum,</hi>
+Nè temerè ſe duci patiantur.</p>
+               <pb facs="tcp:118951:32"/>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
